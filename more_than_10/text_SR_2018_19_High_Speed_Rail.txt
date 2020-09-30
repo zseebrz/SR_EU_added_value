@@ -1,0 +1,548 @@
+
+Special report No 19/2018 
+(pursuant to Article 287(4), second subparagraph, TFEU)
+
+
+A European high-speed rail network: 
+not a reality but an ineffective patchwork
+
+
+together with the Commission’s replies
+
+
+	CONTENTS
+Paragraph
+Abbreviations and glossary
+Executive summary	I - XI
+Introduction	1 - 13
+High-speed rail in Europe	1 - 2
+The EU’s high-speed rail network is growing in size and in rate of utilisation	3 - 4
+EU policies for high-speed rail	5 - 9
+Transport policy	5 - 7
+Cohesion policy	8 - 9
+EU support for building high-speed lines: significant, but a fraction of total cost	10 - 13
+Audit scope and approach	14 - 20
+Observations	21 - 95
+EU co-funded investments in high-speed rail can be beneficial, but there is no solid EU-wide strategic approach	21 - 36
+High-speed rail is a beneficial mode of transport which contributes to the EU’s sustainable-mobility objectives	21 - 22
+The Commission's powers are limited, and its plan to triple the length of the high-speed rail network is unlikely to be achieved	23 - 26
+Member States plan and decide on their national networks, leading to a patchwork of poorly connected national high-speed networks	27 - 36
+Decision-making lacks reliable cost-benefit analyses	37 - 58
+“Very high-speed” is not needed everywhere	37 - 44
+Cost-efficiency checks are rare	45 - 48
+Cost-benefit analyses are not used as a tool for decision-making in the Member States	49 - 51
+Cost overruns, construction delays and delayed entry into service: a norm instead of an exception	52 - 58
+A citizen’s view: a real-life assessment of travel times, prices and connections, of passenger-services and of stations and their catchment area	59 - 77
+Travel times and ticket prices, are important factors for success	59 - 63
+Further improvements needed to rail ticketing, and in monitoring passenger-services data	64 - 67
+The number and location of stations are both important	68 - 77
+High-speed rail sustainability: effectiveness of the EU co-funding at risk	78 - 85
+Passenger data analysis: three of the seven completed high-speed rail lines carry fewer passengers than the benchmark of nine million per year	79
+Catchment-area analysis of the number of people living along the lines: nine of 14 audited high-speed lines and stretches do not have sufficient high number of potential passengers	80 - 82
+The competitiveness of high-speed rail compared to other modes of transport: there is no “polluter-pays” principle yet	83 - 85
+Seamless and competitive cross-border high-speed rail operations: not yet universal	86 - 95
+With many barriers still existing, there is a long way to go before markets become open and competitive on high-speed lines in the EU	86 - 88
+Track access charges: overly complicated, and a potential hindrance to competition	89 - 92
+A strong and independent regulator: necessary, but not always a reality	93 - 95
+Conclusions and recommendations	96 - 106
+High-speed rail operations have many advantages but there is no realistic long term EU plan, and there is no truly EU high-speed network	96 - 98
+The principles of sound financial management have not consistently been applied for the audited high-speed rail infrastructure investments	99 - 100
+Assessing the situation for the EU citizens highlights the advantages of high-speed rail, while the sustainability of the EU co-funding to high-speed lines is at risk	101 - 103
+Seamless and competitive cross-border high-speed rail operations are still some way off	104 - 106
+Annex I – European High-Speed Network Map
+Annex II – Overview of HSR funding since 2000 by MS and management mode
+Annex III – Analysis of projects
+Annex IV – Key HSR Data per Member State
+Annex V – Speed yield analysis
+Annex VI – A citizen's view: Assessement of travel times, prices and connections on the audited high-speed rail lines: the methodology and the data
+Annex VII – Impact of stations on travel time and speed
+Annex VIII – Map of the catchment area and key data for each of the audited HSLs, as well as for the border crossings assessed
+Annex IX – Analysis of stations
+
+The Commission’s replies
+
+
+Abbreviations and Glossary
+
+Executive summary
+High-speed rail is a comfortable, safe, flexible and environmentally sustainable mode of transport. It brings environmental performance and socio-economic benefits which can support the EU’s transport and cohesion policy objectives. Since 2000, the EU has provided 23.7 billion euro of co-funding to support high-speed rail infrastructure investments.
+We carried out a performance audit on the long-term strategic planning of high-speed lines in the EU, on the cost-efficiency (assessing construction costs, delays, cost overruns and the use of high-speed lines which received EU co-funding), and on the sustainability and EU added value of EU co-funding. We carried out our audit in six Member States, analysing expenditure for more than 5 000 km of infrastructure on ten high-speed rail lines and four border crossings, covering around 50 % of the high-speed rail lines in Europe. 
+We found that the EU’s current long-term plan is not supported by credible analysis, is unlikely to be achieved, and lacks a solid EU-wide strategic approach. Although the length of the national high-speed rail networks is growing, the Commission’s 2011 target of tripling the number of kilometres of high-speed rail lines by 2030 will not be reached: 9 000 km of high-speed line are currently in use, and around 1 700 km of line was under construction in 2017. On average, it takes around 16 years for new high-speed lines to proceed from the start of works to the beginning of operations.
+There is no European high-speed rail network, and the Commission has no legal tools and no powers in the decision making to ensure that Member States make rapid progress towards completing the core network corridors set out in the TEN-T Regulation. As a result, there is only a patchwork of national high-speed lines, planned and built by the Member States in isolation. This patchwork system has been constructed without proper coordination across borders: high-speed lines crossing national borders are not amongst the national priorities for construction, even though international agreements have been signed and provisions have been included in the TEN-T Regulation requiring core network corridors to be built by 2030. This means a low EU added value of the EU co-funding of high-speed rail infrastructure investments. 
+The quality of the assessment of real needs in the Member States is low, and the alternative solution of upgrading existing conventional lines is not often given due consideration, even though the savings achieved when this option is used can be significant. The decision to build high-speed lines is often based on political considerations, and cost-benefit analyses are not used generally as a tool to support cost-efficient decision-making.
+High-speed rail infrastructure is expensive, and is becoming more so: on average, the lines we audited cost 25 million euro per km (not taking into account the more expensive tunnelling projects). The costs involved could in fact have been far lower, with little or no impact on operations. This is because very high-speed lines are not needed everywhere they have been built. In many cases, trains run on very high-speed lines at far lower average speeds than the line is designed to handle. The cost of a line increases proportionally with the design speed, and infrastructure capable of handling very high-speed operations (300 km/h or more) is particularly costly. Such high- speeds, however, are never reached in practice: trains run on average at only around 45 % of the line’s design speed on the lines audited, and only two lines were operating at an average speed above 200 km/h, and none above 250 km/h. Average speed so far below the design speed raises questions as to sound financial management.
+We also analysed the cost per minute saved by the introduction of high-speed rail. We found that four of the ten lines we audited will cost more than one hundred million euro per minute saved. The highest figure is on the Stuttgart – Munich line, which will cost 369 million euro per minute saved. Cost overruns, which are covered by national budgets, and delays were the norm instead of the exception. Aggregate cost overruns for the lines and projects we audited were 5.7 billion euro at project level, and 25.1 billion euro at line level (44 % and 78 %, respectively). Delays at project and line level were also significant: eight of the 30 projects we audited had been delayed by at least one year, and five lines (half of the sample audited) had experienced delays of more than one decade. Paying careful attention to the elements above could save hundreds of millions of euros, and ensure that good use is made of lines which are built.
+To gain insight into how high-speed rail benefits EU citizens, we also analysed and compared door-to-door travel times, prices and number of connections for high-speed rail and its competitors (air transport, conventional rail and road transport). We concluded that total travel time and price level are both important factors for success. Combined with effectively regular services, these factors could allow high-speed rail to increase its market share. Intermodal competition is fierce, and it affects the sustainability of high-speed lines: high-speed rail does not compete on an equal basis with other transport modes. 
+We assess sustainability of the EU co-funding to be at risk. Judging by a benchmark, a high-speed line should ideally have nine million passengers per year to be successful. However, on three of the seven completed high-speed lines we audited, the number of passengers carried was far lower. The infrastructure cost of these lines was 10.6 billion euro, to which the EU provided around 2.7 billion euro. This means that there is a high risk of ineffective spending of EU co-funding on these lines. Our assessment of the number of people living in the catchment areas of the audited lines indicates that nine of the 14 audited lines and cross-border connections did not have enough potential passengers to be successful. These include the three lines indicated above carrying a lower number of passengers compared to the benchmark of nine million. 
+In 2010, we issued a report calling for urgent action to lift all technical, administrative and other barriers to rail interoperability. However, we found that these barriers still persist in 2018. The rail passenger market is not open in France and Spain. There is on-track competition in Italy and, to a limited extent, in Austria; in these Member States, services were more frequent and of higher quality, whereas ticket prices were lower. Integrated ticketing systems, and greater attention paid to monitoring and standardising customer satisfaction and punctuality data, could further improve the passenger experience.
+For a successful continuation of EU co-funding for high-speed rail infrastructure in the next programming period, we recommend that the Commission should take a number of steps. These include:
+carrying out realistic long-term planning; and agreeing with the Member States the key strategic stretches to be implemented first, with close monitoring and enforceable powers to ensure that commitments to complete the core EU high-speed rail network are respected; 
+making EU co-funding support linked to earmarked strategic priority projects, effective on-track competition and achievement of results;
+simplifying cross-border constructions with regard to tendering procedures, the use of “one-stop-shops” for the formalities, and the lifting of all remaining barriers; 
+actions to improve seamless high-speed rail operations for passengers, such as, for example, e-ticketing, simplification of track access charges and improving the reporting to citizens on punctuality and customer satisfaction data.
+
+
+
+Introduction
+High-speed rail in Europe
+High-speed rail in Europe took off after the 1974 petrol crisis. Europe’s energy dependency threatened internal mobility, so several Member States decided to develop a safe, fast, comfortable and ecological mode of transport in the form of high-speed rail lines. Italy was the first European country to inaugurate a high-speed rail line: the line from Florence and Rome opened in 1977. Shortly afterwards, France inaugurated its own “Trains à Grande Vitesse” lines. Germany’s first high-speed lines, served by “Intercity Express” (ICE) trains, opened in the early 1990s, whereas Spain’s “Alta Velocidad Española” (AVE) high-speed service commenced operations in 1992.
+There is currently no single European high-speed rail network: instead, different operational models exist in different Member States (Figure 1). For example, there are mixed high-speed systems (in France, Spain and Italy) and fully mixed high-speed lines (Germany, Austria and two sections in Italy).
+Figure 1 - Operational models for high-speed rail traffic
+
+Source: Rus et al. 2009.
+The EU’s high-speed rail network is growing in size and in rate of utilisation
+At the end of 2017, the EU had 9 067 km of high-speed lines (Figure 2; Annex I provides a detailed map). This network is expanding: 1 671 km are currently under construction. Once all planned high-speed rail infrastructure investments have been completed, Spain will have the second-longest high-speed rail network in the world, after China.
+Figure 2 - Length of national high-speed rail networks in the EU – growth over time
+
+Source: EU Statistical Pocketbook 2017; UIC. Note: This chart includes only lines (or sections of lines) on which trains can exceed 250 km/h at some point during their journey.
+The number of passengers using high-speed rail in Europe is growing steadily: from roughly 15 billion passenger-kilometres (pkm) in 1990, demand reached more than 124 billion pkm in 2016. In 2015, high-speed rail services accounted for more than a quarter (26 %) of all rail passenger travel in the Member States where high-speed services are available. 
+EU policies for high-speed rail
+Transport policy
+The Trans-European Networks for Transport (TEN-T) programme plays a key role in the Europe 2020 strategy for smart, sustainable and inclusive growth. It serves the goals of economic development, regional competitiveness, regional and social cohesion, and environmental sustainability. It also establishes key links needed to facilitate transport, optimising the capacity of existing infrastructure, producing specifications for network interoperability, and integrating environmental concerns. TEN-T’s objectives include the interconnection and interoperability of national transport networks, the optimal integration and interconnection of all transport modes, and the efficient use of infrastructure.
+The latest Commission 2011 Transport White Paper (WP) has set the following specific passenger traffic targets for high-speed rail: (i) By 2030, the length of the existing high-speed rail network should be tripled so that, by 2050, most medium-distance passenger transport should be by rail (a 50 % shift of medium-distance intercity passenger and freight journeys from road to rail). High-speed rail should grow faster than air transport for journeys of up to 1 000 km, and by 2050, all core network airports should be connected to the rail network, preferably by high-speed services.
+To advance on these goals, in December 2013, the EU adopted a new transport infrastructure policy that aims to close the gaps between the transport networks of Member States, to remove bottlenecks that still hamper the smooth functioning of the internal market, and to overcome technical barriers (e.g. incompatible standards for railway traffic). The Connecting Europe Facility (CEF) instrument, adopted at the same time, supports these objectives financially.
+Cohesion policy
+Since 2000, the Structural Funds have been required to operate in a manner consistent with other EU policies, such as transport. Under both the ERDF and the CF Regulations, support has been provided to investments contributing to the establishment and development of TEN-T networks, as well as to transport infrastructure projects of common interest. 
+Under the current 2014-2020 cohesion-policy framework, the EU cohesion-policy funds still support transport infrastructure but, to increase the effectiveness of EU co-funding, “ex-ante conditionalities” have been introduced. This means that Member States must demonstrate that proposed projects will be implemented within the framework of a comprehensive national, or regional, long-term transport plan, adopted by all interested and involved stakeholders.
+EU support for building high-speed lines: significant, but a fraction of total cost
+From 2000 to 2017, the EU provided 23.7 billion euro in grants to co-finance high-speed rail infrastructure investments, as well as 4.4 billion euro in support to install ERTMS on high-speed rail lines. Some 14.6 billion euro of co-funding, or 62 % of the total, was provided under shared-management funding mechanisms (the ERDF and the CF), while the directly managed investment schemes (e.g. the CEF) provided 9.1 billion euro, or 38 %. EU co-funding can be used to support studies as well as infrastructure works, both for new high-speed lines and for upgrades to existing conventional rail lines to allow them to accommodate high-speed operations.
+In addition to this aid, since 2000, the EIB has also provided loans to the value of 29.7 billion euro to support the construction of high-speed rail lines.
+Almost half of the EU funding made available for high-speed rail investments (more than 11 billion euro) was allocated to investments in Spain. In all, 21.8 billion euro – 92.7 % of the total – was allocated to seven Member States (Figure 3 and Annex II).
+Figure 3 - Overview of EU co-funding for high-speed rail by Member State (2000-2017)
+
+Source: European Commission.
+Although these sums are significant, EU co-funding represents a small fraction of the overall amounts invested in high-speed rail infrastructure works in the EU. For example, depending on the funding instruments used, the co-funding rate ranged from 2 % in Italy to 26 % in Spain. On average, EU co-funding covered around 11 % of total construction cost.
+Audit scope and approach
+We carried out an audit on the cost-efficiency and effectiveness of EU co-funding for high-speed rail infrastructure investments since 2000. We assessed: (i) whether high-speed lines in the EU had been built according to a long-term strategic plan; (ii) whether high-speed rail projects had been implemented in a cost-efficient manner (by assessing construction costs, delays, cost overruns and use of high-speed lines which received investment support); (iii) whether the investments were sustainable after project completion (including the impact of high-speed rail on competing transport modes), and (iv) whether EU co-funding had added value. In order to answer these questions, this report analyses the planning and decision making first, continues with an assessment of costs, than takes an EU-citizen approach by analysing travel times, prices, connections and stations, and finalises with the assessment of barriers and on-track competition to conclude on high-speed rail operations.
+We used a series of audit procedures, such as document reviews and analyses of EU and national long-term strategic development plans for high-speed rail; interviews with staff from the Commission and from Member States; meetings with rail operators and infrastructure managers; and a survey of key stakeholders. We engaged external experts to assess: (i) the quality of cost-benefit analyses (CBA) and future-demand analyses; (ii) the access, connections and regeneration effects of selected high-speed rail stations; (iii) the Paris-Brussels-Amsterdam (PBA) high-speed line, and (iv) the prices, travel times and number of connections using different modes of transport. We also benchmarked our audit results with high-speed rail operations and passenger services in Japan and Switzerland.
+We carried out our audit at the European Commission (DG MOVE, including the INEA and the European Union Agency for Railways (ERA), and DG REGIO) and in six Member States (France, Spain, Italy, Germany, Portugal and Austria). These Member States received 83.5 % of all EU funding allocated to high-speed lines since 2000 (23.7 billion euros, corresponding to 46 euros per EU resident).
+Using a combination of specific sampling criteria related to the amount of EU co-funding, the length of the line, and whether or not a capital city was linked to the line, we selected ten high-speed lines for audit. On account of their size, we audited four high-speed lines in Spain and two each in Germany, Italy and France. We also assessed four cross-border projects: the connections between Munich and Verona; Spain and France (both on the Atlantic and the Mediterranean side), and Spain and Portugal (Figure 4).
+Figure 4 - Overview of audited lines (10 high-speed lines, four cross-border connections)
+
+Source: ECA and Eurostat.
+Using high-speed lines as the basis for our audit allowed us to assess more than 5 000 km of lines, either completed, under construction or in planning (for a detailed overview of the length of the lines audited, see Table 4). This way, we covered more than 50 % of the high-speed rail lines either in operation or under construction in the EU.
+We also analysed 30 EU co-funded projects on these high-speed lines (the largest projects under each management mode). The total proposed cost of the 30 audited projects was 41.56 billion euro. The amount of EU grants awarded to the audited projects was 6.18 billion euro, of which 3.64 billion euro had been paid by the time of the audit, and 967 million euro decommitted (Table 1).
+Table 1- Overview of key financial data on audited projects
+Source: ECA. Cross-border projects are recorded under the “EU” country code.
+The project-related expenditure we audited covered 2 100 km of different types of high-speed rail infrastructure (trackbeds, tunnels, viaducts and overpasses). Without taking into account the Munich-Verona cross-border section projects, our project audit covered 45 % of the entire length of the high-speed lines in the visited Member States. A full list of all projects audited, and the key observations, and findings from our analysis of whether their outputs, results and objectives had been achieved, are presented in Annex III.
+Observations
+EU co-funded investments in high-speed rail can be beneficial, but there is no solid EU-wide strategic approach
+High-speed rail is a beneficial mode of transport which contributes to the EU’s sustainable-mobility objectives
+Investment in high-speed rail infrastructure and operations significantly benefits society as a whole, as it brings to passengers time savings, high levels of safety, security and comfort on-board. It frees up capacity on congested road and conventional rail networks, as well as airports. High-speed rail can also strengthen socio-economic dynamism, as well as contributing to the regeneration of depressed urban areas near stations. 
+Although the relationship is not entirely straightforward, various bodies have concluded that high-speed rail also brings environmental benefits as trains have a lower carbon footprint than most other modes of transport.
+The Commission’s powers are limited, and its plan to triple the length of the high-speed rail network is unlikely to be achieved
+The Commission’s current long-term plan, set out in the 2011 White Paper and the CEF Regulation (Recital No 11), to triple the length of high-speed rail lines in the EU by 2030 (from 9 700 km in 2008 to 30 750 km by 2030) is not supported by credible analysis. Given the state of indebtedness of national public finances (Member State governments are the main investors), the limited return on this public investment, and the time it takes in practice to complete a high-speed rail investment, the goal of tripling the high-speed rail network is very unlikely to be achieved.
+Our audit work suggests that the average time from the start of works to the beginning of operations is around 16 years (Table 2), even without taking into account the time needed for upfront planning. This is true even when projects which require lengthy major tunnelling works, such as the Brenner Base Tunnel on the Munich-Verona stretch, are excluded. 
+Table 2 - Assessment of time from planning to operation
+* Expected.
+** 52 km not before 2018.
+Source: ECA.
+The TEN-T Regulation sets out the key infrastructure that Europe needs to build to support the EU’s sustainable mobility goals. It describes which transport investments are to be ready by 2030 (the core network), and which ones are to be ready by 2050 (the comprehensive network). To complete the core network, the Commission has estimated that 500 billion euro will be required, while 1.5 trillion euro is needed for the comprehensive network.
+The Commission has no say in decision-making, and it has no legal tools and no powers to hold Member States to their earlier commitments to build the high-speed lines needed to complete the core network. It also plays no role in decisions on cross-border links between two or more Member States, as the CEF and TEN-T Regulations lack a possibility for the Commission to enforce set EU priorities.
+Member States plan and decide on their national networks, leading to a patchwork of poorly connected national high-speed networks
+EU trans-national corridors are not a priority
+Although the TEN-T Regulation defines in its annexes where the high-speed lines are to be built, the Member States alone decide if and when exactly this will happen. They also provide most of the required funding, and they alone are responsible for implementing all of the necessary steps (studies, permits, procuring and monitoring works, and supervising all parties involved). Annex IV provides key performance indicators for selected visited Member States, which highlight the different characteristics of their national networks. These indicators point that France is in the lead when it comes to use of high-speed lines (ratios of passenger km per capita and passenger kilometres per km of high speed lines); that Spain has the highest construction cost per capita (1 159 euro) and the highest EU co-funding for high-speed rail per capita (305 euro); and that Italy has the highest construction costs per km per capita (0.46 euro).
+Within a Member State, many entities have a role to play, and various factors and parameters are crucial to whether or not construction proceed as initially planned. For example: 
+the “Eurocaprail” project aimed to link Brussels, Luxembourg and Strasbourg by high-speed rail, connecting Luxembourg with Brussels in 90 minutes. At its December 1994 meeting in Essen, the Council deemed this project to be one of the 30 “top priorities” for building (works to start not later than 2010, and completion by 2020). By 2004, however, this project was no longer considered a national priority by any single Member State. Even though the EU has provided 96.5 million euro to upgrade the conventional line, journeys from Brussels to Luxembourg currently take up to 3 hours and 17 minutes. This is more than twice the objective set in 2003, and almost one hour slower than in 1980, when the same distance was covered in 2 hours and 26 minutes. As a result, many potential passengers simply travel by road;
+Spain has invested in a new high-speed rail network. To support it in doing so, the EU has invested more than 14 billion euro in Spanish high-speed lines already since 1994. Trains in Spain traditionally used a wider gauge than the rest of Europe, but for the most part, the Spanish high-speed network uses the standard gauge found in the rest of the EU. However, three of the audited lines (the Eje Atlántico; part of the Madrid – Galicia high-speed line; and the Madrid – Extremadura high-speed line), still use the traditional wider gauge. This impacts performance: the maximum operating speed is limited to 250 km/h (far below the maximum operating speed of 300 km/h for high-speed operations in Spain), and the services are provided either by wide-gauge rolling stock, or by specific variable-gauge trains. These trains need “gauge changers”: there were 20 such gauge changers in Spain in January 2017. These gauge changers cost up to eight million euro each, and the EU provided 5.4 million euro in co-financing to support their construction.
+Although international agreements have been signed to confirm the political will to establish connections, and although an incentive of 40 % co-funding is available under the CEF Regulation, Member States do not build high-speed lines if they are not considered a national priority, even if such a line is situated on a transnational corridor and is completing the core network. The Commission’s mid-term evaluation report on the CEF confirmed this observation.
+This limits the EU added value of the EU co-funding provided as cross-border links generate the highest EU added value. In addition, when links are missing and not built on time, this may have a high cost for society.
+The Commission has no power to enforce cross-border projects
+Major cross-border high-speed rail projects require particular attention from the EU. They require works to be coordinated closely, so that project outputs become ready for use on a similar schedule and are connected to domestic networks on both sides of the border.
+The Commission currently lacks the necessary instruments to intervene effectively if delays on one side of a border hamper the timely use of high-speed rail infrastructure built on the other side of the border. Moreover, the possibilities for all stakeholders to oppose works are manifold, and may cause delays, or even to stop projects previously agreed upon.
+There were several examples noted where the outputs created in one Member State will not be effective for at least another two further decades, because of works not having been completed in a neighbouring Member State (see Box 1).
+Box 1 – Poorly connected national networks, and their impact
+Munich-Verona stretch, and the Brenner Base Tunnel (BBT): diverging construction priorities and timescales between Austria, Italy and Germany led to a patchwork of different capacities and potential bottlenecks on the whole Scandinavian-Mediterranean corridor until at least 2040.
+To reduce the number of trucks crossing the Alps each day, the EU has been already investing in the BBT, a part of the “Munich – Verona” stretch, since 1986. Austria and Italy have been building the tunnel with 1.58 billion euro of EU co-funding. 
+
+Source: ECA and Eurostat.
+The tunnel works in Austria and Italy will be completed by 2027, but there is little construction activity on the northern access route, which is mostly in Germany. The route has not even been designed yet, and will not be completed before 2035 (Austria), or even 2040 (Germany). Unlike Austria and Italy, Germany sees little interest in destinations such as Innsbruck or Verona, which do not play a key role for Germany for everyday working traffic. As a result, it has not made a priority of constructing the northern access route, even though the route supports the goal of establishing a core network by 2030. This means that it will take more than half a century before the investments are actually used, and that more than 1,5 billion euro is considered largely ineffective for more than two decades.
+Portugal-Spain connection (Extremadura)
+A high-speed rail connection was planned to connect Lisbon and Madrid. However, it was considered too expensive in times of high government debt. Despite 43 million euro of EU co-funding already having been paid to Portugal for studies and preparatory works, no high-speed cross-border rail connection is available. The conventional rail line stops in Evora. At the time of the audit, the works on the Portuguese side had started, while the works on the high-speed line on the Spanish side stopped about six kilometres from the border, as indicated by the arrow in Picture 1.
+Picture 1 - Missing link at the border crossing on the Madrid-Lisbon high-speed line 
+
+Source: © Ferropedia, Inserco ingenieros.
+Even though the policy framework was particularly geared towards completing the core network by 2030, many policy weaknesses remain to be tackled. For example, when assessing the cross-border works for the Brenner Base Tunnel (BBT), we noted the following.
+Procurement is a major issue for cross-border TEN-T projects: there are no guidelines on how to reduce inherent procedural risks; there is no single legal framework for cross-border projects; tendering documents, contracts and accounting systems differ, also in their language, for works on Austrian and Italian territory; the procedures for settling disputes are not the same.
+There are no simplified procedures to facilitate and accelerate implementation (e.g. “one-stop shops”, as already suggested by the Court in Special Report No 23/2016); there is no single body streamlining the formalities on both sides of the border (e.g. different environmental legislation may apply to rail construction; and the legal response to stakeholders’ claims may vary).
+As most of these constructions are backed up by international agreements between the Member States concerned and the EU, and since the high-speed lines are on international corridors, the progress of works is supervised by EU co-ordinators at corridor level and examined in “corridor forums”. These coordinators have a privileged view of what is, or is not, working along a corridor (and they report regularly on the changes needed), but they also have no legal power.
+In addition to lacking coordination of cross-border implementation, a number of other aspects are lacking: (i) there are no “single-corridor entities” to monitor results and impacts on a long term basis for future high-speed rail investments; (ii) there is no time-barring to limit the quantity and duration of legal or administrative action, and no single entity for hearing appeals; and (iii) the assessment of progress of works on a corridor is based on common key performance indicators which are still output-based. As the Court already argued in its special report on maritime transport, the project monitoring of the INEA focuses on construction per se (outputs) and covers neither results nor the use of the lines. Results and impacts are therefore not assessed, and no single body has a view of whether the EU co-funded projects on the core network corridors have achieved any result-based objectives.
+Decision-making lacks reliable cost-benefit analyses
+“Very high-speed” is not needed everywhere
+High-speed rail infrastructure is expensive: on average, the lines we audited cost 25 million euro per km (not taking into account the more expensive tunnelling projects), with the overall costs for the BBT as high as 145 million euro per km. Costs are rising over time: the most recent constructions (Milan-Venice and Stuttgart-Munich) are indicating values above 40 million euro per km because of scarcity of land, the crossing of urban nodes, viaducts and extensive tunnelling. However, costs could be lower with little impact on rail operations.
+High-speeds are clearly an important characteristic of high-speed rail: they are the factor which allows high-speed rail to compete with air travel and balances the ease of using a private vehicle for the last few miles of a journey. The performance of the high-speed rail system is, however, not only determined by the maximum theoretical speed which can be achieved on a line, but also by the real speed which travellers experience. We therefore analysed the “speed yield” on the audited high-speed lines, focusing on total travel times and average speeds.
+Investment in high-speed lines is only justified if high-speed yields can be achieved: the larger the population base (future demand) and the greater the travel time elasticity and speed yield, the greater the benefits of developing a high-speed line.
+This analysis of the speed yields on the lines we audited (Annex V) indicated that, on average along the course of a line, trains run at only around 45 % of the line’s design speed. Only two lines operate at average speeds of more than 200 km/h, and no lines operate at an average speed above 250 km/h. The lowest speed yield on a completed high-speed line is on the Madrid-León high-speed line (39 % of design speed). The cross-border Figueres-Perpignan section also only operates at 36 % of its design speed, because it accommodates mixed traffic. Average speed so far below the design speed indicates that an upgraded conventional line would have been enough to achieve the objectives set, at a much lower cost and raises questions as to sound financial management.
+A case-by-case approach is therefore needed to decide whether a full very high-speed line is needed. This decision is important, as construction costs are higher when design speeds are higher. Lines with maximum speeds of up to 160 km/h are at least 5 % cheaper to build than lines with speeds above that limit. This is because the tracks on higher-speed lines need to be further apart. Up to 160 km/h, the standard spacing is four metres; above that speed, the required line spacing is at least 4.5 metres. This means that tunnels need to be wider, which is more expensive. 
+Also, the cost of a “mixed” high-speed line (combined passenger and freight traffic) is higher than for a passenger-only high-speed line, as gradients and curve radiuses make corridor alignments less flexible, and usually these need more land. Maintenance costs for mixed lines will also be higher, as more intensive use is made of the infrastructure.
+Mixed traffic lines are more expensive than passenger-only high-speed lines. A study indicated this difference to be up to 5 %, and up to 13 % if the passenger-only line is limited to a speed of 250 km/h (Figure 5).
+Figure 5 - Differences in construction costs of high-speed lines
+
+Source: 2009 RAVE Study of 5.8.2009 of the University of Lisbon; comparison with a mixed 350 km/h high-speed line (100 baseline).
+Choosing the most appropriate option can save millions of euros. For example, on the Munich-Verona stretch, a high-speed line is being built on the audited section of the Brenner Base Tunnel. This is not justified by the speed data: there are currently 13 stops on the conventional rail line between Munich and Verona with 41 minutes of stopping time at stations (12.6 % of total travel time). At present, the journey from Munich to Verona for passengers takes 5 hours and 24 minutes. Even if the travel time should come down to around 3.5 hours once the Brenner high-speed line is completed, the average speed on this line will still be just 115 km/h, still too low to provide a convincing argument for building a fully-fledged high-speed line.
+Cost-efficiency checks are rare
+High-speed rail infrastructure is more costly than conventional rail, both to build and to maintain. In given circumstances, however, very high-speed services, operating at 300 km/h or more, may provide limited additional travel time savings, compared to trains running on upgraded conventional lines. Therefore, the option of upgrading existing conventional lines to increase speeds, rather than building a very high-speed line, should also be considered, as it could result in significant cost savings. 
+A good practice exists in Italy and Germany: projects for which a preparatory phase has already been launched or legal obligations have arisen are re-assessed before each new programming phase to verify that their features still address current needs. This project review process highlights how design choices lead to substantial savings with limited impact on performance. For example, the project review carried out for the Venice-Trieste section concluded that configuring the line differently could save 5.7 billion euro but add just 10 minutes to the trip, i.e. a saving of 570 million euro for each additional minute of travel time (Table 3).
+Table 3 - Cost comparison of high-speed versus conventional rail: Venice – Trieste
+Source: ECA.
+This practice applied in Italy and Germany is not used in the other Member States we visited: only the proposed construction of a high-speed line is assessed, and no consideration is made of whether any section, or even the entire line, actually needs to be capable of supporting very high-speed services, or whether an upgrade of the conventional line would also satisfy the specific project objectives.
+We also analysed cost-efficiency by assessing the relationship between the investment costs and the real time saved on the audited high-speed lines (Table 4). Our analysis shows that the cost per minute saved is on average 90 million euro per minute of travel time saved, with values ranging from 34.5 million euro (on the Eje Atlántico high-speed line) to 369 million euro (on the Stuttgart-Munich high-speed line). 
+Table 4 - Cost of the audited high-speed line per km and per minute saved
+* The analysis of cost estimate for the entire line, and travel time include the overlapping 133 km of Madrid-León HSL (excluding the Guadarrama tunnel).
+** The Munich-Verona stretch, with its length of 445 km, brings the total km of lines audited to 5 063 km.
+Source: ECA.
+Cost-benefit analyses are not used as a tool for decision-making in the Member States
+As high-speed lines are expensive investments, it is crucial to correctly analyse all major costs and benefits upfront before deciding whether or not to build. When used correctly, cost-benefit analyses (CBAs) make it possible to assess a project’s social return on investment and its social desirability and usefulness before any decision is taken. Net contributions to social welfare (e.g. through benefit-to-cost ratios exceeding 1, i.e. where benefits exceed costs) under a broad variety of demand (e.g. high versus low traffic growth) and supply scenarios (e.g. high-speed line construction versus upgrade of conventional lines) are needed to support a positive decision.
+The Court asked an external expert to make a comparative analysis of the various CBAs linked to the audited high-speed lines. The expert concluded that CBAs are generally used merely as a compulsory administrative step, rather than as a tool for better decision-making and stakeholder inclusion. We found the following examples noteworthy.
+A CBA with a negative economic net present value was accepted for EU co-funding of project No 2007-FR-24070-P (concerning the East Section of the Rhin – Rhône high-speed line) in France. For another French high-speed rail project (project No 2010-FR-92204-P, concerning the upgrade of the existing line between Mulhouse and the border to allow operations of high-speed trains and intercity express) no CBA had been performed, but the project did receive EU funding.
+No CBAs had been carried out when the decision was made to build the Halle/Leipzig–Erfurt–Ebensfeld and Stuttgart-Wendlingen-Ulm sections in Germany. The decision to build them was political, and a CBA was only made at a later stage (ex post) to demonstrate socio-economic profitability.
+Most studies in Spain, irrespective of the region and project characteristics, showed very similar results and a relatively low benefit-to-cost ratio (of around one). In reality, some projects have only a limited chance of viability from a social cost-benefit perspective (for example, the “Venta de Baños – León” high-speed rail section was non-viable from a socio-economic perspective across various sensitivity scenarios), but they are being built nevertheless.
+Since 2007, no update has been made to the Brenner axis CBA. In the 2007 analysis, the cost-benefit factor was 1.9. In the meantime, the planning and construction of the Brenner Base Tunnel project has already been delayed by around eleven years: its completion was initially expected by 2016, but now it is not expected until 2027. Most recent data reveals that the projected cost for the tunnel will be around 9.3 billion euro (taking into account the inflation rate). Between the preliminary estimates of 2002 and the estimate of 2013, costs increased by 46 % (from 5.9 billion euro to 8.6 billion euro), and freight traffic is now projected to decrease. These factors reduce the benefit-to-cost ratio very strongly, and makes the 2007 CBA data on passenger numbers and freight traffic unrealistic. This was not questioned by the INEA, which is managing this on behalf of the Commission. 
+For the 2015 CEF calls for proposals, the INEA introduced a specific assessment of costs and benefits before agreeing to provide CEF support. We consider that this will help to improve the quality of decision-making upfront. However, the INEA (as well as the Managing Authorities in case of cohesion policy expenditure under shared management) is currently not assessing the cost per minute saved, or the cost of upgrading the existing conventional rail line as alternative to the proposed new high-speed line before agreeing to spend EU co-funding.
+Cost overruns, construction delays and delayed entry into service: a norm instead of an exception
+The EU budget does not suffer from cost overruns for high-speed rail investments, as the co-funded amount is capped at the initially agreed amount. Although cost overruns are borne by national budgets, we assessed the extent of cost overruns and delays, both at project and at line level. Based on the data available to us, we estimate that aggregate cost overrun at 5.7 billion euro at project level, and 25.1 billion euro at line level (44 % and 78 %, respectively). 
+Three projects out of 30 assessed had significant cost overruns of more than 20 % of the initial estimates and all audited high-speed lines had cost overruns of more than 25 % (Table 5). The German lines had the highest cost overruns: the cost overrun of the Stuttgart-Munich line reached 622.1 %. 
+Table 5 - Overview of costs per km and comparison with estimates
+
+*No cost estimates available at line level, so impossible to estimate potential overruns.
+**As of the time of the audit and also for non-completed lines: Stuttgart-Munich, Madrid-Galicia and Milan-Venice.
+***Calculated on a stretch Medina del Campo-Galicia and therefore excluding the 133 km of overlap with Madrid-León HSL.
+Source: ECA. All figures are expressed in nominal terms.
+Delays at project level were also significant: eight of the 30 projects we audited had been delayed by at least one year, and half of the lines (five lines out of the ten audited) had experienced delays of more than one decade. The Milan-Venice line is forecast to have the longest delay compared to initial estimates (18 years).
+The highest project cost overrun was 83 %, for the “Stuttgart 21” station (Picture 2), which received 726.6 million euro in grants from the EU. 
+Picture 2 - Construction works on the Stuttgart 21 station
+
+Source: ECA.
+For this project, because of unrealistic initial cost estimates for tunnelling in a densely populated city centre, and insufficient assessments of geological, environmental and local community cultural heritage aspects, construction costs have soared. The total construction costs of 4.5 billion euro estimated in 2003 has been increased to 6.5 billion euro in 2013 and to 8.2 billion euro (latest estimate available in January 2018). This means that there is a difference of 3.7 billion euro from the original agreement. So far, all funding partners have refused to cover more than the costs set in the original funding agreement. 
+There will also be a significant delay in completing the works for this station, as it was originally planned that the construction works would be completed by 2008. The start was already delayed from 2001 to 2009, and current estimations are that the works will be completed by 2025. 
+Finally, for 18 projects, we also assessed how long it took for the lines to actually enter into service once the EU co-funded works had been completed. For six projects, entry into operations happened not later than one month after the end of construction works. For two projects, entry into service had been delayed by around one year; for six projects, the delay was two years; for another, the delay was four years; while two projects in Germany will be delayed by eight years (these projects were finished by the end of 2015, and it is currently estimated that the line will not be in operation before the end of 2023). In one other case (the Figueres – Perpignan cross-border line between Spain and France), even though the whole line was finished, it could not be used until 22 months later since it was not connected to the rest of the network on both ends. 
+A citizen’s view: a real-life assessment of travel times, prices and connections, of passenger-services and of stations and their catchment area
+Travel times and ticket prices, are important factors for success
+We examined the competitiveness of high-speed rail by asking a travel agent to research the cheapest return ticket prices, travel times and number of connections on given days for both business and tourist profiles on the audited lines. A summary of our methodology and the relevant data are in Annex VI. This allowed us to calculate average prices per kilometre and minute of travel. 
+Ticket prices may vary widely (e.g. according to the time of day, and the availability of special offers). However, this work was done on a sufficient scale (data on more than 5 000 return trips was collected) to allow us to realistically assess the options for travelling between the origin and destination pairs on the audited lines. The following messages came out of this analysis.
+On speed: High-speed rail is often much faster (on average 30 % to 50 % of travel time) than conventional rail. Air travel (from take-off to landing) is faster than high-speed rail. However, when assessing real total travel time from city centre to city centre, including the travel to the airport and boarding procedures, high-speed rail is often competitive.
+On ticket prices: High-speed rail is often much cheaper than air travel. Last-minute bookings for both transport modes are more expensive than tickets booked in advance. In Germany, ticket prices on the Stuttgart-Munich high-speed line are lower than conventional rail ticket prices.
+The number of high-speed rail services offered varies considerably during the year. The availability of connections is important: some high-speed lines have a large number of connections (e.g. 50-60 per day in Germany), while two of the four audited lines in Spain (Madrid-Santiago and Madrid-León) and the two audited French lines had very few connections. 
+Some of the audited routes are not practicable by conventional rail; for example, travelling from Rome to Turin by conventional rail takes over 20 hours. High-speed rail takes half as long, and air travel one-tenth as long. The situation is similar on the Madrid-Santiago line. 
+The most successful connections in terms of business users (e.g. Madrid-Barcelona; Turin-Rome; Paris-Strasbourg) are also the most expensive. Overall, high-speed rail in France costs most per kilometre travelled (for business and leisure).
+To assess how competitive high-speed rail really is, total travel time from city centre to city centre and the prices of the available options were analysed. We further refined our data analysis for four lines, and calculated the relevant figures, comparing high-speed rail, conventional rail, air and road, thus including the cost of private cars and long-distance coaches (Table 6).
+Table 6 - Door-to-door travel analysis on selected high-speed lines
+Source: ECA.
+The “city centre to city centre” analysis told us the following:
+Between Madrid and Barcelona, the high-speed rail connection is the fastest travel option: even air travel takes longer from door to door, and is more expensive. This explains why high-speed rail has increased its market share considerably on this line in recent years. In fact, since its opening in 2008, the modal split between air and rail has changed from 85:15 to 38:62 in 2016. Such analysis can be used to assess the success of high-speed rail operations and measure the degree of sustainability of the investments made. 
+Between Rome and Milan, air and high-speed rail also lead the field in terms of travelling time. The number of trains increased and ticket prices reduced over time. High-speed rail is therefore taking a larger market share over time, also at the expense of long-distance conventional rail.
+It is possible to travel by conventional rail from Berlin to Munich, but it involves many changes. Air travel is fastest, but expensive. High-speed rail is the second-fastest option, and it is cheaper. While coach travel is cheapest, the journey time is dissuasive. 
+From Paris to Strasbourg, there are no air or direct conventional rail connections. High-speed rail has the fastest total travel time, but ticket prices are much higher than travelling by car or coach. 
+Our overall conclusion is that total travel time and price level are both important factors for success. Combined with an effectively regular service (frequent trains which depart and arrive on time), these factors could contribute to strengthen future high-speed rail operations.
+Further improvements needed to rail ticketing, and in monitoring passenger-services data
+Published research on high-speed rail suggests that ticketing flexibility and punctuality enhance intermodal competitiveness and promote sustainable success. These could be developed further.
+Rail ticketing compares poorly with that of the airline industry. For example, single e-ticketing solutions, such as those allowing booking trips involving more than one operator or crossing borders, are much easier for air travel than for rail. There is also almost no search engine available for combined air/high-speed rail travel.
+The Commission has started to collect service-related data and indicators on the developments in the use of rail networks, and on the evolution of framework conditions through its Rail Market Monitoring Scheme (RMMS) platform. However, this data has been inconsistent up to now, as common standards were not comprehensively applied until the end of 2017. Moreover, only a limited set of data is currently collected in respect of high-speed rail as opposed to conventional rail; it covers the areas of infrastructure charging, capacity allocation, infrastructure investment and public-service obligations covering high-speed rail.
+Until 2017, there were no agreed common definitions of punctuality. Punctuality data therefore varies greatly within the EU. Rail operators are obliged to post the reports on punctuality and customer satisfaction on the ERADIS database as required by Article 28(2) of Regulation (EC) No 1371/2007 but, as there is no common methodology or standardised framework for these reports, they are hard to use and do not provide travellers with a clear overview of the situation. The Commission has commissioned Eurobarometer surveys to monitor passenger satisfaction with rail services. The last survey was published in 2013, and a follow-up report is expected by the end of June 2018. Significant progress is still needed in monitoring these issues at the EU level.
+The number and location of stations are both important
+Having the right number of stations is vital to a line’s success and to its operational sustainability. If a line has very few or no intermediate stops, the overall speed between origin and destination is high, and competitiveness with other modes of transport is optimal; however, this is detrimental to sustainability, as fewer potential passengers living along the line can use it. In contrast, if there are more stops on a line, its average speed is lower, and competitiveness with other modes of transport is at stake, but more passengers can board, increasing ticket income. 
+We analysed the number of stops on the audited lines and the resulting impact on travel times and the competitiveness of services on the line, as well as their accessibility, connectivity and regeneration effects. The full information and all key data on this station analysis is in Annex VII.
+Data from official timetables shows that each intermediate stop extends total travel time by an average of four to 12 minutes, and reduces average speed by three to 16 km/h. The number of stations ranges from four (LGV Rhin-Rhône) to 15 (on the Berlin-Munich line) and the distances between them vary greatly (the longest distance between two stations on the same high-speed line is 253 km; the shortest is 26 km). Different types of services run on the audited lines (for example, on the Madrid-Barcelona line, some trains run a “non-stop” service over 621 km, whereas other trains on the line also serve intermediate stations, with varying frequency). The largest time difference between the most direct and least direct train services is 72 minutes (on the Berlin-Munich line).
+To assess the potential number of users of a high-speed line, we also examined the catchment areas of each of the ten high-speed lines and four cross-border lines in the audit. Some stations do not have sufficient numbers of passengers in their immediate catchment areas, and are located too close to each other. This reduces the overall effectiveness of high-speed services, because they must stop too often without reaching many new passengers, or it makes daily train management overly complicated to ensure acceptable ridership figures.
+Annex VIII contains overall results and key data on the stations of all the audited high-speed lines. For example, as shown in Figure 6, although the Madrid-Barcelona-French border line has a very large catchment area (which explains its success), the catchment area of some stations on the line (e.g. Guadalajara-Yebes or Calatayud) is extremely small. Given the very limited number of people living within the 15-minute catchment area, there is reason to doubt the cost-efficiency and effectiveness of keeping these stations as stops on the high-speed line (the 100 % 60-minute catchment area overlap for Guadalajara station is because of its proximity to Madrid). 
+Figure 6 - Station analysis of the Madrid-Barcelona-French border high-speed line
+
+Source: ECA and Eurostat.
+While the Commission’s plan is to connect all core network airports to the rail network by 2050, preferably by high-speed rail, only a few high-speed rail stations currently have a direct high-speed connection to an airport. High-speed rail and air can be complementary (by delivering passengers to an airport, high-speed rail can enlarge the airport’s catchment area, and air passengers may decide to use a given airport because of a seamless and fast rail connection after landing). However, we found that it is complicated for passengers to combine high-speed rail and air travel. For example, even though the Madrid – Barcelona high-speed line passes close to Spain’s two busiest airports (Madrid-Barajas and Barcelona-El Prat, which were used by 50.4 million and 44.2 million passengers respectively in 2016), there are no plans to connect them by high-speed services to the high-speed rail network.
+To be successful and competitive, high-speed rail stations should be well located. 
+They should be easily accessible to travellers by many modes of transport, including walking and cycling, and offer suitable public transport facilities and parking spaces at affordable prices. 
+They should offer multiple well-functioning high-speed rail connections, as well as a sufficient number of trains throughout the day.
+They should contribute to economic activity in the surrounding area (the “regeneration” or “re-urbanisation” effect).
+We analysed the accessibility, connectivity and regeneration effects of 18 high-speed rail stations (two per audited line). The full information, including the quantitative criteria used, is in Annex IX. Our analysis indicates that access to 14 stations could be improved. For example, the Meuse TGV station (Picture 3) on the LGV Est-Européenne is poorly accessible: as the arrow shows, the station is in an isolated location in the countryside. A few local bus lines, and a small car park for private cars, provide the only means of reaching the station. 
+Picture 3 - The Meuse TGV station
+
+Source: ECA.
+We also found that seven stations were not appropriately sized: four were too big, and three were too small for the number of passengers. Four stations did not provide general services to the public. Five stations were not well connected, while another seven could benefit from improved connections.
+By analysing changes over time (for example, in the job market, the property market, and the number of businesses attracted and jobs created), we saw no clear regeneration effects from 15 of the 18 stations on the audited high-speed lines. The opening of the Belfort-Montbéliard station on the Rhin-Rhône line had encouraged shops and a hotel to open nearby, and allowed a regional hospital to be relocated. In two other cases, upgrade works in the stations – linked to the arrival of high-speed services – created easier connections between neighbourhoods which were previously separated by rail tracks. This indicates that high-speed lines may accompany and support economic improvements already started and anticipated by the region, but it will not, on its own, cause a local economic boom. 
+High-speed rail sustainability: effectiveness of the EU co-funding at risk
+
+If a high-speed line is to be successful and the investment sustainable, it should be able to carry a high number of passengers. We assessed this element in two ways: by benchmarking the passenger numbers carried over time, and by analysing the number of people living in the catchment area along the line.
+Passenger data analysis: three of the seven completed high-speed rail lines carry fewer passengers than the benchmark of nine million per year
+Judging by a benchmark arising from academic and institutional sources, a high-speed line should ideally have nine million passengers, or at least six million in the opening year to be successful. In 2016, only three lines actually carried more than nine million passengers per year (Madrid-Barcelona, Turin-Salerno and LGV Est-Européenne). On three of the seven completed high-speed lines we audited (Eje Atlántico, Rhin-Rhône and Madrid-León), the number of passengers carried was far lower. The infrastructure cost of these lines was 10.6 billion euro, to which the EU provided around 2.7 billion euro. This means that there is a high risk of ineffective spending of EU co-funding on these lines. 
+Catchment-area analysis of the number of people living along the lines: nine of 14 audited high-speed lines and stretches do not have sufficient high number of potential passengers
+We also performed a catchment area analysis to assess the potential sustainability of operations at line level (see Figure 7). Annex VIII also contains overall results and key data for all of the audited high-speed lines.
+Figure 7 - Catchment area analysis of the Madrid-Barcelona-French border high-speed line
+
+Source: ECA and Eurostat.
+Nine of the 14 audited high-speed lines and cross-border connections did not have a sufficiently high number of passengers in their fifteen- and thirty-minute catchment areas along the line to make high-speed rail successful. These were the Madrid-León, Eje Atlántico, Madrid-Galicia, Milano-Venezia, Rhin-Rhône, Stuttgart-Munich, Munich-Verona, Figueres-Perpignan and Basque Y lines. It is useful to note that the three lines which did not meet the passenger benchmark (see above) are also included in this criteria. 
+We also analysed success of high-speed rail in a global context, to understand the reasons for success (Box 2).
+
+
+Box 2 - The operations of the Shinkansen
+The Shinkansen train (Picture 4) and high-speed rail operations in Japan, allow us to make a wider comparison of high-speed rail operations on a global scale. 
+The 550 km high-speed line from Tokyo to Osaka is very successful, carrying 163 million passengers per year. There are many reasons for this success: the line connects megacities with populations of several million; trains run on dedicated tracks at a very high frequency (up to 433 trains per day); service reliability and punctuality are outstanding (in 2016, the average delay was less than 24 seconds throughout the year); and there are state-of-the-art safety and security measures in the stations and along the line, as well as sufficient support to travellers in stations.
+Picture 4 - A Shinkansen train in Tokyo Central Station
+
+Source: ECA.
+The competitiveness of high-speed rail compared to other modes of transport: there is no “polluter-pays” principle yet
+High-speed rail has only a limited competitive edge. Whereas the Japanese Shinkansen remains competitive even over travel distances of more than 900 km, high-speed rail in Europe is generally competitive over travel distances of between 200 and 500 km, with journeys lasting up to four hours. The car is the dominant transport mode on journeys of less than 200 km because of its flexibility in the final mile, while air transport is most competitive for longer journeys.
+A carbon-based taxation system is a tool to consider the impact on the environment of the different transport modes. Currently, there is no operational arrangement within any EU Member State comparable to Switzerland’s dedicated Railway Infrastructure Fund, which is part-financed from taxes imposed on lorries transiting the country. Switzerland’s approach reduces the financial burden on taxpayers for building and maintaining the railway network, since it directly channels tax income levied on one transport mode to investment support for another.
+There is currently no charging system in the EU that looks at both user-pays and polluter-pays principles across the various transport modes, so as to enhance the competitiveness of rail. There have been attempts in the past to change intermodal conditions by internalising external costs from various modes of transport, but these were largely unsuccessful. The topic of taxation as a function of greenhouse-gas emissions nevertheless remains on the agenda of many governments. For example, the introduction of a cross-funding scheme is currently debated (again) in France while, in 2018, Italy will fund the Brenner Base Tunnel construction and its southern access lines with proceeds from a dedicated fund, created in 1997, from highway toll revenues.
+Seamless and competitive cross-border high-speed rail operations: not yet universal
+With many barriers still existing, there is a long way to go before markets become open and competitive on high-speed lines in the EU
+Effective competition on high-speed lines can demonstrably improve services and reduce prices for travellers in the EU. There are currently very few cases where there is effective on-track competition on high-speed lines (there is on-track competition in Italy and, to a limited extent, in Austria). The introduction of competition on the Italian Turin-Salerno high-speed line brought better services for travellers. There are more trains to choose from (the new entrant operates 34 daily connections in each direction in the 2017-2018 timetable), and ticket prices have fallen by at least 24 %. ERA staff we interviewed reported a similar positive effect for Austria: competition between the incumbent rail firm and a new entrant had brought more customers, also for the incumbent rail operator.
+However, in France and Spain, the market for high-speed rail services was still not open, and there was no on-track competition on high-speed lines. These Member States wish to wait until after 2020 to assess whether the incumbent rail operator is ready for competition on long-distance passenger services. Even after that point, if the lines are deemed to operate as public-service obligations, these Member States will be able to grant a 10-year postponement under certain conditions, meaning that truly open competition may be deferred as far as 2035.
+Alongside the phased opening of the market set out in the Fourth Railway Package, a number of practices persist within the rail industry which prevent a truly seamless EU high-speed rail network from becoming a reality, and potentially preventing new foreign entrants from competing on high-speed lines. These practices include technical and administrative barriers, and other hindrances to interoperability. What this means in practice for travellers is explained in Box 3.
+Box 3 – The impact for travellers when there is no seamless travel of trains crossing borders
+The missing interoperability on the Munich-Verona stretch causes a stop and delays at the Brenner station
+There are over 11 000 national rules in rail, which the ERA is currently categorising with a view to “cleaning them up” at a later stage. There are no common rules for cross-border rail transport. Germany and Austria have a harmonised approach, but Italy continues to apply a different set of rules. All this results in an obligatory layover at the Austrian/Italian border: all trains must stop at the border to make the operational changes required by Italian and Austrian national legislation, which impose varying requirements. Passenger trains must stop for at least 14 minutes (Picture 5), while goods trains are delayed for 45 minutes. Such delays are very significant, considering that the multi-billion infrastructure investment on the Munich-Verona high-speed line has an overall time-gain target of 114 minutes.
+Picture 5 - Passengers waiting at Brenner station to continue their journey
+
+Source: ECA.
+This problem was already highlighted in the Court’s Special Report No 8/2010. Eight years later, our recommendations have not led to any changes in practice. The national authorities in the visited Member States told us that cross-border problems caused by varying national rules on employment or working languages could best be solved by the introduction of harmonised rules across the EU. Air transport, for example, uses only one working language (English); this helps to reduce barriers between continents, and could resolve similar issues between Member States.
+The missing infrastructure links between France and Spain (Atlantic cross-border route) oblige passengers to change trains and platforms 
+Because most of the section between Bordeaux and the Spanish border is not a priority for France, infrastructure at the border remains antiquated, incompatible and poorly suited to a modern high-speed rail network. France is not ready to invest in this infrastructure (therefore does not ask for EU funding), and this will negatively effect on Spain and Portugal’s connections to the EU network along the Atlantic corridor. On the Spanish side of the border, works to connect the Basque high-speed rail network to the rest of the Spanish network are ongoing (with 318 million euros of EU co-funding). The result is that all passengers currently must change platforms and trains to cross the border (Picture 6).
+Picture 6 - All passengers must change trains at the border between France and Spain
+
+Source: ADIF, with ECA annotations.
+Track access charges: overly complicated, and a potential hindrance to competition
+Under the EU legal framework for rail operations, an infrastructure manager (a separate entity from the rail operator) must allow any operator to use the rail tracks if they contribute to the costs of maintaining them. These track access charges have different impacts on the sustainability of the network. Depending on the level they are set at, they can help to recover a share of the infrastructure investment costs, and if they are set low enough, they may also encourage on-track competition by allowing new market entrants to participate.
+Directive (EU) No 2012/34/EU requires track access charges to be set primarily on the basis of the costs directly incurred as a result of operating the train service. But the principles used to determine pricing across Member States differ significantly, mainly because the legislation allows many parameters to be used. In all visited Member States, “mark-ups” had been applied to take into account specific cost categories, such as the time of day of the requested slot or the presence, or absence, of a bottleneck. 
+The International Union of Railways has reported that track access charges are not calculated transparently. They regularly change, and are subject to no less than 56 variables, leading to very different outcomes. This is confirmed by Figure 8, which shows the exact level of track access charges on selected EU origin-destination pairs connected by high-speed rail, demonstrating that charging levels are indeed very different. For example, track access charges are very high in France, and much lower in Italy.
+Figure 8 - Track access charge levels for selected origin-destination pairs in the EU 
+
+Source: UIC.
+Getting the level of track access charges right is important to ensure both sustainability and competitiveness. 
+In France, track access charges are kept high to provide income to the infrastructure manager, and to ensure the sustainability of operations of the infrastructure manager, which has significant debts. This reduces the need for the state to fund and maintain new high-speed rail infrastructure. At the same time, excessively high track access charges discourage new entrants from entering the market, thus shielding the incumbent rail operator from competition.
+In Italy, track access charges were previously used as a means of increasing competition between the established rail operator and the new entrant. In addition to other measures (such as ensuring the right of access to station services), the Italian rail regulator lowered the charges to ensure fair competition. This improved the situation for travellers (see paragraph 85)
+A strong and independent regulator: necessary, but not always a reality
+This trade-off between financial sustainability and competitiveness is crucial. It is therefore important that national regulators are in place in each Member State to act, and that the Commission supervises the system. These bodies should ensure that rules governing the use of mark-ups to recover the full costs of infrastructure are applied correctly, the legal objective being the best use of the available infrastructure.
+Under EU law, national rail regulatory bodies must be given extensive independence and powers to monitor railway markets to ensure that newcomers are not discriminated against, so that fair competition can develop. They should be endowed with sufficient resources. The Commission follows up on these requirements, and supports national watchdogs in their activities, and facilitates dialogue and the exchange of best practices between regulatory bodies. We observed the following two issues.
+Spain is the only Member State that considers track access charges to constitute taxes, and sets them in law. This limits the management independence of the infrastructure manager and the powers of the regulator to modify them in case of non-compliance with the rules. In addition, it limits the time available to revise charges, and complicates revisions and complaints. The regulator’s position is a difficult one, because it has limited staffing and because, contrary to the provisions of the Recast Directive, its decisions are not binding on the infrastructure manager.
+In France, in 2017, the regulator issued a binding negative opinion on a new model for calculating track access charges which was planned for 2018. The French government intervened by setting the level of access charges for 2018 by decree, keeping them in line with the originally applicable model. Such an approach effectively limits the power of the regulatory authority.
+The Commission took action in these two cases by launching infringement proceedings. It closely monitors ongoing legislative initiatives to ensure that powers of the regulators are not eroded in the process.
+Conclusions and recommendations
+High-speed rail operations have many advantages but there is no realistic long term EU plan, and there is no truly EU high-speed network
+High-speed rail supports the EU’s sustainable mobility policy objectives, because its carbon footprint is lower than other forms of transport. It has many other benefits, such as increased safety levels; it relieves pressure on congested road networks; it allows both business and leisure passengers to travel quickly and in comfort, and it can provide socio-economic support to regions.
+The Commission’s target of tripling the length of the high-speed rail network (reaching more than 30 000 km in 2030) is not supported by credible analysis. We consider it unlikely that this target will be reached, because it takes around 16 years for high-speed rail infrastructure to be planned, built, and to begin operations. By the end of 2017, only 9 000 km of high-speed lines were in operation, with another 1 700 km in construction.
+There is no genuine European high-speed rail network: there is only a patchwork of national high-speed lines. The Commission has no power to decide if and when high-speed lines detailed in the TEN-T Regulation should be built, as decisions to build high-speed rail lines are the sole responsibility of Member States. Completing the EU’s transnational corridors by linking national networks is not a priority for the Member States audited. Although an EU funding mechanism was adopted at the same time (the CEF Regulation), and although various international agreements have been signed by the Member States concerned, high-speed rail border crossing works are not being completed in a coordinated fashion. This leads to a low EU added value of the EU co-funding going to high-speed rail infrastructure investments in the Member States (paragraphs 21 to 36).
+The principles of sound financial management have not consistently been applied for the audited high-speed rail infrastructure investments
+The quality of the assessment of needs in the Member States is low. Alternative solutions, such as upgrading existing conventional lines instead of building new high-speed lines, are only considered systematically in Italy and Germany; this is a good practice which should be followed universally. Decisions to build are national and political; they are rarely based on proper cost-benefit analyses.
+High-speed rail infrastructure is expensive, and is becoming more so: the lines we audited cost, on average, 25 million euros per kilometre. Cost-efficiency is low. While the EU budget does not suffer from cost overruns for high-speed rail investments, as the co-funded amount is capped at the initially agreed amount and any cost increase is borne by national budgets, cost overruns and delays in construction of the lines audited were the norm, and it takes a long time for lines to enter into service once built. Aggregate cost overruns are 5.7 billion euro at project level, and 25,1 billion euro at line level (44 % and 78 %, respectively). Delays were also significant with half of the lines facing delays of more than a decade. Our speed-yield assessment clearly indicates that very high-speed rail services are not always needed: in most cases, only around 45 % of the design speed is achieved on average. Only two high-speed lines have average operating speeds above 200 km/h and none have speeds above 250 km/h. Our findings indicate that four of the ten lines will cost more than 100 million euros per travel minute saved. Paying careful attention to the elements above could save hundreds of millions of euros, and ensure that high-speed built lines are used well (paragraph 37 to 57).
+Assessing the situation for the EU citizens highlights the advantages of high-speed rail, while the sustainability of the EU co-funding to high-speed lines is at risk
+The assessment of travel times, prices and number of connections indicates that high-speed rail has advantages over its competitors (air transport, conventional rail and road transport). Our overall conclusion is that total travel time and price level are equally important factors for success. Combined with regular service (frequent trains) and reliability (punctual departures and arrivals), these factors could allow high-speed rail to increase its market share. The number of stations on a line is important, and their location vital: not all stations audited are well accessible and have good connections, and for 15 of the 18 audited high-speed rail stations we saw no clear regeneration effects in the surrounding area.
+We assess that sustainability is at risk: judging by a benchmark of nine million passengers per year, three of the seven completed lines audited cannot be considered successful high-speed rail lines (Eje Atlántico, Rhin-Rhône and Madrid-León) since the number of passengers carried was far lower. The infrastructure cost of these lines was 10.6 billion euro, to which the EU provided around 2.7 billion euro. This means that there is a high risk of ineffective spending of EU co-funding on these lines, which could have been mitigated by a sound ex ante assessment of costs and benefits for the individual lines.
+Our assessment of the number of people living in the catchment area of the audited lines indicates that 9 of the 14 audited lines and cross-border connections did not have enough potential passengers to be successful. In addition, high-speed rail and other transport modes do not compete equally as not all modes of transport are subject to the same charges (paragraph 58 to 85).
+Seamless and competitive cross-border high-speed rail operations are still some way off
+There are still many technical, administrative and other barriers to interoperability, even though the Court called for urgent action to lift such barriers in a special report published in 2010. The rail passenger market is not open in France and Spain, although there is on-track competition in Italy and, to a limited extent, in Austria. In Germany, the rail passenger market is open, but there is no competition on high-speed lines. With the current rules, competition may be delayed until as long as 2035. As competition encourages better services, more frequent trains and lower prices for travellers, it should materialise sooner.
+Track access charges aim to recover previous infrastructure investment and operating costs. If they are set low enough to allow new entrants to participate in the market, they can incentivise on-track competition. However, the systems used to calculate them are overly complicated, as numerous variables can be applied. 
+Each Member State must have a regulatory body, which must be qualified, adequately staffed and independent from the entity fixing the charges and from the government. This regulator must apply the rules strictly to ensure that agreed policies are respected. In two of the four cases we assessed, we found evidence that the regulators cannot exercise their statutory duties. The Commission acted upon these two cases by launching infringement procedures (paragraph 86 to 95).
+Recommendation 1 – The planning of the EU high-speed rail network
+The Commission should, in its supervisory role, take the following steps:
+1. Based on the inputs and commitments of the Member States, it should adopt a realistic long-term deployment plan for building the remaining infrastructure needed to complete the core EU high-speed rail network in the context of the revision of the TEN-T Regulation. This long-term planning should be based on the key enforceable strategic infrastructure projects on the core network, with particular focus on cross-border sections, which must be completed by 2030 to enhance EU added value.
+Based on the enforceable strategic plan under 1, it should take the foreseen remedial actions if projects on these priority stretches do not begin according to the agreed timeline, if they are delayed, or if coordination problems along the various borders seem likely to prevent the line from entering into service as planned.
+Target implementation date: when preparing the new legislative proposals for TEN- T.
+2. It should link EU co-funding to an assessment of the need for very high-speed lines, and to closer monitoring and supervision by providing specific conditions spelled out in implementing decisions on key priority stretches. In addition, the role of European Coordinators in facilitating the implementation of cross-border projects should be strengthened, as should the connection between the core network corridor work plans and the implementation of the CEF.
+Target implementation date: immediately.
+
+Recommendation 2 – EU co-funding support for high-speed rail infrastructure investments
+The Commission should :
+1. Revise the TEN-T regulation to enable it to enforce the timely implementation of the key strategic infrastructure networks identified above. 
+Target implementation date: initiate the work as soon as possible to ensure work is completed by 2023.
+2. Upon revision of the TEN-T Regulation earmark the EU co-funding support for these strategic priority projects.
+Target implementation date: immediately after the revision of the TEN-T Regulation.
+3.During the programming of cohesion policy, together with the Member States, focus its funding for high-speed rail lines to those high-speed rail lines that form part of the core network corridors.
+Target implementation date: when preparing the programmes for the post-2020 period.
+4. Make EU co-funding contingent on the introduction of an effective on-track competition on the supported high-speed lines soonest after completion of the works.
+Target implementation date: immediately.
+5. Link EU co-funding to beneficiaries not only to the delivery of outputs but also to the achievement of results announced. To achieve this, it should ensure the introduction of the principle of paying a fixed percentage of the EU co-funding granted to the beneficiary as a performance bonus, if it can be evidenced, from an ex-post evaluation, that the anticipated results have been exceeded. Such bonus should come from a performance reserve, similar to what currently exists in the Cohesion policy framework.
+Target implementation date: when preparing the new legislative proposals for the post-2020 period.
+6. In the upcoming CEF Regulation, together with the Member States, agree stronger enforcement tools to speed up the completion of the current obligations deriving from the TEN-T regulation.
+Such enforcement tools should also tackle the situation where a Member State does not propose to timely advance on key projects in view of fulfilling the commitments taken for the completion of the core network projects.
+Target implementation date: when preparing the new legislative proposals on CEF for the post-2020 period.
+
+Recommendation 3 - Simplifying cross-border constructions
+To simplify current and future major cross-border investments in high-speed rail infrastructure, the Commission should:
+1. Review the rules on procurement, to have the option of a single legal framework for key cross-border infrastructure projects. This includes issues such as the language of the tendering documents, contracts and accounting systems of management bodies implementing the projects, and procedures for the settling of disputes.
+2. Create, or facilitate the creation of, “one-stop shops”, which are single bodies streamlining the various formalities to be complied with on both sides of the border.
+3. Accelerate the lifting of all administrative and regulatory barriers to interoperability.
+Target implementation date: by mid-2019.
+
+
+Recommendation 4 – Actions to improve high-speed rail operations for passengers
+The Commission should:
+1. Provide support to the rail sector to actively develop single e-ticketing solutions, including for high-speed rail operations.
+2. Monitor Member States to ensure that they take all possible measures to implement EU rules for calculating track access charges fully and correctly, in particular in respect of the obligation to coordinate mark-ups to facilitate cross-border high-speed rail operations.
+3. In its supervisory role, hold Member States to their obligations to guarantee that market access conditions for high-speed rail are supervised by independent bodies and that infrastructure managers coordinate to ensure the optimum effective use of such routes.
+4. Improve the information for citizens (i) with regard to punctuality data by developing specific indicators for high-speed rail and (ii) on the basis of data already available in Commission databases (ERADIS), with regard to information on customer service satisfaction, by developing a standard reporting framework and methodology. The data and results are to be disseminated in its two-yearly Rail Market Monitoring Report.
+5. Strengthen intermodal competition by setting out principles requiring the external costs of all transport modes to be adequately considered, and advocating their implementation.
+Target implementation date: by the end of 2019.
+
+This Report was adopted by Chamber II, headed by Mrs Iliana IVANOVA, Member of the Court of Auditors, in Luxembourg at its meeting of 13 June 2018.
+	For the Court of Auditors
+
+	Klaus-Heiner LEHNE
+	President
+Annex I
+European High-Speed Network Map
+
+Source: UIC.
+
+
+Annex II
+Overview of HSR funding since 2000 by MS and management mode
+
+Annex III
+Analysis of projects
+
+
+
+
+
+
+Annex IV
+Key HSR Data per Member State
+Input data
+
+Calculated Key performance indicators
+
+Note:	For France and Italy, the numbers exclude cross-border connections Brenner Base and Lyon - Turin tunnels; 
+	Pass-km for Italy is the latest publicly available estimate.
+Source:	ECA, national administration, infrastructure managers and railway operators.
+
+
+Annex v
+Speed yield analysis
+
+
+
+Annex vi
+A citizen’s view: Assessment of travel times, prices and connections on the audited high-speed rail lines: the methodology and the data
+
+Data collection methodology applied:
+The work consisted of collecting ticket prices and travel data applicable on given dates for the origins and destinations of the audited HSL, using the transport modes of HSR, conventional rail and air, and analyzing any particular patterns discovered on the following routes. 
+
+The first part of the work consisted of data gathering to obtain information and data on the lowest ticket price (including taxes) for buying a ticket for the day concerned, and in the most logical moment of the day for the travel community concerned, while the second part was about noting the number of travel connections between the two stations that day (indicating if there are less than 10, between 10 and 20, or over 20 possible connections). The detailed scope of work was as follows: 
+Number of different types of transportation: 3: High-speed train, Conventional train and Air (long distance coaches analysed by ECA separately);
+Number of destinations / routes: 9 as indicated above;
+Number of directions (every route is bi-directional; e.g. MAD-BCN and BCN-MAD): 2 but limited to origin and destination points;
+Number of different starting days in week: 2 (a return ticket from Monday to Wednesday attracting usually business clients; a return ticket from Friday to Sunday, attracting usually leisure passengers);
+Travel dates: 4 weeks with approximate dates (5 to 9 June 2017; 3 to 7 July 2017; 31 July to 4 August 2017, and 28 August to 3 September 2017);
+Travel times in combination with the above travel days: (Business travel: departure between 7 and 9 AM and return between 4 and 6 PM; Leisure travel: departure between 10 to 12 AM and return between 5 to 7 PM);
+Number of booking times: 3 (3 months in advance of the first day of the travel; 2 weeks in advance of the first day of the travel; “Last minute”: the working day before the first day of travel);
+The data to be gathered: Date of departure and arrival; Price in euro of the return ticket; Duration of the trip in minutes. Number of daily connections.
+The data gathering work started in March 2017 to accomplish the ‘3 months in advance’ booking of the travel during the first date mentioned above. Priority was given on time over money for business travel trips, and money over time for leisure trips. The logic applied when booking a ticket has been i.e. if two options within the agreed timeframe are available for business traveler and one is 20 euros cheaper but 30 minutes slower, priority will be given to the fastest and slightly more expensive train. The same will be applicable for leisure travel: if a train is 30 minutes longer on the way but is 20 euros cheaper, this train will have to be selected.
+
+Average prices and travel times: general overview
+Source: Advito and ECA. Grey fields = data not available; “Number of connections” column shows average number of direct return trips between the named cities during a 24-hour period.
+Averages by visited country
+Source: Advito and ECA. Average speeds on the above high-speed connections were 157 km/h in Spain, 103 km/h in Germany, 126 km/h in Italy, and 183 km/h in France.
+
+Annex VII
+Impact of stations on travel time and speed
+
+
+
+Annex VIII
+Map of the catchment area and key data for each of the audited HSLs, as well as for the border crossings assessed
+High-Speed Line Madrid – Barcelona – French border
+
+
+
+* Excludes by-passes of Zaragoza and Lleida.
+
+
+
+High-Speed Line Madrid – León
+
+
+
+
+
+High-Speed Line Eje Atlantico
+
+
+
+
+High-Speed Line Madrid – Galicia
+
+
+
+* Total Cost & EU funding relate to Medina del Campo - Galicia stretch.
+** Relate to completed HS stretches.
+
+
+High-Speed Line Est Européenne
+
+
+
+* HSL only; 441 km with conventional lines included.
+** Calculated out of total length of 441 km.
+
+
+High-Speed Line Rhin – Rhône
+
+
+
+* HSL only; 205 km with conventional lines included.
+** Calculated out of total length of 205 km.
+
+
+High-Speed Line Torino – Salerno
+
+
+
+* Real average speed is evaluated on a Milano - Napoli trip.
+
+
+High-Speed Line Milano – Venezia
+
+
+
+
+
+
+High-Speed Line Berlin – Munich
+
+
+
+
+
+High-Speed Line Stuttgart – Munich
+
+
+
+* Total Cost exclude Stuttgart 21.
+
+
+High-Speed Line Madrid – Lisbon
+
+
+
+* 437 km for Madrid – Portuguese border stretch.
+** EU allocation so far.
+*** As currently foreseen.
+
+
+High-Speed Line Basque Y
+
+
+
+* EU allocation so far.
+** As currently foreseen.
+
+
+High-Speed Line Figueres – Perpignan
+
+
+
+* Passenger trains.
+
+
+High-Speed Line Munich – Verona
+
+
+
+* Including the cost of completion of the Brenner Base tunnel until 2027.
+** EU funding allocated until 2020.
+*** The figure includes both high-speed and conventional trains, the latter being the majority.
+
+
+Annex IX
+Analysis of stations
+

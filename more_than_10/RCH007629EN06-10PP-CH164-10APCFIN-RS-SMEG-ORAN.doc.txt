@@ -1,0 +1,2229 @@
+﻿Special Report No 4/2011
+(pursuant to Article 287(4), second subparagraph, TFEU)
+
+The audit of the SME Guarantee facility
+
+
+together with the Commission’s replies
+
+
+
+	TABLE OF CONTENTS
+	
+	Paragraph
+Glossary	
+Executive summary	I - VII
+Introduction	1 - 11
+SMEs and access to finance	1 - 6
+The main features of the SMEG facility	7 - 11
+Audit scope and approach	12 - 14
+Audit findings	15 - 98
+Design of the SMEG facility	15 - 27
+The SMEG facility is based on a valid implicit intervention  
+logic	16 - 19
+The impact assessment helped to design the facility; however,  
+it contained little factual evidence in support of the facility	20 - 22
+Compared to MAP, the objectives are more precise, but  
+lack clarity and specific targets	23 - 27
+Setting up the management structure of the SMEG facility:  
+delegating the day-to-day management to the EIF	28 - 45
+Delays in planning the SMEG facility	31 - 33
+To preserve the continuity of the support a “retroactivity  
+clause” was introduced	34 - 37
+Appropriate management framework established to  
+operate the SMEG facility	38 - 45
+Selection of financial intermediaries	46 - 55
+Well designed selection framework	47 - 50
+Insufficient records justifying the agreement parameters	51 - 53
+Policy objectives not fully defined in the guarantee  
+agreements	54 - 55
+Performance monitoring and reporting	56 - 72
+Performance indicators were established, but should  
+be more stable and balanced	59 - 68
+Reporting requirements are clear and reasonable and only  
+some financial intermediaries consider them as a burden	69 - 72
+Achievements of the SMEG facility	73 - 98
+Outputs of the SMEG facility	74 - 87
+European added value	88 - 98
+Conclusions and recommendations	99 - 104
+
+Annex I - Overview of the CIP structure down to the SME Guarantee 
+Facility
+Annex II - Monitoring by the Commission and the EIF
+Annex III - Reporting by the Financial intermediaries to the EIF
+
+Reply of the Commission
+
+
+
+
+
+
+
+GLOSSARY
+
+Additionality
+The EU SME guarantee facility is intended to provide 
+additional access to finance for SMEs and not to 
+substitute for state spending. Additionality will 
+typically occur if lending volumes increase when 
+compared to a scenario without EU intervention.
+CIP
+The Competitiveness and Innovation Framework 
+Programme was established by Council Decision No 
+1639/2006 of the European Parliament and of the 
+Council covering the period 2007-2013. It is a 
+programme launched by DG ENTR and DG ECFIN, 
+managed by the EIF under the supervision of DG 
+ECFIN to foster entrepreneurship and innovation of 
+EU SMEs. 
+CIP Decision
+Decision No 1639/2006/EC of the European 
+Parliament and of the Council of 24 October 2006 
+establishing a Competitiveness and Innovation 
+Framework Programme (2007 to 2013)
+DG ECFIN
+Directorate General for Economic and Financial 
+Affairs at the Commission
+DG ENTR
+Directorate General for Enterprise and Industry at the 
+Commission
+EIB
+European Investment Bank
+EIF
+The European Investment Fund has been set up by 
+the EIB to structure and grant specialised financial 
+products, including venture capital, guarantee 
+instruments for SMEs and securitisation. The EIF 
+works with a network of financial intermediaries, many 
+of which are specialised in SME finance. In the 
+context of the CIP, the EIF can be seen as the 
+operational manager of the SME Guarantee facility.
+EIP
+The Entrepreneurship and Innovation Programme is 
+one of 3 pillars of the CIP framework to promote 
+entrepreneurship and innovation.
+Ex-ante impact 
+assessment
+Commission Staff Working Document, Annex to the 
+Proposal for a Decision of the European Parliament 
+and of the Council establishing a Competitiveness 
+and Innovation Framework Programme (2007-2013), 
+SEC(2005) 433.
+Financial instruments
+In the text this refers to the SMEG facility. Other 
+Community financial instruments for SMEs under the 
+EIP Programme include the High Growth and 
+Innovative SME Facility (GIF) and the Capacity 
+Building Scheme (CBS).
+Financial intermediary
+The financial intermediaries participating in the SMEG 
+facility can be public guarantee institutions, mutual 
+guarantee organisations, micro-finance institutions or 
+commercial banks. They may be direct lenders that 
+provide loans to SMEs, or indirect guarantee 
+organisations that either co-guarantee or counter-
+guarantee a loan portfolio, of one or several direct 
+lenders.
+FMA
+Fiduciary and Management Agreement of 20.9.2007 
+between the European Community and the EIF for 
+the SMEG facility under the Competitiveness and 
+Innovation Framework Programme (2007-2013).
+G&E
+The Growth and Employment initiative established by 
+Council Decision 347/1998 covering the period 1998-
+2000. The successor programme of G&E is the MAP.
+Guarantee cap amount
+The guarantee cap amount refers to the maximum 
+amount of losses for which the EIF is liable under an 
+EU guarantee.
+Guarantee cap rate
+The guarantee cap rate is a pre-agreed rate at which 
+the EIF’s liability is capped under a guarantee 
+agreement. The amount of the EIF’s liability under a 
+guarantee agreement (guarantee cap amount) can be 
+calculated by multiplying the actual portfolio volume 
+by the guarantee rate and the guarantee cap rate. 
+E.g. portfolio volume = 1000; guarantee rate = 50 %; 
+guarantee cap rate = 10 %. Thus, maximum EIF 
+liability (guarantee cap amount) = 1000 x 50 % x 
+10 % = 50.
+Guarantee deal
+Guarantee deals are the individual guarantee 
+agreements between the EIF and a financial 
+intermediary covering the activities performed on the 
+basis of these agreements.
+Impact
+Longer-term socio-economic consequences that can 
+be observed after the completion of an intervention, 
+which may affect either direct or indirect addressees 
+of the intervention. 
+Implementation report
+The CIP Council Decision stipulates that the 
+Commission should draw up an annual 
+implementation report for the Framework Programme 
+and for each specific programme, examining the 
+supported activities in terms of financial 
+implementation, results and, where possible, impact. 
+The Commission should communicate the annual 
+implementation reports to the European Parliament, 
+the Council, the European Economic and Social 
+Committee and the Committee of the Regions.
+Input
+
+
+Financial, human and material resources that are 
+mobilised for the implementation of an intervention. 
+Lisbon Strategy
+During the meeting of the European Council in Lisbon 
+(March 2000), the Heads of State or Government 
+launched a "Lisbon Strategy" aimed at making the 
+European Union the most competitive economy in the 
+world and achieving full employment by 2010.
+MAP
+The Multi-Annual Programme for Enterprise and 
+Entrepreneurship covering the period 2001-2006 is an 
+SME programme of DG ENTR managed by the EIF 
+under the supervision of DG ECFIN. It was the 
+predecessor programme of the CIP.
+Maximum portfolio 
+amount 
+The maximum portfolio amount is the maximum loan 
+volume which may be covered by the EU guarantee. 
+It is established by the EIF for each financial 
+intermediary, taking into account various 
+considerations such as the available EU budget and 
+comparable past lending volumes. 
+OECD
+Organisation for Economic Co-operation and 
+Development
+Outcome
+Change that arises from the implementation of an 
+intervention and which normally relates to the 
+objectives of this intervention. Outcomes include 
+results and impacts. Outcomes may be expected or 
+unexpected, positive or negative. 
+Output
+What is produced or accomplished with the resources 
+allocated to an intervention. 
+Reference volume
+Reference volume represents the amount of 
+guarantees or financing which the intermediary could 
+reasonably be expected to achieve in the absence of 
+the EU guarantee.
+Result
+Immediate changes that arise for direct addressees at 
+the end of their participation in an intervention. 
+SME
+Small and Medium-sized Enterprise. As per 
+Commission Recommendation of 6 May 2003 
+concerning the definition of micro, small and medium-
+sized enterprises, SMEs are defined as enterprises 
+which employ fewer than 250 employees, which have 
+an annual turnover not exceeding 50 million euro, 
+and/or an annual balance sheet total not exceeding 
+43 million euro and conform to the criterion of being 
+an autonomous enterprise.
+SMEG facility
+
+
+
+
+SME Guarantee facility: a financial instrument 
+managed by the EIF, providing guarantees or counter 
+guarantees to financial intermediaries for loans 
+granted by financial institutions to SMEs aiming at 
+increasing the SMEs’ debt financing supply.
+SMEG windows
+The four windows of the SMEG facility are:
+*	debt financing via loans or leasing,
+*	microcredit financing,
+*	guarantees for equity or quasi-equity 
+investments in SMEs, and
+*	securitisation of SME debt finance portfolios.
+
+
+EXECUTIVE SUMMARY
+I. The SME Guarantee (SMEG) facility is a financial instrument managed by 
+the 
+European Investment Fund on behalf of the European Commission and 
+providing 
+guarantees or counter guarantees to financial intermediaries for loans 
+granted by 
+financial institutions to SMEs aimed at increasing the supply of debt 
+financing.
+
+II. The objective of the Court’s audit was to assess the effectiveness of 
+the SMEG 
+facility, notably the design and planning, the management of its 
+operations and 
+the achievement of its objectives. 
+
+III. The Court found that the objectives of the current SMEG facility are 
+more 
+precise than under the predecessor programmes, but they are only 
+specific, 
+measurable, achievable and timed in relation to the expected outputs. The 
+intervention logic was not made explicit and limited quantification of 
+potential 
+impacts was provided at the planning stage of the facility. 
+
+IV. The framework for the management of daily operations is considered 
+appropriate, but does not include scoring standards or minimum 
+requirements for 
+the selection of financial intermediaries. 
+
+V. Sufficient output indicators were established, which were used to 
+report on 
+SMEG’s implementation. Reporting requirements are satisfactory and 
+accepted 
+by the financial intermediaries. 
+
+VI. The only quantified target relating to the number of SMEs to be 
+reached with 
+the SMEG facility is attainable. Concerning the purpose of the loans 
+granted, less 
+than half were given to SMEs that lacked collateral and only 12 % were 
+given to 
+SMEs that used them for innovative investments. The analysis of the 
+Court’s 
+sample of loans identified a deadweight of 38 %. The EU added value of 
+the 
+facility was not clearly demonstrated before it was launched neither is 
+it indicated 
+in the guarantee agreements with the financial intermediaries. 
+
+VII. The Court recommends that the programme logic should be made 
+explicit in 
+any similar future intervention, and additional or better performance 
+indicators 
+considered. The selection of potential financial intermediaries should be 
+based on 
+minimum requirements for the criteria that have to be fulfilled by the 
+applicants 
+and a scoring system should be put in place to make the applications 
+comparable. 
+Appropriate measures to minimise deadweight should be envisaged. During 
+the 
+planning period, the EU added value of the instrument should be clearly 
+demonstrated. 
+
+
+INTRODUCTION
+SMEs and access to finance
+1.	Small and medium sized enterprises (SMEs) are the backbone of the EU 
+economy , representing 99 % of all enterprises and providing 75 million 
+jobs in the 
+European Union .  However, the financial markets are wary of investing in 
+new or 
+young SMEs which are perceived as high-risk investments, especially if 
+they are 
+in innovative markets. According to the Observatory of European SMEs , 
+limited 
+access to finance is a problem for SMEs in Europe. The public sector has 
+an 
+important role to play in supporting the SME sector, in particular the 
+provision of 
+suitable financing. 
+2.	SME policy is a key element of the Lisbon Strategy aiming to make 
+Europe a 
+more attractive place to invest and work . The Lisbon Strategy stressed 
+that 
+entrepreneurial initiatives and innovation must be stimulated and 
+encouraged. 
+Therefore a friendly environment should be created for starting up 
+innovative 
+businesses, especially SMEs . One of the EU support measures to SMEs 
+facilitates their access to external finance and is known as the SME 
+Guarantee 
+(SMEG) facility. 
+3.	The SMEG facility was established in October 2006 as part of the 
+Competitiveness and Innovation Framework Programme (CIP)  . It originates 
+in 
+Council Decision 98/347/EC on measures of financial assistance for 
+innovative 
+and job-creating SMEs – Growth and Employment (G&E), which was continued 
+as part of the subsequent Multi-Annual Programme for Enterprise and 
+Entrepreneurship (MAP)  established in 2001. Under the CIP, the SMEG 
+facility is 
+one of the Community’s financial instruments which were launched under 
+the 
+Entrepreneurship and Innovation Programme (EIP) (see Annex I). 
+4.	The EIP has wide ranging objectives: “to improve access to finance 
+for the 
+start-up and growth of SMEs and investment in innovation activities”. The 
+SMEG 
+facility encompasses different types of guarantee schemes, each aiming to 
+support entrepreneurship through the enhancement of SME access to 
+finance. It 
+comprises four different schemes (or ‘windows’), the loans and leases 
+window, 
+the micro credit window, the equity and quasi-equity window and the 
+securitisation 
+window.
+5.	The SMEG facility was allocated 978 million euro for the period 1998 
+to 2013 
+under the three successive framework programmes (G&E, MAP and CIP). At 
+the 
+end of 2009 this budget guaranteed a total loan portfolio of 10,6 billion 
+euro (see 
+Table 1).
+Table 1 - SMEG facility overall budget
+
+Budget
+Guaranteed loan portfolio as at 
+the end of 2009
+
+(million euro)
+(million euro)
+SMEG 1998 (G&E)
+187
+2 402
+SMEG 2001 (MAP)
+281
+4 642
+SMEG 2007 (CIP)
+5101
+3 534
+TOTAL
+978
+10 578
+1 Indicative budget for SMEG at the start of the CIP. The allocation of 
+budgets between the 
+different types of financial instruments is done on an annual basis.
+Source: ECA based on various reports from the European Commission and the 
+European 
+Investment Fund.
+6.	510 million euro are earmarked under the current CIP for the period 
+2007 to 
+2013. The budget is only drawn upon when guaranteed loans default, and 
+for 
+each intermediary a maximum EU budget liability is fixed. Until 31 
+December 
+2009 the total amount of guarantee calls made under the CIP was 1,7 
+million 
+euro. For a detailed breakdown of the results achieved by the facility 
+under the 
+CIP, see Table 2.
+Table 2 - Results achieved by the SMEG facility under the CIP - key 
+figures as at 31 
+December 2009
+
+ 
+Total
+Loan window
+Microcredit 
+window
+Number of intermediaries
+21
+17
+4
+Number of agreements
+25
+21
+4
+Countries covered
+13
+11
+4
+Number of SMEs
+58 767
+50 476
+8 314
+Number of loans
+64 327
+55 796
+8 531
+Number of employees (estimated at 
+inclusion date)
+217 134
+204 155
+13 004
+EU guarantee in million euro 
+3 534
+3 306
+228
+Net called guarantees in million euro
+1,7
+0,8
+0,9
+Loan amount in million euro
+3 793
+3 695
+98
+Investment amount in million euro
+6 849
+6 692
+157
+Estimated SME financing guaranteed 
+in million euro
+11 610
+11 264
+346
+Source: “Quarterly Report 31 December 2009 – SMEG 2007 facility”, the 
+European Investment 
+Fund.
+The main features of the SMEG facility
+7.	The operational management of the SMEG facility involves several 
+parties 
+(see Figure 1).
+Figure 1 - Overview of the SMEG process flow
+ 
+Source: European Court of Auditors.
+8.	Two Directorates General at the European Commission, plus the 
+European 
+Investment Fund (EIF) , are all involved in the design, management and 
+monitoring of the SMEG facility. The Directorate General for Enterprise 
+and 
+Industry (DG ENTR) is the coordinator of the legal basis, prepares the 
+annual 
+work programmes and implementation reports of the various CIP pillars and 
+is 
+responsible for organising the programme evaluations. The Directorate 
+General 
+for Economic and Financial Affairs (DG ECFIN) has the direct management 
+responsibilities for SMEG, being in charge of negotiating the Fiduciary 
+and 
+Management Agreement (FMA) with the EIF , approving financial 
+intermediaries, 
+monitoring cash movements on the trust accounts and ensuring that funds 
+are 
+spent in line with the CIP’s objectives.  
+9.	The EIF provides guarantees to financial intermediaries aiming to 
+improve 
+their lending capacity and, therefore, the availability and terms of 
+loans towards 
+SMEs. The EIF signs guarantee agreements in its own name, on behalf of 
+the 
+Commission and at the risk and cost of the Union budget. In order to 
+allow the 
+Commission to monitor the facility, the EIF reports to DG ECFIN on the 
+progress 
+achieved on a quarterly basis.
+10.	The financial intermediaries participating in the SMEG facility are 
+public 
+guarantee institutions, mutual guarantee organisations, micro-finance 
+institutions 
+and commercial or publicly owned or controlled banks. They can be direct 
+lenders 
+that provide loans to SMEs or indirect guarantee organisations that 
+either co-
+guarantee or counter-guarantee  a SME loan portfolio of one or several 
+direct 
+lenders. Each guarantee deal  determines specific target volumes for the 
+loans to 
+be achieved by the financial intermediary. 
+11.	SMEs have to meet the Commission’s SME definition to be eligible for 
+a 
+guarantee under the SMEG facility. An SME is defined as an enterprise 
+which 
+employs fewer than 250 employees and which has an annual turnover not 
+exceeding 50 million euro and/or an annual balance sheet total not 
+exceeding 
+43 million euro. It must also satisfy the criterion of being an 
+autonomous 
+enterprise .
+AUDIT SCOPE AND APPROACH
+12.	The objective of the Court’s audit was to assess the effectiveness of 
+the 
+SMEG facility by addressing the following audit questions:
+-	Has the Commission designed the SMEG facility and its management 
+structure in a coherent and effective manner?
+-	Have the Commission and the EIF established and applied effective 
+procedures to select appropriate financial intermediaries and to monitor 
+the 
+performance of the SMEG facility?
+-	Have the SME guarantee deals contributed to the achievement of the 
+policy’s objectives? 
+13.	The audit examined the roles and responsibilities of all main parties 
+involved in 
+the SMEG facility – the Commission, the EIF and the financial 
+intermediaries. The 
+main focus was the SMEG facility under the CIP (2007-2013); the SMEG 
+under 
+the MAP was used for the purpose of comparisons with the CIP. 
+14.	The audit covered the following:
+-	an assessment of whether the SMEG objectives were SMART and whether 
+the design and planning of the facility was likely to achieve effective 
+results;
+-	an evaluation of the management of the SMEG facility’s operations, 
+comprising an assessment of the financial intermediary selection 
+procedures and the Commission and EIF reporting and monitoring 
+procedures;
+-	visits to nine financial intermediaries  (out of the 14 that were 
+contracted at 
+the audit planning stage in June 2009). They were selected according to 
+the following criteria: (i) type of guarantee, (ii) actual guarantee 
+volume 
+achieved, (iii) type of financial intermediary, and iv) direct guarantee 
+or 
+counter-guarantee. For each financial intermediary the related guarantee 
+proposal, its assessment by the EIF and the Commission and the 
+agreement signed between the EIF and the financial intermediary were 
+examined;
+-	selection of a sample of 181 loans from the nine financial 
+intermediaries 
+visited in order to assess that the use of the guaranteed SME loans was 
+in 
+line with the SMEG objectives ; and
+-	a questionnaire to all 51 financial intermediaries participating 
+under MAP 
+and/or CIP  in order to obtain their views on the design and management 
+of the SMEG facility . 
+AUDIT FINDINGS
+Design of the SMEG facility
+15.	Public intervention is more likely to be successful if it is properly 
+designed. In 
+order to assess the design, this section analyses the intervention logic 
+underlying 
+the SMEG facility. It scrutinises the ex-ante impact assessment for the 
+CIP  
+related to the SMEG facility and the extent to which the results of this 
+assessment 
+were taken into account during the design stage. Finally, the objectives 
+of the 
+SMEG facility are assessed in the light of specific, measurable, 
+achievable, 
+relevant and timed (SMART) criteria.
+The SMEG facility is based on a valid implicit intervention logic
+16.	The intervention logic provides the link between an intervention's 
+inputs and 
+the production of its outputs and, subsequently, to its impacts on 
+society in terms 
+of results and outcomes. It describes how an intervention is expected to 
+attain its 
+global objectives. An explicit intervention logic shows how the programme 
+is 
+supposed to function.
+17.	Neither the CIP Decision nor the Commission’s proposal or the impact 
+assessment for CIP explicitly described the intervention logic of the 
+SMEG facility 
+in this manner. The absence of an explicit intervention logic was also 
+noted by the 
+EIP interim evaluator . 
+18.	The different preparatory documents, however, do provide sufficient 
+information to make an implicit assumption on how the SMEG facility is 
+supposed 
+to function. For lenders it can be difficult to assess individual loan 
+applications and 
+the risks involved, especially if a borrower does not have an established 
+track 
+record (start-ups). In such a situation the borrowers can guarantee the 
+loan to the 
+lender through the provision of collateral, but those who do not have 
+sufficient 
+collateral may be denied access to credit even with viable business 
+propositions. 
+The SMEG facility seeks to remedy this situation by providing guarantees 
+in cases 
+where the SMEs are unable to do so. 
+19.	Nevertheless, in the absence of an explicit intervention logic, it is 
+difficult to 
+understand the rationale of some specific elements of the SMEG facility, 
+such as 
+targeting innovative SMEs by the loan window. Innovative SMEs are 
+targeted 
+through debt financing although equity investments are generally 
+considered more 
+appropriate for this type of SME .
+The impact assessment helped to design the facility; however, it 
+contained 
+little factual evidence in support of the facility
+20.	The impact assessment is an important instrument used by the 
+Commission 
+when designing a policy . The impact assessment should identify and 
+analyse 
+the problem at stake,  the objectives to be pursued and the main policy 
+options 
+that are available to achieve those objectives. For the various policy 
+options, the 
+assessment should evaluate their likely economic, social and 
+environmental 
+impacts. Finally, the impact assessment should identify the monitoring 
+and 
+evaluation arrangements needed during policy implementation.
+21.	As regards the SMEG facility, this type of analysis forms part of the 
+CIP impact 
+assessment. The CIP impact assessment contained all the mandatory 
+sections 
+and as such it gives insight into the considerations that shaped the 
+design of the 
+CIP and its main elements such as the SMEG facility. Thus, the CIP impact 
+assessment represents an improvement compared to the MAP, for which no 
+such 
+analysis was made. 
+22.	However, many parts of the CIP impact assessment are not sufficiently 
+detailed and quantified. For example, the analysis of the problem lacks 
+any 
+indication of its magnitude and the analysis of different policy options 
+is based 
+only on a simplistic qualitative comparison without any quantification of 
+the likely 
+impacts. For the retained option, except for the impact on the number of 
+jobs, the 
+Commission quantified expected outputs  instead of the impact. 
+Compared to MAP, the objectives are more precise, but still lack clarity 
+and 
+specific targets 
+23.	SMART objectives shall be set for any budget activity . The 
+objectives are 
+considered:
+-	specific if they are precise and concrete enough not to be open to 
+varying 
+interpretations ; 
+-	measurable if the output can be measured and therefore any 
+improvements 
+assessed; 
+-	achievable if the expected results can realistically be produced with 
+the 
+available resources;
+-	relevant if they relate to the needs and to the strategic objectives; 
+and
+-	timed if they relate to a deadline or time period24.
+24.	Due to the rather complex structure of the CIP (see Annex I), the 
+hierarchical 
+structure of the objectives is also complex. Four global objectives are 
+set at the 
+level of the framework programme . In the case of the EIP which includes 
+the 
+SMEG facility, the immediate objectives  are defined at the level of the 
+specific 
+programme . Although no specific objectives are set at the level of the 
+financial 
+instruments, article 19.2 of the CIP Decision describes each window of 
+the SMEG 
+facility in an objective-like fashion (see Box 1).
+Box 1-  Objectives relevant to the SMEG facility
+Global objective
+To foster the competitiveness of enterprises, in particular of SMEs.
+Immediate objective 
+To improve (…) access to finance for the start-up and growth of SMEs and 
+investment in innovation activities.
+The four SMEG windows 
+Loan window - shall reduce the particular difficulties SMEs face in 
+accessing 
+finance either due to the perceived higher risk associated with 
+investments in 
+certain knowledge-related activities such as technological development, 
+innovation and technology transfer, or due to a lack of sufficient 
+collateral.
+Microcredit window - shall encourage financial institutions to play a 
+greater role in 
+the provision of loans of a smaller amount which would normally involve 
+proportionately higher unit handling costs for borrowers with 
+insufficient collateral. 
+In addition to guarantees or counter-guarantees, financial intermediaries 
+may 
+receive grants to partially offset the high administrative costs inherent 
+in micro 
+credit financing.
+Equity and quasi equity window - shall include investments which provide 
+seed 
+capital and/or capital in the start-up phase, as well as mezzanine 
+financing, in 
+order to reduce the particular difficulties which SMEs face because of 
+their weak 
+financial structure, and those arising from business transfers.
+Securitisation window - shall mobilise additional debt financing for SMEs 
+under 
+appropriate risk-sharing arrangements with the targeted institutions. 
+Support for 
+those transactions shall be made available upon an undertaking by the 
+originating 
+institutions to grant a significant part of the liquidity resulting from 
+the mobilised 
+capital for new SME lending in a reasonable period of time.
+25.	The objectives are relevant, but they are only specific, stated in a 
+measurable 
+format and timed as regards the expected outputs of the facility. The 
+quantified 
+target of reaching 315 750 SMEs seems to be reasonably achievable (see 
+paragraph 77). 
+26.	Compared to the MAP, the objectives of the SMEG facility were more 
+precise. 
+However, they are defined in a very broad manner. For instance, according 
+to the 
+EIP immediate objective, the loans have “to improve access to finance for 
+the 
+start-up and growth of SMEs”. Such an objective implies a very broad set 
+of 
+potential target SMEs as it can be argued that almost any borrowing by 
+any SME 
+will be undertaken in order to ensure the growth of a company. Also, the 
+concept 
+of innovation has been interpreted in a wide way .
+27.	The CIP impact assessment sets an output target for the number of 
+SMEs 
+expected to benefit within the seven year programme horizon. Targets in 
+terms of 
+results or impact have not been set (for more details, see paragraph 64). 
+An 
+estimated number of direct jobs maintained or created within five years 
+was 
+provided in the impact assessment. This does not directly relate to any 
+of the 
+objectives, but can be derived from the renewed Lisbon strategy.
+Setting up the management structure of the SMEG facility: delegating the 
+day-to-day management to the EIF 
+28.	The cornerstone of efficient and effective delegation is the 
+contractual 
+agreement detailing the provisions for the implementation of the tasks 
+entrusted to 
+the specialised body. This contractual agreement should in particular 
+detail the 
+obligations of the specialised body and include all appropriate 
+arrangements for 
+ensuring that the policy objectives will be attained . 
+29.	The EIF has systematically developed expertise in providing financial 
+engineering products to SMEs in Europe. It was selected by the European 
+Community to operate the day-to-day management of the SMEG facility at 
+its start 
+in 1998. Using the EIF under the successive multi-annual programmes (G&E, 
+MAP and then CIP) aims to ensure the required continuity of the 
+management of 
+the SMEG facility. 
+30.	In this context, the Court examined: 
+-	whether the implementation of the SMEG facility was being effectively 
+planned to avoid delays and to provide an uninterrupted support to the 
+SMEs; 
+and
+-	whether the regulatory framework  defining the services to be 
+provided by 
+the EIF ensures efficient and effective management of the facility.
+Delays in planning the SMEG facility
+31.	Considering that the MAP covered the period from 2001 to 2006 and the 
+CIP 
+covers the period from 2007 to 2013, the start of the operations under 
+the CIP 
+should have been planned in order to preserve the continuity of the 
+financial 
+support. The FMA should have been in place at least 11 months (see 
+paragraph 
+33) before the start of the CIP as this would have left sufficient time 
+for signing the 
+guarantee agreements between the EIF and the financial intermediaries.
+32.	The first draft version of the FMA under the CIP was dated March 
+2006, but 
+was not signed until 20 September 2007, nearly nine months after the 
+start of the 
+CIP. Thereafter, it took almost one year until the first guarantee 
+agreement 
+between the EIF and a financial intermediary was signed  (see Figure 2).
+Figure 2 - Timeline of the MAP and CIP legal base
+ 
+33.	The average period from the receipt of the CIP application from an 
+intermediary up to the signature of the agreement was nearly eleven 
+months . 
+Moreover, the timeframe for the application process was considered to be 
+unreasonable by eight out of 21 respondents to the Court’s questionnaire 
+. This 
+delay in the selection process was mainly caused by the need to resolve 
+technical 
+issues raised by the EIF before the implementation of the SMEG facility, 
+such as 
+agreeing on a definition of and measuring the additionality of the loan 
+guarantees 
+(see paragraph 84). Altogether, this led to a significant time gap in the 
+transition of 
+the successive programmes.
+To preserve the continuity of the support a “retroactivity clause” was 
+introduced
+34.	The continuity of the support is important for the financial 
+intermediaries as 
+some introduced specific loan products tailored to the needs of the SMEG 
+facility. 
+The interruption of EU support could cause higher losses to the financial 
+intermediaries if the product was maintained without the EU guarantee.  
+35.	The “retroactivity clause” was introduced with the aim of minimising 
+the time 
+gap between the two successive programmes and preserving continuity 
+between 
+the MAP and CIP programmes. This clause enabled the financial 
+intermediaries to 
+retroactively include loans to be supported by the facility which they 
+had entered 
+into between the end of the availability period under MAP and the date on 
+which 
+their CIP guarantee agreement was signed. 
+36.	As a result, the equal treatment of financial intermediaries was not 
+ensured 
+since the financial intermediaries which had participated in the MAP 
+benefited 
+from favourable treatment through the retroactive inclusion of loans. 
+Loans could 
+be retroactively included as from September 2007, whereas new financial 
+intermediaries could only include loans once their guarantee agreement 
+with the 
+EIF  had been signed.
+37.	Although the retroactivity clause was designed to resolve the 
+financial 
+intermediaries’ funding gap between MAP and CIP, it could not always 
+prevent a 
+disruption of EU support to SMEs. This was the case for two of the nine 
+financial 
+intermediaries visited for which the availability period under MAP ended 
+before 
+the start of the CIP availability period (a gap of four months). 
+Appropriate management framework established to operate the SMEG 
+facility 
+38.	The SMEG facility operates under the joint management of the 
+Commission 
+and the EIF . To ensure a successful delegation, the FMA and the related 
+operational guidelines should include:
+-	a definition of the action to be implemented, such as the specific 
+objectives 
+per window (see Box 1 for a description of the windows);
+-	the management structure for the implementation of the tasks; and
+-	the setting up of an adequate fee structure for the services provided 
+by the 
+EIF.
+39.	Article 3 of the FMA stipulates the tasks the EIF has to implement 
+(see Box 2): 
+Box 2 – EIF main tasks for managing the SMEG facility:
+- Identification, evaluation and selection of financial intermediaries;
+- Determination of, and agreement with, the financial intermediaries on 
+the nature 
+and detailed conditions of the EU guarantees; 
+- Decisions to commit funds; and
+- Execution, management and termination of the EU guarantees (including 
+reporting and monitoring).
+40.	For each SMEG window, operational guidelines  were developed 
+detailing the 
+specific purpose, the selection of the intermediaries, the eligibility 
+criteria, the EU 
+guarantee and the modus operandi. The Commission issued Guidance on 
+Enhanced Access to Finance on 29 October 2007 to supplement these 
+operational guidelines, in particular the provisions of the FMA on 
+establishing the 
+parameters of the guarantee agreement. 
+41.	The management structure established for the SMEG facility was 
+appropriate 
+as it improved the operational guidelines and the other provisions for 
+the 
+implementation of the tasks compared with those under the MAP, since they 
+cover all tasks to be carried out in sufficient detail.  
+42.	The fees to be paid to the EIF should be calculated so as to take 
+into account:
+-	performance in achieving specific targets;
+-	the geographical distribution in the eligible countries; and
+-	the degree of novelty and complexity of the guarantee instrument.
+43.	The EIF fee scheme has been improved under CIP compared to MAP since:
+-	the fee structure has been split into four distinctive components 
+better 
+reflecting the associated workload for each task; and 
+-	the fee entitlement is triggered by the achievement of specific 
+results (see  
+Table 3).
+Table 3 - Overview of the four incentives fees that constitute EIF 
+remuneration
+Type of incentive 
+fee
+To mainly encourage :
+Start-up Fee
+Setting-up the programme within 12 months
+Signature Fee
+Broad geographical coverage of the programme and use of 
+specific windows
+Implementation Fee
+Additional volume achieved and daily operations
+Monitoring Fee
+Assurance of sound financial management
+Source: Annex 13 of the Fiduciary and Management Agreement.
+44.	The EIF “signature fee” gives a specific bonus for wide geographic 
+coverage of 
+intermediaries. Furthermore, fees are paid for the participation of 
+intermediaries in 
+countries that were not covered before and also for new intermediaries 
+who did 
+not participate under the previous programmes. 
+45.	Despite the incentive fee for using specific windows, the equity and 
+quasi-
+equity guarantees and securitisation windows had not been utilised as at 
+31 
+December 2009. This is partly due to the financial crisis which 
+negatively 
+impacted the securitisation market as a whole.
+Selection of financial intermediaries
+46.	The audit assessed the selection process in respect of the following:
+-	whether the framework guiding the EIF on the selection of financial 
+intermediaries was complete and ensured fair and transparent selection; 
+-	whether the agreement parameters, determining the extent of the EU’s 
+intervention, had been correctly set; and
+-	whether policy objectives had been correctly translated into the 
+guarantee 
+agreements.
+Well designed selection framework
+47.	The appraisal process should apply common standards to evaluating 
+financial 
+intermediaries, so as to ensure fair, structured and transparent 
+selection. The EIF 
+and the Commission should create and apply minimum standards for the 
+selection 
+of potential intermediaries. 
+48.	The Commission empowered the EIF  to select intermediaries by 
+applying 
+the selection criteria and process set out in the relevant guarantee 
+policies . The 
+guarantee policies further state that the intermediaries are to be 
+selected in 
+conformity with best practice. An overview of the SMEG selection process 
+carried 
+out by the EIF is provided in Box 3.
+Box 3 – the EIF’s selection process for intermediaries
+*	Analysis of intermediaries’ applications following an open call 
+procedure
+*	Pre-selection of the applications – standardised check on formal 
+requirements
+*	Due diligence process (including setting of guarantee parameters)
+*	Independent opinion of the EIF’s Risk Management Department
+*	Assessment by the EIF’s Compliance Department
+*	Approval by the EIF Board of Directors and by the European Commission 
+(Director ECFIN – L)
+49.	When defining the facility’s management framework, the following 
+criteria for 
+selecting potential financial intermediaries were laid down in the FMA :
+-	financial standing and operational capability of the intermediary and 
+its ability 
+to manage risk and to comply with the terms and conditions of the SMEG 
+facility;
+-	whether the intermediary guarantees debt and/or micro-credit 
+financing 
+provided by a wide range of lenders to SMEs;
+-	geographic coverage (loan window only);
+-	possibility of providing mentoring and business support (micro credit 
+window 
+only); and
+-	acceptance of the “Enhanced Access to Finance” criterion (see 
+paragraph 
+54).
+50.	The Court considers the criteria for the selection of financial 
+intermediaries to 
+be in line with practices in comparable financial institutions. However, 
+neither the 
+Commission nor the EIF set scoring standards against which the 
+intermediaries’ 
+applications could have been assessed, rated and compared according to 
+their 
+degree of compliance with those criteria. The lack of precision regarding 
+the 
+selection criteria allowed the EIF to exercise a high level of discretion 
+in 
+evaluating the applications. 
+Insufficient records justifying the agreement parameters 
+51.	The two main parameters of the guarantee agreements are the reference 
+volume and the guarantee cap rate. The reference volume represents the 
+amount 
+of guarantees or financing which the intermediary could “reasonably be 
+expected 
+to achieve […] in the absence of the EU guarantee” . The reference volume 
+further serves as a basis for the computation of additional agreement 
+parameters. 
+The guarantee cap rate  refers to the maximum amount of losses for which 
+the 
+EIF is liable under a guarantee agreement. Both parameters are key 
+factors as 
+they will determine:
+(a)	whether the EU intervention is additional to the guarantee scheme’s 
+existing 
+level of activity or simply replaces it; and
+(b)	the maximum level of budgetary exposure the EU is expected to face 
+under a 
+specific agreement.
+52.	In accordance with the FMA and with the Guidance on Enhanced Access 
+to 
+Finance, the volumes, including the reference volume, are determined on 
+the 
+basis of the EIF’s professional judgement, based on past budgets and loss 
+rates 
+or forecasts (especially for public guarantee schemes) and considering 
+the market 
+conditions and their evolution over time. 
+53.	Weaknesses were found in the EIF’s documentation relating to the 
+setting of 
+the agreement parameters, including the reference volume and the cap 
+rate. Only 
+a summary of the results of the due-diligence step is included in the 
+EIF’s request 
+for the Board of Directors’ approval. When setting these parameters, the 
+EIF 
+takes as a basis the information provided by the financial intermediary. 
+No 
+evidence was found that the EIF verified this information.
+Policy objectives not fully defined in the guarantee agreements
+54.	Each guarantee agreement should contribute to the achievement of the 
+policy 
+objectives by specifying exactly what should be achieved. The general 
+undertakings applicable to every intermediary in the guarantee agreements 
+include principles of enhanced access to finance. These principles are 
+derived 
+from the broader objectives set out in the legal basis  and in the FMA 
+and reflect 
+these objectives appropriately. Box 4 presents the principles applicable 
+to the 
+loan window.
+Box 4 - Principles of enhanced access to finance as per guarantee 
+agreement (loan window)
+The purpose of this agreement is the provision of a guarantee by the ElF 
+to the 
+intermediary in order to partially cover the intermediary’s portfolio 
+risk with a 
+view to:
+
+(i) enhancing SMEs' access to finance;
+(ii) reducing the particular difficulties that SMEs face in accessing 
+finance, 
+either due to the perceived higher risk associated with investment in 
+certain 
+knowledge-related activities such as technological development, 
+innovation 
+and technology transfer, or due to the lack of sufficient collateral; and
+(iii) stimulating job-creation by supporting SMEs with growth and 
+employment 
+creation.
+
+55.	Besides these general provisions, specific financial intermediary 
+guarantee 
+terms may include “further qualitative undertakings in respect of 
+enhanced access 
+to finance”. However, some of the intermediary guarantee terms are 
+inconsistent 
+with the objectives of the CIP or provide little operational guidance. 
+For instance: 
+-	in respect of the lack of collateral aspect it was found for one 
+intermediary 
+that “in addition to complying with any relevant provision of this 
+agreement 
+[…] the intermediary undertakes […] to require a low collateral level in 
+relation 
+to intermediary transactions”. In this case the specific terms of the 
+agreement 
+translate the general conditions relating to the lack of collateral into 
+reduced 
+collateral requirements. However, this allows de facto all SMEs to 
+benefit 
+from the reduced collateral requirements and does not ensure that only 
+SMEs 
+effectively lacking collateral, and thus unable to borrow under usual 
+commercial terms, benefit from the facility; and
+-	the specific terms of the agreements leave broad discretion in the 
+matter of 
+interpretation of innovation. The same guarantee agreement stated, 
+without 
+providing any further explanation, “[…] the intermediary undertakes […] 
+to 
+enter into intermediary transactions with newly created SMEs or SMEs 
+involved in innovative projects”.
+Performance monitoring and reporting
+56.	Effective monitoring and reporting requires relevant, reliable and 
+timely 
+information on the status of the policy implementation and the extent to 
+which the 
+policy objectives are being met. 
+57.	Performance monitoring of the SMEG facility is carried out by both 
+the 
+Commission and the EIF (see Annex II). The information flows from the 
+SMEs 
+(i.e. final beneficiaries) through one or more layers (in the case of co- 
+or counter-
+guarantees) of financial intermediaries to the EIF and finally to the 
+Commission. 
+Financial intermediaries report to the EIF on a quarterly basis on the 
+SMEG 
+facility. Based on this information, the EIF prepares quarterly 
+consolidated reports 
+for the Commission, which then uses these reports for the annual 
+implementation 
+reports on the EIP and on the CIP. 
+58.	The Court examined the following aspects of performance monitoring 
+and 
+reporting:
+-	whether the Commission established a balanced set of performance 
+indicators to reliably measure the status of policy implementation; and
+-	whether the reporting requirements are clear and reasonable.
+Performance indicators were established, but should be more stable and 
+balanced
+59.	The prerequisite for effective monitoring (i.e. to measure progress 
+of the 
+implementation of the SMEG facility) is the definition of a set of clear 
+indicators 
+and associated targets. Indicators should be relatively stable so that 
+changes over 
+time can be observed and compared. 
+60.	The SMEG performance indicators should contribute to an assessment of 
+the 
+achievement of the programme’s specific objectives as laid down in the 
+legal 
+basis and the global objectives of the European Union policy from which 
+these 
+objectives are derived. 
+61.	For SMEG the Commission established six indicators (see Table 4). 
+Table 4 – SMEG indicators established by the Commission
+
+SMEG indicators
+Indicators 
+foreseen in 
+the ex-ante 
+impact 
+assessment1
+Indicators in 
+the EIP Work 
+Programme 
+2009
+Indicators reported 
+in the EIP 
+Implementation 
+Report 2009
+Indicators in 
+the EIP Work 
+Programme 
+2010
+Type of 
+indicator
+1
+EC commitment 
+to debt finance 
+and total financing 
+guaranteed
+n/a
+n/a
+111,8 million euro 
+(cap amount) 
+guaranteeing an 
+actual loan volume of 
+2 771 million euro
+Yes, but no 
+target value was 
+assigned
+Output
+2
+The number of 
+jobs created or 
+maintained in 
+SMEs receiving 
+new financing
+315 7502
+
+Yes, but no 
+target value was 
+assigned
+Number of employees 
+at inclusion date: 
+151 475
+Yes, but no 
+target value was 
+assigned
+Impact
+3
+The number of 
+SMEs receiving 
+new financing
+315 750
+Yes, but no 
+target value was 
+assigned
+47 791
+Yes, but no 
+target value was 
+assigned
+Output
+4
+Number of SMEs 
+supported, 
+classified by 
+sector of activity 
+n/a
+n/a
+n/a3
+Yes, but no 
+target value was 
+assigned
+Output
+5
+The change in the 
+volume of 
+investment 
+financing
+Yes, but no 
+target value 
+was assigned
+Yes, but no 
+target value was 
+assigned
+Not reported.
+n/a
+Result
+6
+Total net 
+disbursement
+Yes, but no 
+target value 
+was assigned
+Yes, but no 
+target value was 
+assigned
+Not reported.
+n/a
+Output
+1	Annex to the Proposal for a Decision of the European Parliament and 
+of the Council establishing a 
+Competitiveness and Innovation Framework Programme (2007-2013), SEC(2005) 
+433.
+2	One job created or maintained for each SME receiving new financing. 
+The Commission considers 
+that as the data of the Growth and Employment initiative indicate that 
+beneficiary SMEs created 
+on average 1.2 jobs, a more conservative ratio should be used to account 
+for the fact that micro-
+credit guarantee corresponds to more than 20 % of all companies reached 
+by SMEG and thus, 
+fewer jobs are expected to be created by these companies bringing down 
+the overall average.
+3	The information can be found in the EIF quarterly reports only.
+62.	Of the four indicators (numbers 2, 3, 5, and 6) included in the ex-
+ante 
+evaluation and in the EIP 2009 Work Programme, only two were carried over 
+(numbers 2 and 3) to the Commission’s EIP Implementation Report. In the 
+EIP 
+2010 Work Programme, two initial indicators were dropped (numbers 5 and 
+6) and 
+two new indicators were added (numbers 1 and 4). These changes, made in 
+2010, were a reaction to a study on the evaluation of the indicators . 
+63.	In the ex-ante evaluation only two indicators (numbers 2 and 3) had 
+target 
+values assigned to them. The EIP 2009 and 2010 Work Programmes did not 
+set 
+targets for the indicators to achieve in the respective period. In the 
+absence of 
+target values, it is difficult to assess whether the programme is 
+developing as 
+expected.
+64.	Even though the Commission tried to create a balanced set of 
+measurable 
+indicators, including output, impact and result indicators, the only 
+result indicator 
+(number 5) was not carried over and was finally dropped by the 
+Commission. The 
+only impact indicator (number 2) is problematic (see paragraphs 67 and 
+68) and 
+all remaining indicators are output indicators. Thus, the indicators have 
+become 
+more of an instrument of operational management than an indicator to 
+measure 
+the impact and the success of the programme. It is difficult to strike 
+the right 
+balance between collecting the data economically and monitoring 
+performance 
+effectively. The evaluators of the EIP indicators suggested a set of 
+balanced 
+indicators including data collection methods and timing . 
+65.	If meaningful conclusions as to the achievements of the SMEG 
+programme 
+are to be drawn, it is essential that the monitoring data provided by the 
+financial 
+intermediaries should be reliable, i.e. accurate and complete. 
+66.	The financial intermediaries visited by the Court had all established 
+procedures for collecting the data necessary for reporting to the EIF. 
+The quality 
+of the reporting processes at intermediary level is checked during the 
+on-site 
+monitoring visits by the EIF. 
+67.	The collection of data related to “the number of jobs created” 
+indicator poses 
+difficulties for some financial intermediaries. In some countries the 
+data are 
+obtained from governmental institutions , some financial intermediaries 
+collected 
+them on a sample basis , others made calculations using expected values  
+or 
+the financial intermediaries did not update employment data annually as 
+it would 
+be too burdensome . Since the quality of employment data varies from 
+country to 
+country, adding them up raises concerns as to the reliability of the 
+value of the 
+indicator concerning the number of jobs created (number 2).
+68.	Another problem with this indicator is that the values are taken from 
+the 
+number of persons employed by the supported SMEs, which is not equivalent 
+to 
+the number of jobs created or maintained at SMEs receiving new financing. 
+The 
+new financing received by an SME is not the only factor which leads to 
+maintaining or creating jobs. There is no analysis as to how the 
+guaranteed loan 
+contributed to maintaining or creating jobs. 
+Reporting requirements are clear and reasonable and only some financial 
+intermediaries consider them a burden
+69.	Financial intermediaries should have clear reporting requirements in 
+order to 
+collect the data for monitoring and reporting on the SMEG programme. Time 
+and 
+resources to obtain the required information for the indicators should 
+not create an 
+unnecessary administrative burden. 
+70.	Financial intermediaries are required to collect various data on the 
+supported 
+SMEs and report to the EIF on a regular basis (see Annex III). Reporting 
+requirements are listed in the guarantee agreement between the EIF and 
+the 
+financial intermediary. To this end, clear guidelines  have been issued 
+by the EIF 
+to the financial intermediaries as to how to compile the requested data. 
+Corroborating this statement, 88 % of the financial intermediaries agreed 
+that the 
+operational instructions provided by the EIF were clear . Furthermore, 98 
+% of 
+the financial intermediaries stated that the EIF is always willing to 
+provide further 
+information to clarify operational issues . 
+71.	The results of the Court’s questionnaire also showed that only 20 % 
+of 
+financial intermediaries participating under the CIP and/or the MAP find 
+the 
+reporting requirements unreasonable . 
+72.	In cases where data collection through financial intermediaries poses 
+a lot of 
+difficulties (for example, employment data), alternative methods of 
+collecting 
+information could have been more appropriate. Both reports, “Evaluation 
+of the 
+Indicators of the EIP” and the “Interim evaluation of the EIP”, suggested 
+using 
+surveys in the context of an evaluation.
+Achievements of the SMEG facility
+73.	This section describes the outputs delivered by the SMEG facility. 
+The outputs 
+are analysed in relation to the facility’s objectives. Furthermore, the 
+European 
+added value of the facility is examined, in particular whether the 
+facility’s 
+objectives are better achieved by implementation at Community level than 
+at 
+national or regional level.
+Outputs of the SMEG facility
+74.	The CIP financial instruments should “improve (…) access to finance 
+for the 
+start-up and growth of SMEs and investment in innovation activities ”. 
+More 
+specifically, the SMEG facility under CIP sets out to: 
+-	reach 315 750 SMEs ;
+-	guarantee loans that finance SMEs’ innovative investments  or are 
+provided 
+to SMEs lacking sufficient collateral; and therefore
+-	enhance access to finance where the market fails.
+75.	The following analysis was based on a review of the loan sample 
+selected by 
+the Court . As regards investments in certain knowledge-related 
+activities such 
+as technological development, innovation and technology transfer, 
+reference is 
+made to the OECD Oslo Manual for the measurement of scientific and 
+technological activities . 
+The overall target of reaching 315 750 SMEs is attainable
+76.	All financial intermediaries visited clearly targeted SMEs and all 
+had 
+procedures in place to verify the SME status of the borrower.
+77.	As regards the overall target of reaching 315 750 SMEs , the 
+Commission 
+and the EIF made a successful effort to overcome the consequences of the 
+initial 
+delay (see paragraph 32) by concentrating on the larger financial 
+intermediaries. 
+In the three years since the CIP came in force, the EIF has signed 25 
+deals with 
+21 financial intermediaries (see Table 2). At the end of 2009, the total 
+guarantee 
+cap amount  of these guarantee agreements stood at 191,1 million euro, 
+representing 37,5 % of the overall budget for the SMEG facility. The 
+financial 
+intermediaries had provided loans to almost 59 000 SMEs, representing 19 
+% of 
+the target number of SMEs. Taking into account the results from the MAP, 
+the 
+signed guarantee agreements reach more than half of the target number of 
+SMEs 
+(57,4 %) if the maximum portfolio amount is reached for each of these 
+agreements  (see Figure 3). Therefore, the progress in implementation is 
+sufficient to expect that the overall target of reaching 315 750 SMEs 
+will be 
+attained.
+Figure 3 - Outputs of the SMEG facility under CIP as at the end of 2009
+ 
+Source: European Court of Auditors.
+The facility reaches SMEs which lack collateral; innovative projects are 
+scarce
+78.	The SMEG facility is designed to enhance access to debt funding for 
+SMEs 
+that have viable projects but are unable to secure a loan from commercial 
+lenders. 
+Such a situation can occur if an SME does not have sufficient collateral 
+to fulfil the 
+requirements of a commercial lender. Alternatively, the SME can be denied 
+access to loan financing if the commercial lenders are not in a position 
+to easily 
+estimate the viability of the business proposition, as might be the case 
+for 
+innovative investments. The more novel the investment, the less likely it 
+is that a 
+loan will be granted.
+79.	Based on the responses to the Court’s questionnaire, the CIP 
+financial 
+intermediaries aimed to target primarily SMEs without sufficient 
+collateral, 
+secondly micro enterprises and then start-ups. The innovative SMEs 
+represent 
+the category that is least targeted. While 90 % of the intermediaries 
+agreed with 
+the statement that their CIP-guaranteed product was aimed at customers 
+that did 
+not have sufficient collateral, only approximately half of the 
+intermediaries agreed 
+with the statement that their CIP-guaranteed product was aimed at 
+innovative 
+SMEs (see Figure 4).
+Figure 4 - Survey of Financial Intermediaries – SMEs targeted by the 
+guarantee/loan product
+ 
+Source: ECA questionnaire to the financial intermediaries.
+80.	The analysis of the loan sample shows that SMEs with a lack of 
+collateral 
+benefited more often than SMEs that were carrying out innovative 
+investments. 
+Out of the 181 loans in the sample, 77 loans (43 %) were provided to SMEs 
+that 
+lacked sufficient collateral to gain access to finance through existing 
+commercial 
+lending. Only 22 loans (12 %) were used to finance projects that had 
+innovative 
+aspects (see Table 5).
+
+Table 5 - Results of the loan analysis in terms of number of loans and 
+percentage 
+of sample size
+
+SMEs that lack 
+sufficient1 
+collateral
+SMEs with 
+sufficient 
+collateral
+Lack of collateral 
+not 
+demonstrated
+Total
+Loans used to finance 
+innovative 
+investments
+7
+4 %
+12
+7 %
+3
+2 %
+22
+12 %
+Loans used to finance 
+projects without 
+significant innovative 
+element
+70
+39 %
+69
+38 %
+20
+11 %
+159
+88 %
+Total 
+77
+43 %
+81
+45 %
+23
+13 %
+181
+100 %
+1 In the cases where a financial intermediary defined the level of 
+sufficient collateral or this level 
+could be implicitly deduced, this was applied to determine the 
+“sufficiency” of the collateral. In the 
+remaining cases, an SME was considered to possess sufficient collateral 
+if the loan amount did 
+not exceed 70 % of the value of realisable assets. In the latter 
+category, other factors which 
+increased the risk profile of the SME were also taken into account (e.g. 
+loans to unemployed) and 
+as a result these SMEs were considered as “SMEs that lack sufficient 
+collateral”.
+Source: European Court of Auditors.
+81.	Although innovative investments were rare, the loan sample included 
+some 
+highly innovative investments. Half of the innovative projects (11 out of 
+22) were 
+assessed as market-new or world-new types of innovation. These projects 
+aimed 
+at creating new or significantly improved products, production processes 
+or 
+delivery methods that were new at least for the operating market of the 
+enterprise. 
+For an example of such an investment, see Box 5. The remaining innovative 
+investments could be described as a novelty only for the enterprise 
+concerned, 
+and were already being implemented by other firms that were directly 
+competing 
+with the borrower.
+
+
+Box 5 - Example of an innovative project
+The entrepreneur did not have sufficient collateral to secure a normal 
+commercial 
+loan of 40 000 euro. However, in his previous job as a researcher he had 
+acquired 
+significant knowledge about the production of vinegar. He therefore, used 
+the 
+guaranteed loan to start up a company producing high-quality vinegar. The 
+production process used specifically cultivated bacteria that made the 
+fermentation process more stable. The resulting vinegar had a better 
+taste and 
+higher sugar content – qualities appreciated by consumers. The company’s 
+operating market was regional and there were no other competitors using 
+the 
+same production process.
+82.	However, for 23 loans no assessment could be made regarding the 
+reported 
+lack of collateral due to the absence of information at the financial 
+intermediaries. 
+Financial intermediaries strive for additional lending volumes, but more 
+attention 
+could have been paid to deadweight
+83.	In guarantee schemes, “deadweight” occurs if the borrower could have 
+obtained the loan from commercial lenders without public support. In such 
+situations, the effects, such as creation of jobs, economic or innovation 
+activity, 
+would have been realised anyway. Publicly supported guarantee schemes are 
+most effective when the financed investment would otherwise not have been 
+carried out, and the desired effects would not have been realised. 
+84.	To ensure that the SMEG facility provides additional access to 
+finance for 
+SMEs, the Commission has developed Guidance on Enhanced Access to 
+Finance. This aims to ensure that the financial intermediary can use the 
+portfolio 
+guarantee only after the actual lending volume exceeds the lending volume 
+that 
+the intermediary would have achieved without the guarantee. This concept 
+of 
+additionality is simple to use and can be easily embedded into the 
+guarantee 
+agreement.
+85.	However, additionality does not ensure that the additional volume at 
+the level 
+of the financial intermediary is also additional at the level of the 
+economy. In the 
+context of the SMEG facility, it is considered that deadweight occurs if 
+guarantees 
+are provided for loans to SMEs with sufficient collateral and without 
+innovative 
+investments. However, when providing assistance on protfolio basis, a 
+certain 
+level of deadweight is inevitable. The loan analysis revealed deadweight 
+in more 
+than a third of the loans in the sample (38 %, 69 out of 181, see Table 
+5). Other 
+things being equal, these borrowers could have obtained the loans from 
+commercial lenders without the SME guarantee. A survey of the MAP 
+borrowers 
+conducted by the interim evaluator showed a similar level of deadweight .
+Specific lending conditions
+86.	Each guarantee agreement between the EIF and the financial 
+intermediary 
+contains a standard clause listing the principles of enhanced access to 
+finance 
+(see paragraph 54) for the benefit of SMEs without collateral or with 
+innovative 
+investments. There is not always a clear indication as to how the 
+financial 
+intermediary intends to target them. Some financial intermediaries used 
+specific 
+lending conditions to attract such SMEs, thus minimising deadweight (see 
+Box 6).
+Box 6 - Lending conditions to attract either innovative SMEs or SMEs 
+without 
+sufficient collateral 
+*	The guaranteed loans can be provided only to start-ups and SMEs with 
+a short 
+business history
+*	Ceiling on the loan amount
+*	Providing non-monetary benefits to the SMEs  so that the guaranteed 
+loans 
+are not cheaper than non-guaranteed loans
+*	Higher guarantee rates for investments that are innovative or 
+constitute to 
+some extent a novelty
+
+87.	While the first three lending conditions will lead to automatic 
+preference for 
+borrowers that lack collateral, the last condition will probably increase 
+the interest 
+of innovative SMEs. The relative absence of lending conditions geared 
+towards 
+innovative SMEs may explain the low number of innovative investments 
+found in 
+the sample (see Table 5).
+European added value
+88.	As all the fields covered by the CIP are the shared responsibility of 
+the 
+Member States and the Community , the SMEG facility also has to respect 
+the 
+subsidiarity principle stipulated in Article 5 of the Treaty. EU actions 
+not falling 
+within the exclusive competence of the Union, such as the SMEG facility, 
+should 
+be undertaken only if, and in so far, as the objectives of the proposed 
+action 
+cannot be sufficiently achieved by the Member States, but can rather, by 
+reason 
+of the scale or effects of the proposed action, be better achieved at the 
+EU level.
+89.	The concept of subsidiarity is reiterated in a recital preceding the 
+CIP 
+decision , in the CIP proposal  and in the CIP impact assessment . In 
+essence, 
+the arguments used by the Commission in favour of the EU dimension of the 
+financial instruments can be grouped under two headings:
+-	ensuring coherence in implementation; and 
+-	the global nature of competition and innovation.
+The SMEG facility may have sizeable non-monetary benefits for an 
+intermediary; 
+however consistency of implementation is not actively striven for
+90.	In its CIP preparatory documents, the Commission argued that the 
+European 
+dimension would ensure diffusion of good practice in the delivery of 
+financial 
+instruments, including the SMEG facility. Although similar measures exist 
+in some 
+Member States, the Community intervention will contribute to the 
+consistency of 
+implementation.
+91.	Several cases were found in which the financing from the EU budget 
+was 
+crucial, not only as a partial coverage of the credit losses, but also 
+because it 
+allowed the intermediary to try something new. In two instances the SMEG 
+facility 
+helped with the development of guarantee or lending products that were 
+new to 
+the intermediary. For one of them, multiple attempts had to be made until 
+the 
+product gained sufficient recognition from the on-lending banks and the 
+clients. It 
+can be assumed that the product would not have been developed if the EIF 
+and 
+the Commission had not repeatedly collaborated with that intermediary. 
+Furthermore, cooperation with the EU institutions may help smaller 
+private 
+financial intermediaries especially to gain recognition among the on-
+lending banks 
+and/or their clients. 
+92.	This is corroborated by the result of the questionnaire sent to the 
+financial 
+intermediaries. 6 out of 31 CIP intermediaries  have developed a new loan 
+or 
+guarantee product and 16 out of 31 have significantly modified their 
+existing 
+products to participate in the CIP. 
+93.	The SMEG facility increases the visibility of EU support among 
+financial 
+intermediaries. The audit visits showed that awareness of the EU 
+guarantees 
+among SMEs was not very high. However, actively driven attempts to ensure 
+consistency between the practices of different intermediaries were not 
+observed. 
+The EIF simply collects the information about the practices of the 
+financial 
+intermediaries, but does not question these practices. As has been shown 
+in the 
+case of lending conditions (see paragraph 86), a more active approach by 
+the EIF 
+might improve take-up of the facility by SMEs with innovative projects or 
+insufficient collateral.
+The SMEG facility increases the competitiveness of individual 
+enterprises; this 
+does not imply that EU added value is delivered
+94.	This aspect of EU added value is directly related to one of the CIP 
+global 
+objectives: “to foster the competitiveness of enterprises, in particular 
+of SMEs” . 
+In the preparatory documents, the Commission argued that the competition 
+European firms face is increasingly global and innovation is seen as a 
+global 
+phenomenon that is not successful and sustainable in a closed 
+environment.
+95.	The loan analysis showed that the SMEG facility does indeed help 
+individual 
+enterprises to increase their competitiveness. It was found that 74 out 
+of 
+181 loans (41 %) were directly used to increase the enterprise’s 
+competitiveness . The SMEG facility delivers many other valuable results 
+in 
+relation to the creation of a more competitive environment. It enables 
+small start-
+ups - mainly in the service sector - to emerge. Out of the 181 loans in 
+the sample, 
+26 loans (14 %) were used to start a new business and 15 loans (8 %) were 
+used 
+to finance post-start-up expansions of the business . It also helps to 
+maintain the 
+competitive landscape allowing individuals to become entrepreneurs by 
+buying an 
+existing SME (47 loans, 26 %).
+96.	However, the EU added value of these results is not conclusive as the 
+same 
+effects could be achieved with funding from national budgets. For 
+instance, the 
+Commission  gives three suggestions on how an EU policy may impact 
+competitiveness at the EU level . The EU policy might:
+-	have an impact on the competitive position of EU firms in comparison 
+with 
+their non-EU rivals;
+-	stimulate cross-border investment flows, including relocation of 
+economic 
+activity; or 
+-	be necessary to correct undesirable outcomes of market processes in 
+European markets.
+97.	None of these effects were observed during the audit. The loan 
+analysis 
+confirmed that most of the SMEs are operating in local, regional or 
+national 
+markets. 19 out of 181 loans (10 %) were provided to SMEs that had some 
+cross-
+border activities and 13 loans (7 %) were used for investments that had a 
+significant cross-border element . The scarcity of cross-border 
+activities is not 
+surprising given the types of businesses of the SMEs in the sample (for 
+an 
+overview, see Figure 5): 17 restaurants, 8 taxi drivers, 41 small retail 
+shops 
+(bakery, butcher, newspaper shop or supermarket) or 17 craftsmen 
+(carpenter, 
+electrician, mason or roofer). Given these examples of borrowers whose 
+businesses are usually local, the need for EU intervention is not 
+sufficiently 
+demonstrated.
+Figure 5 - Loan Analysis – Types of Businesses 
+ 
+Source: European Court of Auditors.
+98.	Indeed, the scale of the individual guarantee deals does not go 
+beyond 
+national borders. In essence the SMEG facility operates as a set of 
+national 
+guarantee schemes, because there are significant differences between the 
+national debt markets . These differences are caused by cultural as well 
+as legal 
+constraints and are so significant that the debt markets can be 
+considered to be 
+purely national.
+CONCLUSIONS AND RECOMMENDATIONS
+Design of the SMEG facility
+99.	Although no explicit intervention logic was provided in the CIP 
+preparatory 
+documents for the SMEG facility, an implicit intervention logic can be 
+found in the 
+different preparatory documents of the CIP Decision. However, there is no 
+conceptual link between the problem at stake and the expected results and 
+impacts as presented before the start of the intervention. Although the 
+objectives 
+are now more precise than under the previous MAP programme, they are only 
+specific, measurable, achievable and timed in relation to the expected 
+outputs. 
+Recommendation 1
+Future SME support programmes should be based upon an explicit 
+intervention 
+logic linking the inputs to the expected outputs, results and impacts. 
+Setting the management structure
+100.	Overall an appropriate framework has been established for the 
+management 
+of the SMEG facility. The fee structure has been improved compared to MAP 
+by 
+adding performance triggered incentives. However, delays in the planning 
+of the 
+facility prevented effective budget allocation during the first year and 
+caused an 
+interruption of the support for some financial intermediaries.
+Recommendation 2
+For the purpose of planning any subsequent facility, the Court recommends 
+finalising the legal basis and the management agreement well before the 
+effective 
+start of the programming period in order to have time to select adequate 
+financial 
+intermediaries and to complete contract negotiations with them by the 
+effective 
+start of the programming period, thus avoiding the need to have recourse 
+to any 
+retroactivity clause in the future.
+Selection of financial intermediaries
+101.	The Commission devised appropriate procedures for the selection of 
+financial intermediaries. However, no scoring standards were established 
+to rate 
+the applications from the different potential intermediaries and no 
+minimum 
+requirements are defined for the different selection criteria. Weaknesses 
+were 
+found in the documentation of the parameters setting in the guarantee 
+agreements with financial intermediaries. 
+Recommendation 3
+To enhance the transparency of the selection, a scoring system for the 
+assessment of potential intermediary applications should be put in place 
+for any 
+successor programme. Minimum requirements should be defined for the 
+selection 
+of financial intermediaries. The calculation of the parameters in the 
+guarantee 
+agreements should be documented in greater detail. 
+Performance monitoring and reporting 
+102.	Sufficient output indicators were established which were used to 
+report on  
+SMEG’s implementation. The data for the only impact indicator which 
+refers to the 
+“number of jobs created” is difficult to collect and, due to varying 
+calculation 
+methods, not comparable between countries. Reporting requirements are 
+clear 
+and not perceived as a burden by a majority of the financial 
+intermediaries 
+participating in SMEG.
+Recommendation 4
+The Commission should consider the scope for creating additional or 
+better 
+performance indicators in order to monitor better the achievements of the 
+facility’s 
+objectives and draw appropriate conclusions. 
+Achievements of the SMEG facility
+103.	The only quantified target, that of reaching 315 750 SMEs, is 
+likely to be 
+achieved. The analysis of the Court’s sample of loans showed that less 
+than half 
+of the loans (43 %) were given to SMEs that had a lack of sufficient 
+collateral and 
+only 12 % used the loans for innovative investments. The loan analysis 
+revealed a 
+deadweight of 38 %, i.e. loans made to SMEs with sufficient collateral 
+and not 
+using them for innovation.
+Recommendation 5
+The Commission should in future set more specific targets which better 
+reflect the 
+objectives of the financial instrument. During the lifetime of the 
+instrument 
+monitoring should measure progress towards achieving such targets, 
+allowing 
+remedial action to be taken as necessary. Appropriate measures to 
+minimise 
+deadweight should be envisaged, drawing inter alia on best practices 
+already in 
+place at certain intermediaries.
+104.	The SMEG facility enabled some financial intermediaries to develop 
+and 
+offer new lending or guarantee products, but no active identification and 
+dissemination of good practices is undertaken. The EU added value of SMEG 
+is 
+not demonstrated as the results from SMEG might also have been achieved 
+by 
+funding under national schemes. Significant cross-border investments or 
+effects of 
+the SMEG loans were not observed. 
+Recommendation 6
+As the Court emphasised in the past, expenditure from the Union budget 
+must 
+offer clear and visible benefits for the EU and for its citizens which 
+could not be 
+achieved by spending only at national, regional or local level.  The 
+Budgetary 
+authorities and the Commission should therefore consider how EU added 
+value 
+could be maximised in any successor to the SMEG facility.
+
+
+This Report was adopted by Chamber IV, headed by Mr Igors LUDBORŽS, 
+Member of the Court of Auditors, in Luxembourg at its meeting of 22 March 
+2011.
+	For the Court of Auditors
+
+	Vítor Manuel da SILVA CALDEIRA 
+	President
+
+ 	“Giving SMEs the credit they need”, The magazine of Enterprise 
+Policy, European 
+Commission, 12.2.2009.
+ 	COM(2005) 551 final, 10.11.2005.
+  	Observatory of European SMEs, Analytical Report, November 2006-
+January 2007, 
+Flash Eurobarometer. 
+ 	COM(2005) 24 final, 2.2.2005.
+  	Lisbon European Council 23 and 24 March 2000, Presidency Conclusions. 
+  	Decision 1639/2006/EC of the European Parliament and of the Council 
+of 24 
+October 2006 establishing a Competitiveness and Innovation Framework 
+Programme (2007 to 2013) (OJ L 310, 9.11.2006, p. 15).
+ 	Council Decision 2000/819/EC of 20 December 2000 on a multiannual 
+programme 
+for enterprise and entrepreneurship, and in particular for small and 
+medium-sized 
+enterprises (SMEs) (2001-2005) (OJ L 333, 29.12.2000, p. 84).
+  	The EIF is the European Union body specialised in providing guarantee 
+instruments 
+and risk-capital for SMEs.
+  	Fiduciary and Management Agreement dated 20.9.2007 between the 
+European 
+Community and the EIF for the SMEG facility under the Competitiveness and 
+Innovation Framework Programme (2007-2013).
+  	A co-guarantee provides a second guarantee in addition to the main 
+guarantee to 
+the lender, whereas a counter-guarantee guarantees part of the first 
+guarantor’s 
+guarantee. 
+  	“Guarantee deals” are the individual guarantee agreements between the 
+EIF and a 
+financial intermediary and the activities performed on the basis of these 
+agreements. 
+  	Commission Recommendation 2003/361/EC of 6 May 2003 concerning the 
+definition 
+of micro, small and medium-sized enterprises (OJ L124, 20.5.2003, p. 36). 
+  	Financial intermediaries in Belgium, France, Hungary, Slovenia, 
+Italy, Spain and 
+Germany were visited. 
+  	Documentation concerning the proposal and approval of the loan, the 
+assessment of 
+the borrower’s credit risk and the purpose of the loan was inspected on 
+the financial 
+intermediaries’ premises. 
+  	The questionnaire invited the intermediaries to answer 48 questions 
+on topics such 
+as: (i) the SMEG application process, (ii) the EIF’s management during 
+the lifetime of 
+the guarantee (iii), the guaranteed product, and (iv) the impact of the 
+financial crisis 
+on the products. In addition, the intermediaries that participated under 
+the MAP but 
+not the CIP were asked to indicate the reasons. 
+  	Comments from both the EIF and Commission were taken into account 
+when 
+drafting the questions. A response rate of 82 % was obtained (42 out of 
+51 financial 
+intermediaries).
+  	Commission Staff Working Document, Annex to the Proposal for a 
+Decision of the 
+European Parliament and of the Council establishing a Competitiveness and 
+Innovation Framework Programme (2007-2013), SEC(2005) 433, 6.4.2005.
+  	The interim evaluator recommended providing “a clear statement of 
+intervention logic 
+for each measure in order to improve the overall coherence of the 
+programme and to 
+demonstrate the impact”, European Commission “Interim Evaluation of the 
+Entrepreneurship and Innovation Programme”, 2009. 
+  	See for instance North, Baldock, Ekanem, Whittam and Wyper: “Access 
+to Bank 
+Finance for Scottish SMEs”, 2008. 
+  	COM(2002) 276 final, 5.6.2002. 
+  	The impact assessment considers the outputs such as number of loans 
+or number of 
+SMEs as impacts. However, the actual impact is lower than the outputs, 
+because a 
+part of the SMEs would have obtained the loans without the guarantee. 
+  	Article 27(3) of Council Regulation (EC, Euratom) No 1605/2002 of 25 
+June 2002 on 
+the Financial Regulation applicable to the general budget of the European 
+Communities (OJ L 248, 16.9.2002, p. 1).
+  	The definition is taken from European Commission, Impact Assessment 
+Guidelines, 
+SEC(2005) 791, 15.6.2005.
+  	CIP Decision, Article 2.
+  	Immediate objectives concern the result of an intervention on direct 
+addressees and 
+take account of the envisaged specific domain and particular nature of 
+the policy 
+intervention under consideration. For SMEG, the relevant EIP objective is 
+considered 
+to be the immediate objective.
+  	CIP Decision, Article 10.
+ 	Examples ofinnovation found in the sample: investment in new 
+packaging and 
+sorting technology in a warehouse, a new oven with additional 
+functionalities in a 
+bakery shop.
+  	In accordance with Article 43(4) of Commission Regulation (EC, 
+Euratom) 
+No 2342/2002 of 23 December 2002 laying down detailed rules for the 
+Implementation of Council Regulation (EC, Euratom) No 1605/2002 on the 
+Financial 
+Regulation applicable to the general budget of the European Communities 
+(OJ L 
+357, 31.12.2002, p. 1).
+  	For SMEG: the Fiduciary and Management Agreement and the related 
+operational 
+guidelines (such as the “Guidance on Enhanced Access to Finance”).
+  	The first guarantee agreement under the CIP between a financial 
+intermediary and 
+the EIF was signed on 2 September 2008.
+  	Calculated on the basis of the nine intermediaries visited, the 
+average number of 
+days for processing a successful application under CIP was 323. 
+  	Based on the questionnaire (Q6) sent to all FIs who applied under 
+CIP. 
+  	The first guarantee agreements under the CIP were signed in September 
+2008.
+  	In accordance with Article 53 of Council Regulation (EC, Euratom) No 
+1605/2002.
+  	Fiduciary and Management Agreement, Annexes 1A to 1D.
+ 	Fiduciary and Management Agreement, Article 3.1.
+ 	The Fiduciary and Management Agreement contains four guarantee 
+policies relating 
+to the four specific windows of the facility. The guarantee policies set 
+out in specific 
+terms the purpose of the underlying window, the selection process for 
+intermediaries, 
+the eligibility criteria, the modus operandi as regards enhanced access 
+to finance, 
+the reporting, the monitoring and audit, the promotion and the 
+visibility.
+ 	Criteria corresponding to the loan and micro-credit windows. The 
+selection criteria 
+relating to the equity and securitisation windows were not examined as 
+these 
+windows were not used until 31 December 2009.
+ 	Guidance on Enhanced Access to Finance, 25 October 2007. 
+ 	The guarantee cap rate is a pre-agreed rate at which the EIF’s 
+liability is capped 
+under a guarantee agreement. The amount of the EIF’s liability under a 
+guarantee 
+agreement (guarantee cap) can be calculated by multiplying the actual 
+portfolio 
+volume by the guarantee rate and the guarantee cap rate. E.g. portfolio 
+volume = 
+1 000; guarantee rate = 50 %; guarantee cap rate = 10 %
+Thus, maximum EIF liability (guarantee cap) = 1000 x 50 % x 10 % = 50.
+ 	CIP Decision, Article 19.
+  	Evaluation of the Indicators of the EIP, February 2010.
+  	To measure results and impacts, several indicators were suggested, 
+for example 
+contribution to the performance of beneficiaries (growth of sales, jobs 
+created/maintained, new products or services developed) or total (or 
+average) 
+turnover growth of SMEs financed. 
+  	For example an intermediary in Slovenia obtained the employment data 
+from the 
+national social security and insurance institution.
+  	An intermediary in Spain collects the information annually from the 
+Regional 
+Guarantee Societies on a sample basis.
+  	Another intermediary in Spain calculates the change in employment by 
+comparing 
+expectations at the time of the loan request compared with actual 
+employment at the 
+time of calculation.
+  	For example, an intermediary in Italy collects only the employment 
+data only in the 
+initial guarantee application and does not update those at later stage.
+  	“Manual for compiling reports under the SME guarantee facility 2007-
+2013 (CIP)” – 
+EIF.
+ 	Based on a questionnaire (Q14), 36 out of 41 financial intermediaries 
+who answered 
+this question agreed that the operational instructions provided by the 
+EIF were clear.
+  	Based on a questionnaire (Q15), 40 out of 41 financial intermediaries 
+who answered 
+this question agreed that the EIF is always willing to give explanations 
+during the 
+lifetime of the guarantee.
+  	Based on a questionnaire (Q16), 8 out of 42 financial intermediaries 
+who answered 
+this question did not agree that the reporting requirements were 
+reasonable.
+  	CIP Decision, Article 10.
+  	Annex to the Proposal for a Decision of the European Parliament and 
+of the Council 
+establishing a Competitiveness and Innovation Framework Programme (2007-
+2013), 
+SEC(2005) 433.
+  	Relevant only for the loan window. CIP Decision, Article 19.2 refers 
+to “investments 
+in certain knowledge-related activities such as technological 
+development, innovation 
+and technology transfer”.
+ 	A sample of 181 loans was selected from the nine financial 
+intermediaries visited. 
+The number of loans chosen per intermediary reflecting the achieved 
+guarantee 
+volume and was limited to a range from 10 to 45. 
+ 	The OSLO Manual, Proposed guidelines for collecting and interpreting 
+technological 
+innovation data, OECD, 1997, also referred to in the recital 8 preceeding 
+the CIP 
+Decision and in the European Commission’s 2009 Impact assessment 
+guidelines – 
+SEC(2009) 92.
+  	As provided in the CIP impact assessment, SEC(2005) 433.
+  	The cap amount represents the ceiling of the costs for the EU budget 
+and will 
+materialize only if the financial intermediary reaches the maximum 
+portfolio amount 
+and realizes the expected losses on the loan portfolio.
+  	For instance under the MAP, only two out of 45 financial 
+intermediaries reached less 
+than 90 % of the maximum portfolio amount. 
+  	 “The survey results indicate that two out of three companies would 
+not have 
+undertaken the project without the guaranteed loan, or would have done 
+less. Only 
+one out of three companies surveyed, responded that they would have 
+either set up 
+the business or undertaken the project even without the guaranteed loan.”
+  	Such as reduced collateral requirements, accelerated credit decisions 
+and fixed 
+interest rates. 
+  	The Commission derived the legal bases of the CIP from Articles 172, 
+173(3) and 
+192(1) of the Treaty on the Functioning of the European Union 
+(consolidated version 
+after Lisbon Treaty).
+  	CIP Decision, recital 62.
+  	COM(2005) 121 final, 6.4.2005.
+  	SEC(2005) 433, 6.4.2005.
+  	Intermediaries that participate or plan to participate under CIP.
+  	CIP Decision, Article 2.
+  	The enterprise’s competitiveness was deemed to have increased if the 
+business plan 
+included information that the investment would either:
+*	increase the enterprise’s production capacity of goods or services; 
+or make it 
+more efficient;
+*	increase its market share;
+*	increase its exports;
+*	increase the performance/training of its staff;
+*	lead to more productive use of information technology; or
+*	improve the marketing of its products or services.
+Start-ups were considered separately as always increasing the competitive 
+landscape.
+  	Post start-up expansion means an expansion of the business within 
+three years after 
+the start-up.
+  	Commission Staff Working Paper “Impact Assessment: Next Steps - In 
+support of 
+competitiveness and sustainable development”, SEC(2004) 1377.
+  	Also mentioned in SEC(2005) 791.
+  	The cross-border element was deemed significant if the aim of the 
+investment was to 
+increase production abroad, expand into markets abroad or create new 
+business 
+relations with foreign counterparts (e.g. suppliers).
+  	Also noted for instance by the ECB, “The financing of Small and 
+Medium-Sized 
+Enterprises in the Euro area”, ECB Monthly Bulletin, August 2007, p. 77.
+ 	“Response by the European Court of Auditors to the Commission’s 
+communication 
+‘Reforming the Budget, Changing Europe’” (paragraphs 7 to 9), and Opinion 
+1/2010 
+“Improving the financial management of the European Union budget: Risks 
+and challenges” 
+(paragraphs 18 and 19).

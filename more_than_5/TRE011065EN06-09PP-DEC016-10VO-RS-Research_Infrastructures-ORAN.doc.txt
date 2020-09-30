@@ -1,0 +1,863 @@
+﻿
+Special Report No 2/2010 
+(pursuant to Article 287(4), second subparagraph, TFEU)
+
+The effectiveness of the Design Studies and Construction of New 
+Infrastructures support 
+schemes under the Sixth Framework Programme for Research
+
+
+
+
+
+
+
+
+	TABLE OF CONTENTS
+	
+	Paragraph
+Executive summary	I - IV
+Introduction	1 - 17
+EU research budget co-finances research infrastructures	3 - 13
+Design Studies	8 - 9
+Construction of New Infrastructures	10
+Selection of projects	11 - 13
+Research facilities can also be co-financed by the Structural Funds	14 
+Some changes in the Commission’s approach for FP7	15 - 17
+Audit scope and approach	18 - 20
+Observations	21 - 43
+The Design Studies scheme	21 - 24
+Objectives mainly achieved	21 - 24
+The Construction of New Infrastructures (CNI) scheme	25 - 36
+The catalysing effect and European added value	25 - 28
+Little ‘catalysing effect’…	29 - 35
+…but CNI support resulted in the purchase of additional or better 
+equipment	36
+Complementarity of funding	37 - 43
+The Commission advocated complementary funding 
+but took only limited action	37 - 43
+Conclusions and recommendations	44 - 47
+Was the DS scheme a useful tool for decision makers?	45
+Did the CNI scheme catalyse the construction of new infrastructures?	46
+Did the Commission take action on complementary funding?	47
+Annex I - Achievements of "Design Studies" projects
+Annex II - EU contribution for CNI projects
+
+The Commission’s replies
+
+
+
+EXECUTIVE SUMMARY
+I.	The Design Studies (DS) and Construction of New Infrastructures (CNI) 
+support schemes form part of the EU policy on the development of high-
+level 
+research infrastructures of a European dimension. The contribution to 
+projects 
+under the 6th Framework Programme (FP6) for Research (2002-2006) 
+amounted to 140 million euro.
+II.	The audit examined whether the two schemes had promoted the 
+development of a fabric of research infrastructures of the highest 
+quality and 
+performance in Europe, and their optimum use on a European scale based on 
+the needs expressed by the research community. The audit analysed in 
+particular, if the DS scheme had been useful to decision makers and if 
+the CNI 
+scheme had resulted in the construction of new infrastructures. Attention 
+was 
+also given to actions taken to encourage the use of complementary funding 
+for 
+research facilities.
+III.	The Court concluded that: 
+-	the DS scheme was positively viewed by the representatives of the 
+research community interviewed, providing in their view, critical early 
+stage 
+funding for infrastructure development and encouraging collaboration 
+amongst would be competitors in the European research field; and
+-	Community support for the construction of new infrastructures had a 
+limited 
+impact on the emergence of a fabric of research facilities in Europe. The 
+CNI scheme had little catalysing effect and, although the payment of CNI 
+support led to some technical upgrading of the investment projects 
+concerned, most projects supported would have gone ahead with or 
+without Community support;
+-	the Commission’s services did not actively promote the use of 
+different 
+funding sources available for research infrastructures in Europe despite 
+advocating such use in various official pronouncements. 
+IV.	The Court recommends that the Commission should reconsider whether 
+CNI projects should be funded from the research budget given the findings 
+concerning European added value. Furthermore, scheme objectives should be 
+clear and realistic. The Commission should consider what is to be 
+achieved 
+through the use of complementary funding sources and if it believes that 
+synergies can be obtained to make better use of EU funds, it should take 
+the 
+necessary actions. 
+
+
+INTRODUCTION
+1.	This report covers EU expenditure on Design Studies (DS) and 
+Construction of New Infrastructures (CNI) support schemes under the 
+Research Infrastructures (RI) activity area of the 6th Framework 
+Programme 
+(FP6) for Research (2002-2006). 
+2.	The term “research infrastructures” refers to facilities and 
+resources 
+providing essential services to the research community in academic and/or 
+industrial areas. The infrastructure may take the form of a single 
+resource at a 
+single location, a network of distributed resources or even be “virtual”, 
+with the 
+service being provided electronically .
+EU research budget co-finances research infrastructures
+3.	Community Research and Technological Development (RTD) activities 
+have been financed since 1984 through multiannual framework programmes, 
+which set out the scientific and technological objectives to be followed 
+for a 
+programming period. Specific support for research facilities started with 
+the 2nd 
+Framework Programme (FP2) (1987-1991). The initial aim was to improve 
+access for the scientific community to national research infrastructures 
+but this 
+was subsequently broadened to also include support for cooperation 
+networks 
+and for research activities to improve the quality and quantity of 
+services 
+provided by the infrastructures as well as for the development of new 
+scientific 
+equipment . Since FP2, financial support has increased considerably (see 
+Figure 1).
+
+
+Figure 1 - Spending on the Research Infrastructures programmes
+ 
+Source: European Commission.
+4.	The overall objective of the RI activity area of FP6 was to promote 
+the 
+development in Europe of a ”fabric of research infrastructures of the 
+highest 
+quality and performance”. This was to be based upon the needs expressed 
+by 
+the research community and with “European Added Value” being created 
+through the extension of the use of such infrastructures throughout 
+Europe.
+5.	According to a Commission analysis carried out in 2000 the 
+development of 
+state-of-the-art research facilities in Europe was hampered by:
+-	a lack of coordinated mechanisms for needs assessment and setting of 
+priorities across countries and disciplines; 
+-	a lack of a coherent, European position on the participation in 
+world-scale 
+undertakings;
+-	the difficulty to establish multinational funding agreements;
+-	obstacles to transnational access to facilities; and
+-	a low level of coordination among infrastructure operators and the 
+consequent lack of critical mass in the technological development related 
+to infrastructures .
+6.	To help resolve known difficulties in the setting up of new research 
+facilities 
+the Commission proposed for FP6 an approach centred on support for large 
+scale research facilities in Europe. Five support schemes were defined 
+covering:
+-	Transnational Access,
+-	Integrating Activities,
+-	Communication Network Development,
+-	Design Studies, 
+-	Construction of New Infrastructures.
+7.	For FP6, a budget of 140 million of the 715 million euro available 
+for 
+infrastructure support was allocated to the DS and CNI support schemes 
+(see 
+the overview in Figure 2). 
+
+
+Figure 2 - “Design Studies” and “Construction of New Infrastructures” 
+schemes 
+in FP6
+ 
+Design Studies
+8.	Design studies projects are intended to test the feasibility of 
+potential future 
+research facilities (including the development of new equipment). The DS 
+scheme was to support feasibility studies and technical preparatory work 
+for 
+new infrastructures which were to have a clear European dimension and 
+interest. Support could also be given to facilities of world-wide 
+relevance 
+located outside Europe but in which European organisations intended to 
+participate.
+9.	The DS projects audited by the Court (see Annex I) deal with topics 
+such 
+as free electron light sources, accelerator/colliders, large optical and 
+infrared 
+telescopes and the construction of aquaculture centres. An example of a 
+design study can be found in Textbox 1.
+Textbox 1 - The SKADS project
+One of the objectives of the ‘Square Kilometre Array Design Study’ 
+(SKADS) was to 
+develop cost-effective technology for future radio astronomy. The total 
+amount of EU 
+financial support was 10,4 million euro, approximately one third of the 
+total cost of the 
+project. The grant contractor, SKADS consortium, was composed of 26 
+participants 
+from nine EU Member States, South Africa, Canada, Australia and Russia. 
+This design study confirmed that the Square Kilometre Array (SKA), a 
+giant 
+radiotelescope distributed over several continents, could be built using 
+simpler and 
+cheaper structures than the hundreds of conventional dish antennae 
+originally 
+foreseen. 
+Subsequently the SKA project was included in the ‘European Roadmap for 
+Research 
+Infrastructures’ (see paragraphs 16 and 17). Its Phase 1 construction is 
+planned for 
+2012-2016.
+
+Construction of New Infrastructures
+10.	The objective of the CNI scheme was to support the development of new 
+or 
+enhanced infrastructures. As with Design Studies, support could also be 
+given 
+to facilities of world-wide relevance located outside Europe but in which 
+European organisations intended to participate. Eligible projects could 
+take the 
+form of traditional buildings but could also include for example a system 
+of 
+antennae in the Atacama desert in Chile or a virtual infrastructure, such 
+as a 
+distributed digitised archive to improve linguistic research (see Annex 
+II for CNI 
+projects audited). An example of a CNI project is given in Textbox 2.
+Textbox 2 - CeMaCE project
+The Tjärnö Marine Biological Laboratory (TMBL) is a marine biology field 
+station in 
+Sweden. Together with Akademiska Hus, Sweden’s main owner of university 
+property, 
+the TMBL is building the Centre for Marine Chemical Ecology (CeMaCE). 
+This 
+multidisciplinary facility will provide European researchers with access 
+to laboratories, 
+equipment and scientific expertise. The Centre, with a direct access to 
+the sea from 
+the banks of Koster fjord, integrates molecular biology, ecology and 
+evolutionary 
+biology – a combination that should provide an innovative approach to 
+marine 
+ecological chemistry. 
+The European financial support for this project, amounting to over 900 
+000 euro, was 
+mainly used for the construction of a marine ecotron – a facility 
+offering ecologically 
+relevant experimental conditions with control of several environmental 
+factors – and 
+contributes to the creation of marine ecology laboratories. The overall 
+costs of the 
+project amounted to 9 million euro.
+Selection of projects
+11.	DS and CNI projects under FP6 were selected following a call for 
+proposals 
+published in November 2003 . The maximum rate of co-financing for DS and 
+CNI projects under FP6 was 50 % and 10 % respectively. The call was open 
+to 
+projects in any field of science and technology and the Commission 
+received 
+121 proposals, in total amounting to 387 million euro. As the Commission, 
+in 
+agreement with the Programme Committee composed of representatives of the 
+Member States and Associated States, considered that many good proposals 
+would be excluded if the call’s indicative budget of 70 million euro  was 
+maintained, it increased the budget for this call to 140 million euro. 
+12.	The project proposals were evaluated by a multi-disciplinary panel of 
+62 
+independent experts according to four criteria:
+-	European added value;
+-	scientific and technological excellence; 
+-	relevance to the objectives of the scheme; and 
+-	quality of the management. 
+13.	Seventy-seven projects were judged as being of an appropriate 
+standard 
+and thirty projects received financial support, with 92 million euro 
+being 
+awarded for 19 Design Studies and 48 million euro for nine CNI projects . 
+Research facilities can also be co-financed by the Structural Funds 
+14.	In addition to funding from the research budget managed by the 
+Commission, under the various Framework Programmes, the development of 
+research facilities can also be financed through the EU’s Structural 
+Funds 
+which are financed by the EU budget but managed by Member States. As a 
+source of potential funding, the 3 billion euro available under the 
+”Research, 
+Technological Development and Innovation (RTDI) Infrastructure” area of 
+the 
+Structural Funds for the 2000-2006 period was significantly greater than 
+the 
+715 million euro allocated for research infrastructures under FP6. Figure 
+3 
+presents the amounts involved and the maximum co-financing rates relevant 
+to 
+the various sources of funding. 
+
+
+Figure 3 - Structural Funds and RTD framework programmes – a comparison 
+
+FP6
+SF 2000-2006
+FP7
+SF 2007-2013
+
+
+
+
+
+Programming period
+2002-2006
+2000-2006
+2007-2013
+2007-2013
+Budget for RTDI ( million 
+euro)
+17 883
+38 815
+53 272
+49 744
+
+
+
+
+
+Budget for RTDI 
+infrastructures ( million euro)
+715
+3 128
+1 715
+9 758
+Eligibility
+EU and 
+Associated 
+Countries
+Objective 1: 2 412  
+Objective 2: 681   
+Community initiative: 
+35
+EU and 
+Associated 
+Countries
+Convergence regions: 7 363 
+Regional competitiveness 
+and employment regions: 
+2 247 European territorial 
+cooperation: 148
+Maximum co-financing rates
+DS: 50 %                         
+CNI: 10 %
+Objective 1: 75 % - 
+85 %  other 
+objectives: 50 %
+DS:50 %  
+CNI: 3-6 million 
+euro per project 
+Convergence regions: 75  % 
+- 85 %  
+Regional competitiveness 
+and employment regions: 
+50 % - 85 %  
+European territorial 
+cooperation: 75 % - 85 %
+
+Some changes in the Commission’s approach for FP7
+15.	The 7th Framework Programme (FP7)  (2007-2013), introduces some 
+changes in the area of Research Infrastructures in comparison to FP6. The 
+approach adopted for the DS scheme has generally remained unchanged but 
+changes have been made to the CNI scheme in the area of project selection 
+and a shift of funding emphasis from the construction to the preparatory 
+phase.
+16.	For project selection,the FP7 approach is more “top-down” and the 
+projects 
+selected for support are mainly those included in the “European roadmap 
+for 
+new research infrastructures”. This is a list prepared by the European 
+Strategy 
+Forum on Research Infrastructures (ESFRI). 
+17.	ESFRI is a forum which seeks to provide a coherent approach to 
+research 
+policy-making in Europe and is composed of appointees of the Ministers 
+responsible for research in the Member States and Associated States and a 
+Commission representative. The “Roadmap” sets out the scientific needs in 
+the 
+area of research infrastructures in Europe for a 10-20 year period and 
+identifies 
+projects considered as being vital to the development of science and 
+innovation 
+in Europe. 
+AUDIT SCOPE AND APPROACH
+18.	 The purpose of the audit was to assess the CNI and DS funding 
+schemes 
+and their contribution to the achievement of the objectives of the RI 
+activity 
+during the FP6 period (2002-2006).
+19.	The audit approached this through the following questions:
+(a)	Did the Design Studies scheme result in feasibility studies and 
+preparatory 
+work which were useful to decision makers in the creation of new research 
+infrastructures?
+(b)	Did the CNI scheme effectively catalyse the construction of new 
+infrastructures?
+(c)	Did the Commission take action to promote the use of complementary 
+funding, as included in the FP6 decision, within the DS and CNI schemes?
+20.	The audit involved:
+-	an analysis of the legal basis of the RI area and specifically the 
+establishment of the DS and CNI schemes;
+-	a review of the project selection and monitoring procedures 
+(including all 
+relevant evaluation reports);
+-	interviews with staff of the Commission and with representatives of 
+the 
+principal European research organisations and of research ministries in 
+eight 
+Member States (Belgium, Czech Republic, Germany, Italy, the Netherlands, 
+Poland, Sweden and the United Kingdom);
+-	on-the-spot audits of a sample of nine of 19 Design Studies and all 
+nine CNI 
+projects; and
+-	an on-line survey of all unsuccessful applicants.
+The audited period was that of FP6 (2002 to 2006). The audited projects 
+are 
+listed in Annex I and II.
+OBSERVATIONS
+The Design Studies scheme 
+Objectives mainly achieved
+21.	The objective of the Design Studies scheme was to contribute to 
+feasibility 
+studies and technical preparatory work for new infrastructures with a 
+clear 
+European dimension. The scheme was judged by the Court as being 
+successful if:
+-	EU funding facilitated studies which led, in the medium-to-long term, 
+to the 
+enhancement of a fabric of research facilities of a European dimension 
+and;
+-	the co-financed studies exhibited European added value.
+22.	Following the various audit interviews carried out, the Court noted 
+that 
+participants generally had a positive view of the Design Studies scheme 
+and 
+thought that the existence of a ‘Design study’ resulted in an increased 
+level of 
+awareness and support on the part of national decision-makers. A majority 
+of 
+the projects were subsequently included in the ESFRI list (see paragraphs 
+16 
+and 17), increasing the likelihood of construction (see Figure 4). 
+
+
+
+Figure 4 - Development of the nine DS projects audited by the Court
+ 
+23.	During interviews, project coordinators and Member States’ 
+representatives 
+also stated that Community support for Design Studies had been of 
+importance 
+in bridging the gap between the elaboration of an idea and the actual 
+implementation of a project. The support had given scientists an 
+opportunity to 
+demonstrate and work out their proposals in a structured way. Most 
+project 
+coordinators were also of the opinion that the possibility for a number 
+of 
+institutions to collaborate together in joint undertakings was a valuable 
+and 
+worthwhile aspect of this support scheme. Textbox 3 contains an example 
+of 
+cooperation between major European research institutions who otherwise 
+would have been competitors.
+Textbox 3 - the EUROFEL project 
+The EUROFEL Design Study was a joint effort on the part of 16 European 
+research 
+institutions to prepare for the construction of the next-generation of 
+free-electron laser 
+light sources, to be built as a distributed infrastructure in seven 
+European centres. 
+Originally, there were seven different, competing projects for 
+constructing free electron 
+lasers in five European countries. However the Commission advised the 
+individual 
+institutions to submit a joint proposal thereby enhancing European 
+collaboration in the 
+area. For some participants, the main benefit of the project was the 
+collaboration of 
+different institutions, which would normally be competing against each 
+other.
+The success of the Design Study can be gauged from the inclusion of the 
+construction 
+project in the ‘European Roadmap for Research Infrastructures’ and is 
+scheduled to be 
+constructed in the next eight to 12 years.
+
+24.	Beneficiaries and the representatives of research organisations 
+stated that, 
+in terms of securing funding, the design phase of an infrastructure 
+project is the 
+most difficult one. This is especially the case when international co-
+operation is 
+necessary. The DS scheme, with a financial involvement of the Commission 
+of 
+up to 50 % of total cost, was therefore considered by interviewees as 
+being 
+important in that it provided a framework for the development of large-
+scale 
+European projects. The interviewees thought that pan-European 
+collaboration 
+is difficult to set-up through mechanisms with a more national or 
+regional 
+programme emphasis.
+The Construction of New Infrastructures (CNI) scheme
+The catalysing effect and European added value
+25.	The criteria for the payment of EU funds under the Construction of 
+New 
+Infrastructures (CNI) scheme are insufficiently specific. Council 
+Decision 
+2002/835/EC  stipulates that the scheme was to provide the minimum 
+funding 
+necessary ‘to catalyse’ the activity, with most of the construction and 
+operational costs assured by national or other sources of finance. A 
+catalyst is 
+something that accelerates or promotes a reaction or process. In the 
+Court’s 
+understanding, this implies that the payment of CNI funding should result 
+in 
+projects going ahead which would otherwise not have been undertaken. 
+26.	Decision 2002/835/EC goes on to say that funding should be provided 
+on 
+the basis of a detailed justification ‘based on European added value’. 
+The 
+Commission’s 2002-2003 work programme for FP6, interprets the CNI 
+eligibility 
+requirement to say that CNI support will be available ‘where such support 
+could 
+have a critical catalysing effect in terms of European added value’. This 
+could 
+be demonstrated, as mentioned in the work programme, in terms of an 
+improved attractiveness for, and/or improved services to, the research 
+community in Europe, by way of: 
+-	a wider accessibility of the proposed infrastructure, 
+-	a more advanced technology, 
+-	a more flexible adaptability to interdisciplinary studies, 
+-	a better connectivity to the research community.
+27.	The Court examined all  CNI projects and considered how the 
+Commission 
+had applied the above mentioned eligibility requirements set out in 
+Decision 
+2002/835/EC and elaborated on in the Commission’s 2002-2003 work 
+programme.
+28.	In the important matter of the access of European researchers to 
+infrastructures, the Court found that Commission financing focused on the 
+funding of the construction or the purchase of equipment without 
+sufficiently 
+securing access for researchers. 
+Little ‘catalysing effect’…
+29.	In order to assess whether Construction of New Infrastructures (CNI) 
+support had a ‘catalysing effect’ the Court examined:
+-	the relationship between the starting date of projects and the date 
+when 
+contracts with the EU were signed, which would indicate the importance of 
+the funding to the undertaking of the project;
+-	whether the decision to grant or refuse funding for projects was 
+determinant 
+for the project going ahead or continuing; and
+-	perceptions of the main stakeholders regarding the extent to which EU 
+investment served as a catalyst for other investment in projects.
+30.	The Court’s audit found that seven of the nine CNI projects had 
+starting 
+dates in advance of the relevant Commission decisions and subsequent 
+signing of contracts. (see Figure 5). An eighth project started after the 
+Commission decision but before the contract had been signed.
+Figure 5 - Timeline of project start and contract signature
+ 
+31.	As in most cases the projects were up-and-running before contracts 
+were 
+signed and as Community support for CNI projects was limited to a maximum 
+of 10 % of the total project cost , there was no evidence that EU-funding 
+was a 
+determining factor in the decision as to whether projects went ahead or 
+not 
+(see example in Textbox 4).
+Textbox 4 - Phase 1 of the DIRAC project
+The aim of the construction of the International Accelerator Facility at 
+the Darmstadt 
+Ion Research and Antiproton Centre (DIRAC) in Darmstadt is to up-grade 
+the existing 
+accelerators for future research on the origin of the universe. This 
+project, to be co-
+financed by 14 partners (11 EU Member States, China, India and Russia), 
+includes 
+both new infrastructure (magnet) and upgrades of existing infrastructure 
+(synchrotron 
+accelerator and spectrometer). 
+EU funding amounting to 10,4 million euro was intended to support the 
+first phase of 
+the project, which was estimated at 104 million euro. The total 
+investment is expected 
+to be in the region of 1,2 billion euro. When the contract with the 
+Commission was 
+signed, the project was already under way. 
+
+32.	During interviews, the representatives of European research 
+organisations 
+and Member States’ ministries, stated that the CNI scheme did not 
+“catalyse” 
+the activities for which support was granted because of the low level of 
+funding 
+available and the fact that, by definition, the provision of only 10 % of 
+total 
+project cost, is insufficient for the production of a catalysing effect.
+33.	A similar observation was made in the Evaluation Panel Report: “(…) 
+the 
+experts felt that EC funding was having a higher impact for Design 
+Studies 
+compared to Construction projects since the construction would happen 
+anyway and the benefit of the 10 % help from the EU was sometimes not 
+very 
+clear.” .
+34.	In replying to the audit survey, nine out of ten responding non-
+successful 
+applicants confirmed that the Commission’s decision on funding did not 
+have a 
+substantial influence on the realisation of projects and most of the 
+applicants 
+continued with their projects despite having been rejected, although 
+sometimes 
+with a reduction in scope (see Figure 6).
+35.	When a similar question was put by the Court to the coordinators of 
+successful CNI projects, three out of four replied that a negative 
+decision of the 
+Commission would not have prevented their projects from going ahead (see 
+Figure 6 also).
+Figure 6 - Implementation of successful and unsuccessful proposals
+Have you proceeded with the 
+implementation of the project despite 
+the negative decision on EC funding?
+Would a negative decision on EC 
+funding have held up project 
+implementation?
+ 
+ 
+Survey of unsuccessful proposers
+Interviews with project coordinators
+
+…but CNI support resulted in the purchase of additional or better 
+equipment
+36.	Although EU funding, adding 10 % on top of project costs agreed at a 
+national level, had little ‘catalysing effect’ so far as projects as a 
+whole were 
+concerned, it enabled the purchase or development of additional equipment 
+not 
+foreseen in the initial project proposal. This funding therefore 
+complemented 
+national funding and in this sense, EU funding allowed the 
+infrastructures to 
+have more or better technology. In some cases it also facilitated the 
+interdisciplinary use of facilities. 
+Complementarity of funding
+The Commission advocated complementary funding but took only limited 
+action
+37.	As already mentioned in paragraph 14, in addition to funding 
+infrastructures 
+through the research budget, Community support can also come from the 
+Structural Funds in support of regional and cohesion policies. The EIB 
+may 
+also finance research infrastructure projects which have a European 
+dimension. 
+38.	Double financing or submitting the same item of expenditure for 
+support 
+from different schemes is prohibited. The co-financing of a project from 
+different 
+EU financing mechanisms is rarely possible due to the specific rules on 
+co-
+financing for each instrument. The complementary use of funding sources 
+is 
+however allowed. Complementarity of funding means using different sources 
+of 
+funding for different project activities, which are carried out in a 
+related or 
+consecutive manner . 
+39.	The possibility of using complementary funding from different 
+European 
+sources has been advocated in various Community documents. In its report 
+of 
+May 2000 , the European Parliament strongly encouraged the complementary 
+use of funding under the Framework Research Programme and other 
+Community policies, in particular the Structural Funds. The Commission’s 
+Communication “Towards a European Research Area”  announced that, in the 
+area of research infrastructures, the potential to combine Structural 
+Funds, EIB 
+loans and FP6 funding should be exploited.
+40.	The use of complementary funding in respect of the DS and CNI schemes 
+was also treated in the decisions establishing FP6  and the specific 
+programme ‘Structuring the European Research Area’ . Design studies were 
+to be undertaken on the basis of a systematic exploration of “the 
+possibilities of 
+contributions from other sources, including the EIB or the Structural 
+Funds for 
+the funding of these infrastructures”. Support from the CNI scheme “may 
+supplement contributions from the EIB or the Structural Funds for the 
+funding of 
+these infrastructures”. The use of complementary funding was also 
+mentioned 
+in the Research Infrastructures Work Programme . 
+41.	Combining the use of structural, cohesion and other funding sources, 
+with 
+research funding, is specifically intended to realise the potential of 
+the EU’s 
+convergence regions in terms of industrial and research development.
+42.	Despite advocating the use of complementary sources of funding in the 
+Decisions and documents mentioned above, the issue was not actively 
+addressed by the Commission during FP6. There was no guidance material 
+established to help project coordinators search for potential funding 
+synergies 
+and indeed no CNI projects benefited from either Structural Funds 
+financing or 
+EIB loans during the period. Most of the unsuccessful applicants surveyed 
+stated that they had not been informed about the possibility of using 
+complementary funding sources (see Figure 7). 
+Figure 7 - Information on complementarity of funding – results from the 
+ECA 
+survey of unsuccessful applicants
+
+ 
+43.	There would also be a need for practical steps to be taken by the 
+Commission to adequately administer the complementarity aspect e.g. 
+checks 
+for double financing or ineligible co-financing. However it was noted 
+that:
+(i)	the relevant DGs ( RTD and REGIO ) did not establish a common 
+definition of a “Research Infrastructure”,
+(ii)	the two DGs did not have the means of cross-linking information on 
+projects eligible for both FP6 and Structural Funds, and
+(iii)	under Cohesion policy, no specific tools and databases to manage 
+and 
+coordinate the complementarity of funding have been developed. 
+CONCLUSIONS AND RECOMMENDATIONS
+44.	 The Court considered the DS scheme to have mainly met its objectives 
+whereas the CNI scheme was judged to have provided low added value.
+Was the DS scheme a useful tool for decision makers?
+45.	Representatives of the research community were generally positive 
+about 
+the Design Studies scheme. They thought that it provided an opportunity 
+for 
+scientific ideas to be developed in a structured way by testing the 
+feasibility of 
+potential future research facilities. The possibility provided for 
+different 
+institutions to collaborate together was particularly welcomed. The 
+process 
+helped decision makers identify which projects were worthy of support and 
+the 
+majority of the DS projects audited were included on the ESFRI list.
+Did the CNI scheme catalyse the construction of new infrastructures?
+46.	Funding through the CNI scheme did not have a determining effect on 
+project implementation. Payment of CNI assistance made possible some 
+technical upgrading of the investment projects concerned, with the 
+acquisition 
+of new or better equipment. However the CNI scheme did not result in the 
+construction of new infrastructures but rather provided additional 
+financing to 
+projects which would have gone ahead irrespective of the existence of the 
+scheme.
+
+Recommendation 1
+The Commission should reconsider whether in future Framework Programmes, 
+CNI projects should be funded from the research budget given the Court’s 
+findings concerning the European added value and catalysing effect. 
+The Commission should ensure that scheme objectives are stated in terms 
+that 
+are clear and understandable to all and should be realistic given the 
+intended 
+level of project funding involved.  
+Did the Commission take action on complementary funding?
+47.	Despite including in the FP6 decision, the possibility of funding DS 
+and CNI 
+projects from complementary EU budgetary sources, the Commission did not 
+actively promote this possibility and consequently it was not used.
+Recommendation 2
+The Commission should clarify what it intends to achieve by including in 
+the 
+legislation the possible complementary use of funds. It should consider 
+the 
+advantages and disadvantages of such funding and the associated costs and 
+benefits. If it believes that useful synergies can be achieved through 
+combining 
+earmarked EU funds, EIB loans and national financing, it should actively 
+promote the use of complementary funding sources, whilst ensuring that 
+adequate controls are put in place to prevent and detect any misuse of 
+this 
+option.
+This report was adopted by the Court of Auditors in Luxembourg at its 
+meeting 
+of 5 May 2010. 
+
+For the Court of Auditors
+
+Vítor Manuel da Silva Caldeira 
+President
+
+ 	‘Support for Research Infrastructures in the FP6 Specific Programme 
+on 
+"Structuring the European Research Area" Work Programme 2002-2003’, p. 1.
+ 	Council Decision 1999/173/EC of 25 January 1999 adopting a specific 
+programme for research, technological development and demonstration on 
+improving the human research potential and the socio-economic knowledge 
+base 
+(1998-2002) (OJ L 64, 12.3.1999, p. 105).
+ 	See Working document of the Commission services “A European Research 
+Area 
+for Infrastructures”, SEC(2001) 356 of 27.2.2001.
+ 	Call for proposals FP6-2003-Infrastructures-4.
+ 	The evaluators noted, that “The oversubscription for this call was 
+about six times 
+the indicative budget (70 M€). Even on the level of very good proposals, 
+according to the consensus marks, the oversubscription is two to three-
+fold.”, Call 
+FP6-2003-Infrastructures-4 Panel Report, 7 May 2004.
+ 	The call for proposals was also eligible for another category of 
+projects (“accompanying measures”) which is not the subject of this 
+audit. In this 
+category two projects were selected.
+ 	Decision No 1982/2006/EC of the European Parliament and of the 
+Council (OJ 
+L 412, 30.12.2006, p. 1).
+  	OJ L 294, 29.10.2002, p. 44.
+ 	CNI special clause No 34: “The reimbursement of costs for other 
+specific support 
+activities, incurred by contractors applying the FC, FCF or AC cost-
+reporting 
+models, shall not exceed 10 % of the total eligible costs”.
+ 	Research Infrastructures Action – Call FP6-2003-Infrastructures-4: 
+Panel Report, 
+p. 4.
+ 	“Competitive European regions through research and innovation. 
+Practical Guide 
+to EU funding opportunities for research and innovation”, Rev. 2 
+02/12/2008, 
+pp. 12-13.
+ 	Report on the Communication from the Commission "Towards a European 
+research area" (COM(2000) 6 – C5-0115/2000 – 2000/2075(COS)).
+ 	“… the opportunity should be taken to negotiate on the structural 
+assistance 
+planned for the years 2000 to 2006 in order to examine how best to 
+combine 
+projects implemented within this framework (i.e. Structural Funds) with 
+projects 
+undertaken in the European programmes.” COM(2000) 6, p. 18.
+  	Decision No 1513/2002/EC of the European Parliament and of the 
+Council (OJ 
+L 232, 29.8.2002, p. 1).
+ 	Council Decision 2002/835/EC of 30 September 2002 adopting a specific 
+programme for research, technological development and demonstration: 
+”Structuring the European Research Area” (2002–2006).
+ 	Work Programme (2002-2003): Support for Research Infrastructures in 
+the FP6 
+Specific Programme on "Structuring the European Research Area", first 
+update 
+June 2003.

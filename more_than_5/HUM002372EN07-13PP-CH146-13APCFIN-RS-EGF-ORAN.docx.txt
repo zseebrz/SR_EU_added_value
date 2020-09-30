@@ -1,0 +1,821 @@
+Special Report No 7/2013
+(pursuant to Article 287(4), second subparagraph, TFEU)
+
+
+Has the European Globalisation Adjustment Fund delivered EU added value in re-integrating 
+redundant workers? 
+
+together with the Commission’s replies
+
+
+
+
+
+
+	CONTENTS
+	
+	Paragraph
+Glossary
+Executive summary	I-V
+Introduction	1-8
+Audit scope and approach	9-13
+Observations	14-71
+Nearly all workers were offered personalised 
+and well-coordinated measures	14-24
+Services were personalised	17-18
+EGF measures were generally well-coordinated 
+with national measures and the ESF	19-21
+Some Member States preferred the ESF over the EGF	22-24
+Re-integration into employment of EGF supported workers 
+cannot be reliably assessed	25-46
+Lack of re-integration objectives and specific 
+EGF performance data	29-34
+Re-integration data were difficult to compare	35-46
+One third of EGF funding compensates national workers’ 
+income support schemes, with no EU added value	47-59
+Workers’ income support measures represent the majority 
+of the co-funded expenditure for half of the cases audited	51-53
+Globally, workers’ income support measures account 
+for one third of re-funded costs	54-56
+Different EGF co-funding in similar economic circumstances	57-59
+The EGF approval procedure is too long for an emergency fund	60-71
+The assessment procedure could be shortened	63-65
+The budgetary and empowerment procedures 
+have a further impact on timeliness	66-67
+The EGF approval procedure is not timely	68-69
+In the end, the budgetary authority approved all 
+the projects submitted by the Commission	70-71
+Conclusions and recommendations	72-81
+Nearly all eligible workers were offered personalised 
+and well-coordinated measures	73-75
+Re-integration into employment of EGF supported workers 
+cannot be reliably assessed	76
+One third of EGF funding compensates national workers’income support 
+schemes, with no EU added value	77-79
+The EGF approval procedure is too long for an emergency fund	80-81
+
+The Commission’s replies
+
+
+
+GLOSSARY
+DG Budget
+Directorate General for the Budget 
+DG 
+Employment, 
+Social Affairs 
+and Inclusion
+Directorate General for Employment, Social Affairs and 
+Inclusion 
+ECA
+European Court of Auditors (or “the Court”)
+EGF
+European Globalisation Adjustment Fund
+ESF
+European Social Fund
+EU added 
+value
+The EU added value is the value that an EU action adds to the 
+value that would otherwise have been created by Member 
+States acting alone.
+
+
+OECD
+Organisation for Economic Cooperation and Development; 21 
+EU Member States are currently members of the OECD.
+Workers’ 
+income 
+support
+Cash expenditure compensating for unemployment. This 
+includes redundancy payments out of public resources as well 
+as pensions to beneficiaries before they reach the 'standard' 
+pensionable age if these payments are made because they are 
+out of work or otherwise for reasons of labour market policy. 
+See “An Interpretative Guide to the OECD Social Expenditure 
+Database”, OECD, 2007.
+?
+EXECUTIVE SUMMARY
+I.	The European Globalisation Adjustment Fund (EGF) was established in 
+2006 to show EU solidarity towards workers affected by mass redundancies. 
+The EGF should facilitate the re-integration into employment of those workers 
+by providing financial contributions for time-limited and coordinated packages 
+of personalised services. Such packages include active labour market 
+measures such as training, aid for self-employment, coaching and 
+outplacement. They also often include income support and other allowances 
+paid to workers.
+II.	The European Social Fund (ESF) also supports redundant workers, mainly 
+through lifelong learning programmes. However, whereas the purpose of the 
+ESF is to address long-term structural imbalances, the EGF was designed to 
+address short-term and ad-hoc emergency situations. 
+III.	Until 31 December 2012, EGF aid packages represented 627 million euro 
+for 89 approved member states applications. The EGF co-finances measures 
+at a rate of 50 % or 65 %, with the balance being provided by the Member 
+State concerned.
+IV.	The Court concluded that:
+(a)	Nearly all EGF eligible workers were offered personalised and well-
+coordinated measures.
+(b)	Each EGF measure may also be eligible for the ESF and some Member 
+States preferred to use the ESF rather than EGF.
+(c)	 No quantitative re-integration objectives were set. Moreover, existing data 
+are not adequate to assess the effectiveness of the measures in re-
+integrating workers into employment.
+(d)	The EGF delivered EU added value when used to co-finance services for 
+redundant workers or allowances not ordinarily existing under Member 
+States’ unemployment benefit systems.
+(e)	However, in all the audited cases, the Court identified measures to provide 
+workers with income support, which would have been paid by the Member 
+States anyway. Sixteen of the 19 Member States that benefited from the 
+EGF included income support measures in their packages. Globally, 
+income support measures represented 33 % of the costs refunded for all 
+EGF cases.
+(f)	The EGF approval procedure, requiring the need for an ad hoc budgetary 
+procedure, is very long. This hampers EU solidarity with the redundant 
+workers targeted. 
+V.	The Court recommends that:
+(a)	The Member States and the Commission take the necessary steps to 
+ensure the availability of up-to-date and reliable data in order to monitor the 
+achievement of objectives, as well as to compare the outcome of the 
+various measures.
+(b)	The European Parliament, the Council and the Commission consider 
+limiting EU funding to measures likely to provide EU added value, rather 
+than funding already existing national workers’ income support schemes.
+(c)	The European Parliament, the Council and the Commission consider, as 
+an alternative to the current EGF scheme, the possibility of adapting the 
+ESF framework and its funding allocations in order to support more rapidly 
+workers affected by mass redundancies.
+INTRODUCTION
+1.	The European Globalisation Adjustment Fund (EGF) was established in 
+2006 to show EU solidarity towards workers affected by mass redundancies. 
+The EGF should facilitate the re-integration into employment of those workers 
+by providing financial contributions for time-limited and coordinated packages 
+of personalised services . Such packages include active labour market 
+measures such as training, aid for self-employment, coaching and 
+outplacement. They also often include income support and other allowances 
+paid to workers. 
+2.	The EGF is outside the Multi-annual Financial Framework. As a result each 
+application for EGF support submitted by a Member State has to pass a 
+thorough assessment by the Commission and obtain approval from the EU 
+budgetary authority (Council and European Parliament). The Commission 
+shares the management of the EGF with the Member States.
+3.	Redundant workers can also benefit from the European Social Fund, mainly 
+through lifelong learning programmes. However, whereas the purpose of the 
+ESF is to address long-term structural imbalances, the EGF was designed to 
+address short-term and ad-hoc emergency situations. 
+4.	The EGF supports workers made redundant as a result of major structural 
+changes in world trade patterns due to globalisation (500 dismissals or more  in 
+one or more enterprises in the EU) where those redundancies have a 
+significant adverse impact on the regional or local economy (the “trade 
+criterion”). In this respect, applicant Member States must demonstrate that the 
+redundancies are linked to a substantial increase of imports into the EU, the 
+rapid decline of the EU market share in a given sector or a delocalisation to 
+third countries.
+5.	By way of derogation, from 1 May 2009 to 31 December 2011, the EGF was 
+also applicable to workers made redundant as a direct result of the global 
+financial and economic crisis (the “crisis criterion”) . 
+6.	For instance, when the effects of the crisis devastated the Danish 
+shipbuilding industry, there were redundancies as a consequence. In that 
+Member State, the EGF supported redundant workers of the last Danish 
+shipyard (see Picture 1). Another example is the German automotive supply 
+industry, which was particularly hit in the regions of Lower Saxony and North 
+Rhine-Westphalia (see Picture 2).
+ 
+Picture 1 - One of the halls of the former Odense Steel Shipyard, now “Hall East”, a 
+large 12 400 m2 production hall with 900-tonne crane capacity in Lind? Industrial Park, 
+Munkeb?, Denmark. 
+© Lind? Industrial Park A/S.
+  
+Picture 2 - Workers at the former Karmann production site in Osnabrück. 
+© European Court of Auditors.
+7.	From 9 March 2007 (date of the first application) to 31 December 2012, total 
+EGF aid approved amounted to 627 million euro (379 million euro from the EU 
+budget and 247 million euro from the Member States) for 89 approved 
+applications  from a maximum yearly budgetary ceiling of 500 million euro 
+during the 2007-2013 period. The EGF co-finances measures at a rate of 50 % 
+or 65 % , with the difference coming from the Member State concerned. 
+8.	The EGF is currently scheduled to run until 31 December 2013. The 
+Commission has however proposed to continue with a new EGF Regulation 
+until 31 December 2020 .
+AUDIT SCOPE AND APPROACH
+9.	The overall objective of the audit was to assess the contribution made by 
+the EGF, in the form of EU added value, to enabling redundant workers to 
+return to the labour market as soon as possible. The Court examined in 
+particular the following questions:
+(a)	Did all affected workers benefit from personalised EGF measures, and 
+were EGF co-financed active labour market measures coordinated with 
+other similar measures (i.e. ESF and Member State measures)?
+(b)	Was the EGF effective in terms of labour market re-integration? 
+(c)	Is the nature of the EGF measures likely to deliver EU added value?
+(d)	Was the EGF approval procedure implemented in a timely manner?
+10.	Eight cases in four Member States (two each in Denmark, Germany, Ireland 
+and Lithuania) in which the EGF was deployed, were audited on the spot. 
+They amounted to 67 million euro out of 627 million euro (10,7 %) of EGF aid 
+committed until 31 December 2012. The sample of eight cases only comprised 
+implemented cases and reflected the different sizes of EU economies, the 
+diversity of the economic sectors affected and important differences between 
+the EGF intervention criteria (see Table 1).
+
+
+Table 1 - Overview of audited EGF cases1
+
+ 
+ 
+1 All the EGF case names mentioned here above were strictly assigned by the 
+Commission. They are featured on the EGF webpage of the Commission’s DG 
+Employment, Social Affairs and Inclusion website (http://ec.europa.eu/social/), but also 
+in the EGF Statistical Portrait (2007-2011) issued by the Commission publically. In the 
+event EGF case names would refer directly or indirectly to names of undertakings, the 
+reader should not link these undertakings to any statement in this Special Report or 
+any statement issued by the Court and related to this Special Report. The 
+undertakings named are neither EGF beneficiaries, nor managers of the EGF cases 
+audited.
+Source: European Commission.
+
+11.	The audit covered the period from 1 January 2007 to 31 December 2012. 
+The audit was carried out through interviews, the examination of documents 
+held by the Commission and the four audited Member States authorities, and 
+an analysis of the data on re-integration rates.The audit in the Member States 
+also included the organisation of eight focus group meetings at which the 
+various local EGF stakeholders (academics, administrations and social 
+partners) could share their views (see Picture 3). 
+  
+Picture 3 - Academics and experts at a focus group moderated by two ECA auditors 
+on EGF support for the Lithuanian construction sector. 
+© ECA.
+12.	In addition to the above, the results of the Commission’s mid-term 
+evaluation of the EGF were analysed . The mid-term evaluation report of 
+December 2011 covered the first 15 cases  co-financed by the EGF in eight 
+Member States. One of these (Nokia, Germany) was included in the sample 
+audited on-the-spot by the Court.
+13.	Finally, the Court carried out a survey by addressing questionnaires to 
+Member States (Bulgaria, Estonia, Cyprus, Latvia, Luxembourg, Hungary, 
+Slovakia and the United Kingdom) in order to identify the reasons why they did 
+not use the EGF.
+OBSERVATIONS
+Nearly all workers were offered personalised and well-coordinated 
+measures 
+14.	In order to demonstrate solidarity to all affected workers personalised 
+measures should be offered not only to the workers made redundant in the 
+main enterprise affected, but also to those employed by suppliers of that 
+enterprise. 
+15.	In the audited cases nearly all affected workers could benefit from EGF 
+measures. No instances of the intentional exclusion of potential beneficiaries 
+were identified.
+16.	However in the cases of Karmann and Dell, the Court found that an 
+unknown number of redundant workers formerly employed by the affected 
+enterprises’ suppliers were not included in any EGF support measure .The 
+main reasons for non-inclusion lay in the difficulties faced by Member States in 
+assessing which suppliers were affected. 
+Services were personalised
+17.	Services offered to the potential beneficiaries were generally tailored to their 
+needs and therefore most likely to get results. This positive aspect already 
+reported by the mid-term evaluation was confirmed by the Court’s assessment 
+of the eight EGF cases audited. Concrete examples of personalised services 
+are provided in Box 1.
+?
+Box 1 - Three cases of packages of personalised services in Ireland and 
+Denmark
+In the case of Dell, the Irish authorities provided child care support and distance 
+learning services. County and City Enterprise Boards delivered special courses for 
+redundant Dell workers (“Start Your Own Business”), as well as mentoring to cope with 
+administrative procedures. 
+In the case of SR Technics, some courses, such as aeronautics courses with the Irish 
+Aviation Authority, had been specifically designed. Where relevant courses could not 
+be provided specifically for redundant workers, grants were released to allow them to 
+take part in appropriate courses delivered to a larger population (80 % were technical 
+courses or aviation industry-related). For the first time ever in Ireland, the Training and 
+Employment Authority worked together with the Department of Defence and the 
+Department of Education and Skills to set up apprenticeships for civilians.
+In Denmark (Odense Steel Shipyard (I)), the EGF facilitated the implementation of 
+high quality training measures. These measures were of a more long-term and 
+personalised nature and leading to qualifications superior to those which were 
+normally offered to unemployed persons, and the possibility of sectoral reconversion. 
+According to several participants in the focus group organised by the auditors, the 
+personalised services went well beyond the scope of national personalised measures 
+and were perceived as a unique opportunity, as they gave redundant workers 
+ownership of their personal re-integration project.
+18.	In Ireland, the applications did not always establish the link between 
+personalised services and actual labour market needs. As a result, at this 
+stage, it was not identified whether the measures put forward were best suited 
+to support the re-integration of the redundant workers.
+EGF measures were generally well-coordinated with national measures 
+and the ESF
+19.	In order to maximise theeffects of EGF measures, the EGF Regulation 
+states that they should always take the form of a coordinated package of 
+personalised services. What is meant is coordination with measures preceding 
+or concomitant to the personalised services co-financed by the EGF . Member 
+States should also coordinate their interventions with the Structural Funds , in 
+particular the ESF.
+20.	The Court observed that, generally, the Member States effectively 
+coordinated the EGF with ESF and national labour market measures. Existing 
+ESF measures were usually complemented by additional EGF measures 
+specifically designed to address workers’ needs. 
+21.	Moreover, for the eight audited cases, the Court did not detect instances of 
+overlap between the different measures, or double-funding of individuals. 
+Some Member States preferred the ESF over the EGF
+22.	Although the ESF is not expected to address unforeseeable events, all 
+measures under the EGF Regulation may equally be applied under the ESF . 
+Whether or not the ESF may co-finance support for workers subject to a mass 
+redundancy caused by an unforeseeable event, essentially depends on the 
+national eligibility rules and the content of operational programmes. 
+23.	The Court’s survey of Member States having never used the EGF 
+intervention concluded on the following reasons for preferring the ESF over the 
+EGF:
+(a)	The higher co-financing rate for the ESF (up to 85 %) than for the EGF (up 
+to 65 %) is a disincentive to apply for the latter. This was stated by six 
+Member States  and had already been recognised by the Commission in 
+2010 .
+(b)	The ESF can be implemented more swiftly than the EGF, or national 
+administrations are more familiar with the ESF .
+(c)	The lack of EGF pre-financing . 
+(d)	The length of the procedure for approving EGF applications .
+24.	The more restrictive EGF conditions, in particular the trade criterion, are 
+another reason why the ESF is preferred over the EGF. After a mass 
+redundancy, some Member States may find it easier to redirect ESF funding 
+towards support for redundant workers rather than apply for EGF funding. For 
+instance, the British authorities never requested EGF assistance in spite of 
+having identified 18 cases that might have qualified for such support .
+Re-integration into employment of EGF supported workers cannot be 
+reliably assessed
+25.	In order to assess the performance of a fund it is necessary to monitor and 
+evaluate its results and impacts and to compare them to other schemes having 
+similar objectives. Taking into account its objective the EGF’s most relevant 
+performance indicator is its capacity to reintegrate  redundant workers. 
+26.	The Court verified that the re-integration rates calculated as a percentage of 
+the re-integrated workers out of the affected workers were available for all eight 
+audited cases. Table 2 shows these percentages for different standard cut-off 
+periods.
+
+Table 2 - Re-integration rates for the eight audited cases
+
+
+
+ 
+Notes:
+-	All data based on Member State data. Reintegration data are not precise.
+-	Reintegrated participants are either self-employed or employed in the labour 
+market at the time in question.
+-	NA = Number or percentage of workers not available.
+Source: Member States.
+27.	Whilst re-integration data at the end of the EGF measures was available for 
+all employers except the case of SR Technics, data were often not available 
+(“NA”) for the other cut-off periods shown in Table 2. In the case of Odense 
+Steel Shipyard (I), due to the timing of the EGF measures , there were no data 
+available about the situation of affected workers after one year. A complete 
+overview was possible only for Lithuania. The table shows that the EGF made 
+a certain contribution to the re-integration of redundant workers. 
+28.	In the most successful example (“Construction” case, Lithuania), 59 % of all 
+the redundant workers were re-integrated at the end of the EGF measures. The 
+lowest rate of re-integration at that stage was 21 % of workers immediately re-
+integrated after the end of the EGF assistance (Dell case, Ireland). Taking the 
+situation 12 months after the end of the EGF measures, the highest re-
+integration rate reported was 68 % (Karmann case, Germany); however, in only 
+four of the eight cases were any data available at that stage. 
+Lack of re-integration objectives and specific EGF performance data 
+29.	A multiplicity of factors adversely affected the quality and availability of re-
+integration data. Firstly, the Member States generally did not set quantitative 
+re-integration objectives. Out of the eight cases audited only one   included 
+such an element. As a result, it is not possible to assess the measures’ 
+effectiveness in terms of achieving their objectives.
+30.	Secondly, in Germany, Denmark and Ireland, the public or private 
+employment services, when collecting re-integration data, did not 
+systematically differentiate between the EGF, the ESF and other national 
+measures specifically designed for workers affected by mass redundancies. 
+31.	For instance, in Germany, the combination of several ESF and EGF-funded 
+training modules made it difficult to isolate the impact of individual measures, or 
+groups of measures, on re-integration . External factors (overall economic 
+situation, involvement of Volkswagen in the case of Karmann, employment 
+subsidies) also had an important impact on re-integration.
+32.	Thirdly, Member State authorities audited generally did not distinguish 
+between the two main kinds of EGF measures: 
+(a)	active labour market measures such as training, aid for self-employment, 
+coaching and outplacement;
+(b)	income support paid to workers.
+33.	Whilst this significant distinction was absent in Germany, Denmark and 
+Ireland, the Lithuanian managing authority went so far as to provide re-
+integration data that distinguished between the workers participating in each of 
+the various measures.
+34.	In addition, there is no specific information, allowing the identification of the 
+ESF co-financed projects that could actually have met the EGF intervention 
+criteria. This identification would have been useful in order to make 
+comparisons between the re-integration rates achieved by funds with different 
+budgetary, legal and operational arrangements. In turn, this would have 
+contributed towards measuring the impact of EGF. The insufficient quality 
+(inaccuracy, incompleteness and inconsistency) of ESF monitoring information 
+available has already been highlighted in previous performance audits by the 
+Court. In particular, the Commission does not have consistent and reliable 
+performance data on EU supported targets, and its assessment and 
+supervision are currently not oriented towards performance .
+Re-integration data were difficult to compare
+35.	Comparing re-integration data is a difficult exercice under any 
+circumstances. As stated in the EGF mid-term evaluation both supply-side (the 
+qualifications of redundant workers) and demand-side factors (local economic 
+and labour market conditions) influenced the re-integration results . 
+36.	However, in the context of the EGF an additional element hampered this 
+comparison. This refers to the differences between the timing of the EGF and 
+that of other labour market actions, as those workers in greater need of help 
+were left to the EGF, which is relatively slower to implement (see Box 2 and 
+paragraph 42). 
+37.	In particular, given that the ESF and EGF both support the training and re-
+integration of the unemployed, such a comparison is necessary with respect to 
+sound financial management as it could highlight potential structural problems. 
+The example below (Box 2) illustrates this.
+Box 2 - Nokia’s transfer companies – unequal performance owing to differences 
+in timing
+The mobile phone company Nokia closed its Bochum (North-Rhine-Westphalia) site 
+on 30 June 2008. Three transfer companies (as they are called under German law) 
+were successively set up to accommodate temporarily redundant workers.
+The first transfer company (exclusively supported by ESF funding), was set up in June 
+2008, seven months before Germany even applied for the EGF. That company yielded 
+a re-integration rate of 66 %. The third and last transfer company was only set up 
+when EGF funding was applied for, in February 2009; it achieved a re-integration rate 
+of 4,35 %.
+The Nokia case speaks volumes – not because ESF funding performed so much 
+better than the EGF, but because the ESF proved quicker to mobilise than the EGF 
+and thus delivered better re-integration results. Indeed, the EGF alone had to cater for 
+persons with more difficult cases and who could not be successfully re-integrated by 
+the previous transfer companies.
+38.	The above example shows that timeliness is one of the most important 
+criteria when a fund including re-integration objectives aims at some degree of 
+success. The Nokia case also shows that the EGF and ESF both supported the 
+same target group, but for reasons diametrically opposed to the purpose for 
+which each fund was designed. The ESF, a structural fund, alleviated an 
+emergency; the EGF, an emergency fund, supported those whom it was more 
+difficult to reintegrate. 
+39.	In fact the EGF and ESF intervene as complementary funds which provide 
+either long-term strategic help, or act as a one-off time-limited and specific 
+response to a single restructuring emergency.
+Germany
+40.	The managing authority did not consider a comparison between different 
+sets of re-integration data to be feasible. As a result, it neither identified a 
+comparable statistical population group for the group of EGF beneficiaries, nor 
+made a comparison with overall re-integration rates at Federal level.
+Denmark
+41.	Due to missing data, no comparison was possible between the re-
+integration results of EGF project participants and general re-integration rates 
+outside the audited cases. 
+Ireland
+42.	Surveys conducted by the managing authority concluded that, within the 
+same time frame, the employment rate for redundant workers who did not 
+benefit from the EGF was higher than the employment rate for EGF 
+beneficiaries. The difference in employment rates can be partially explained by 
+the fact that some persons did not finalise training or education pathways.
+43.	Nonetheless, according to the managing authority, a probable cause of the 
+EGF’s lower re-integration rate in Ireland would be differences between the 
+profiles of redundant workers, the most skilled workers finding a job without 
+EGF help.
+Lithuania
+44.	EGF re-integration results varied significantly from one EGF project to 
+another, depending on the measures implemented and the target group 
+addressed, which made a straightforward comparison impossible.
+The Commission
+45.	Monitoring information was only available to the Commission in the form of 
+the EGF final reports, six months after the end of the implementation period. 
+However, as a result of the inconsistency and unreliability of the re-integration 
+data (see paragraphs 25 to 44), these reports prevent any reasonable 
+comparison between different EGF cases, or between the measures applied in 
+each case.
+46.	In particular, the final reports do not provide an in-depth analysis of the 
+nature and the percentage of allowances paid or committed for all the  EGF 
+cases approved so far. Furthermore, the Commission’s database did not allow 
+the identification and fund allocation of the individual EGF measures nor 
+performance indicators like participation figures or re-integration rates. Also, no 
+information is provided on the individual ESF or national measures having 
+preceded or complemented the EGF ones.
+One third of EGF funding compensates national workers’ income support 
+schemes, with no EU added value
+47.	The EU added value goes beyond the concept of simple added value. It can 
+be defined as the value that an EU action adds to the value that would 
+otherwise have been created by Member States acting alone. In particular, 
+expenditure from the EU budget must offer clear and visible benefits for the EU 
+and its citizens which, by reason of the scale or effects of the proposed action, 
+are better achieved at Union level . 
+48.	The Court refers in particular to the OECD definition of active labour market 
+programmes.  Accordingly, measures aiming at the improvement of the 
+beneficiaries’ prospect of finding gainful employment or otherwise increasing 
+their earnings’ capacity are qualified as active and therefore are considered to 
+meet the conditions for an EU added value. These measures  include not only 
+services such as training, aid for self-employment, coaching and outplacement, 
+but also mobility allowances and educational grants, as well as allowances 
+granted in the context of the EGF and not ordinarily existing under the Member 
+State’s unemployment benefit system. 
+49.	By contrast, workers’ income support measures, consisting of 
+unemployment benefits and programmes for early retirement, cannot be 
+considered as delivering EU added value. Indeed, workers’ income support 
+does not represent an ‘active’ labour market measure  and moreover this 
+reduces the share of these measures in the EGF package. In the mid-term 
+evaluation, the Commission had already reported that on average only 26 % of 
+EGF spending consisted of training measures .
+50.	As can be seen in Table 3 below, a common pattern among the eight 
+audited cases is that they included EGF measures to provide income support, 
+which would have been paid by the Member States anyway, irrespective of 
+EGF intervention. The impact of this type of EGF intervention is to compensate 
+part of the cost of the Member States’ unemployment benefit system, and there 
+is no added value in such an intervention other than EU additional funding for 
+the Member States.
+Workers’ income support measures represent the majority of the co-
+funded expenditure for half of the cases audited
+51.	For each of the cases of the audited sample the Court calculated the 
+amounts of EGF funding committed to the different types of measures and in 
+particular to workers’ income support (see Table 3). 
+Table 3 - Breakdown of EGF funding by type of personalised measures in 
+the eight EGF cases audited
+
+ 
+
+Source: ECA, based on available data from DG Employment, Social Affairs and 
+Inclusion and Member State authorities.
+52.	In six of the eight cases shown in Table 3, the EGF packages included a 
+relatively high proportion of income support. Indeed, in Germany and Denmark, 
+one case in Ireland and one in Lithuania, more than a third of the total value of 
+the respective packages of personalised measures was composed of income 
+support. 
+53.	In the particular cases audited in Germany and Denmark, training measures 
+meant to re-skill or up-skill redundant workers represented only a third or less 
+of the respective EGF packages. On the other side, income support measures 
+in the form of unemployment benefits or the equivalent represented 50 % to 
+73 %. In those cases, moreover, the link between a redundant worker’s income 
+support and his/her effective participation in an EGF funded labour market 
+measure such as training could not systematically be established.
+Globally, workers’ income support measures account for one third of re-
+funded costs
+54.	In the absence of a satisfactory EGF database of cases, the Court 
+examined the Member State application data collected by the Commission for 
+each of the 89 EGF cases for which information was available and relevant. It 
+was found (see Table 4) that 33 % of EGF support for workers (thus excluding 
+technical assistance to Member States) was composed of income support 
+measures such as unemployment benefits.
+Table 4 - Breakdown of EGF funding by type of personalised measures 
+and by Member States
+
+ 
+Notes:
+-	All amounts in euro as of 31 December 2012.
+-	Rejected and withdrawn cases have been excluded.
+Source: ECA, based on Commission data available for 89 approved applications .
+
+55.	Six Member States have been allocated 29 % of the total EGF co-financing 
+and 89 % of all the income support measures approved to date. As well as 
+Germany and Denmark, the six included Austria, Italy, France and Malta . 
+56.	The Court also notes that the Commission’s proposal for the next 
+Multiannual Financial Framework seeks to limit EGF support in the form of 
+allowances, which include workers’ income support, to a maximum of 50 % of 
+any EGF package . 
+Different EGF co-funding in similar economic circumstances
+57.	The Court notes inconsistent outcomes in similar economic circumstances 
+with respect to workers’ income support measures in the case of Germany as 
+compared to Austria , which are the two most intensive users of this kind of 
+EGF support.
+58.	O Germany considered for EGF funding purposes that the duration of the 
+training or qualification measures  represent slightly less than half of workers’ 
+normal working time . By contrast, Austria considered that similar measures 
+represented 100 % of the normal working time. This is due to the fact that the 
+Austrian short-term allowance scheme provides for a definition of full-time 
+occupation to be as low as 50 % of the normal working time.
+59.	 As a consequence of these different national decisions, EGF co-funding of 
+short-term allowance represented proportionally the double in Austrian cases 
+when compared to German cases. The Court notes however that this 
+difference in the EGF funding decision did not affect ultimately the individuals 
+as they received in full the allowances foreseen in the national schemes.
+The EGF approval procedure is too long for an emergency fund
+60.	In order to maximise its impact the EGF should be able to provide its 
+financial contribution rapidly in order to allow the affected workers to benefit of 
+the funded measures as soon as possible after having been made redundant.
+61.	After having established the average length of the approval procedure, the 
+Court assessed to what extent it can be made shorter taking into account the 
+different legal provisions and rules to be respected.
+62.	The EGF approval procedure is the process from the moment a Member 
+State officially applies until the Commission and the Budgetary Authority 
+commit the financial contribution to an EGF case. It can be divided into 
+consecutive stages (called later assessment procedure, budgetary procedure 
+and empowerment procedure), which last together on average 41 weeks.
+Graph - Schematised view of the EGF approval procedure
+ 
+The assessment procedure could be shortened
+63.	The assessment procedure is composed of the appraisal procedure and the 
+Commission’s internal consultation procedures leading to the adoption of the 
+proposal for a decision by the budgetary authority. It takes on average 
+30 weeks. 
+64.	The appraisal procedure takes on average 15 weeks when taking as a 
+starting point the date of the official application of the Member State, but it is 
+much longer when taking into account informal exchange of information 
+between the responsible Member State authority and the Commission.
+65.	One of the factors contributing to the length of the appraisal procedure is 
+the possibility foreseen in the EGF Regulation to supplement Member State 
+applications any time after they officially applied. Introducing a time limit to this 
+possibility as well as taking stock of learning curve benefits may reduce the 
+length of 15 weeks necessary to appraise applications of Member States who 
+are in emergency situations. The subsequent internal consultations within the 
+Commission also take 15 weeks on average.
+The budgetary and empowerment procedures have a further impact on 
+timeliness
+66.	As the EGF operates outside of the Multi-Annual Financial Framework, 
+each EGF case is subject to a specific budgetary procedure in order to make 
+available the related appropriations. In practice, this means that once the 
+Commission has identified sufficient margins and/or cancelled commitments, 
+the decision to deploy them has to be taken by the budgetary authority . This 
+budgetary procedure requires an additional and incompressible period of 
+approximately seven weeks. 
+67.	Then the empowerment procedure completes the approval procedure, 
+leading to the adoption of the formal decision to pay a financial contribution. Its 
+length, an average of 4 weeks, is closely linked to the provisions of the 
+Commission’s rules of procedure . Finally, once agreed, the financial 
+contribution is paid to the Member State concerned.
+The EGF approval procedure is not timely
+68.	To conclude, the approval procedure is very long, especially considering 
+that the EGF is supposed to be an emergency fund. In the mid-term evaluation 
+report, evaluators already pointed out to the Commission in 2011 that the long 
+EGF approval procedure could be considered too slow to offer a genuinely 
+‘rapid response’ mechanism in times of crisis.
+69.	The length of the entire approval procedure is of an average of 11 weeks 
+longer than for an ordinary financing decision of the Commission.
+In the end, the budgetary authority approved all the projects submitted by 
+the Commission 
+70.	The budgetary authority has approved all proposals submitted by the 
+Commission. Only one out of 114 applications has ever been rejected. This is 
+likely due to the Commission’s very effective support for Member States during 
+the application stage. Indeed, in all of the eight audited cases the Court found 
+sufficient evidence of effective support for the Member States. 
+71.	Furthermore, not one audited or surveyed Member State authority 
+expressed dissatisfaction with respect to the Commission service responsible 
+for the EGF, but pointed instead to issues concerning the EGF procedure as a 
+whole rather than the quality of support.
+
+
+CONCLUSIONS AND RECOMMENDATIONS
+72.	The Court is aware of the need for showing EU solidarity towards workers 
+affected by redundancies resulting from changes in world trade patterns. 
+However, the Court is not convinced that all the features of the current EGF 
+mechanism are the most appropriate to deliver specific support with EU added 
+value to redundant workers.
+Nearly all eligible workers were offered personalised and well-
+coordinated measures
+73.	Nearly all eligible workers could benefit from personalised EGF measures. 
+However, in some cases redundant workers formerly employed by the 
+suppliers of an affected enterprise were not included in EGF support 
+(paragraphs 14 to 18).
+74.	In general, EGF support was well coordinated with ESF and national labour 
+market measures, in that existing measures were complemented by additional 
+EGF measures specifically designed to address workers’ needs (paragraphs 19 
+to 21).
+75.	Whereas the ESF is intended to address long-term structural imbalances, 
+the EGF was designed to address short-term and ad-hoc emergency situations. 
+Although the ESF is not expected to address unforeseeable events, all 
+measures under the EGF Regulation may equally be applied under the ESF. 
+Some Member States have preferred to deploy the ESF rather than the EGF 
+owing to the higher co-financing rate, quicker implementation and the 
+availability of pre-financing, as well as the lengthy approval procedure and 
+more restrictive conditions under EGF (paragraphs 22 to 24).
+Re-integration into employment of EGF supported workers cannot be 
+reliably assessed
+76.	Re-integration data exist but are not sufficiently accurate, consistent or 
+detailed for any conclusions to be drawn. As a result, no useful comparisons or 
+benchmarking could be made between EGF measures within an EGF case, 
+EGF cases between one another or EGF cases against other active labour 
+market programmes. No quantitative re-integration objectives were set 
+(paragraphs 25 to 46).
+Recommendation 1
+In order to improve the quality of the information on the achievements of the different 
+cases and on the effectiveness of measures supporting redundant workers, the 
+Member States and the Commission should take the necessary steps to ensure the 
+availability of up-to-date and reliable data in order to monitor the achievement of 
+objectives, as well as to compare the outcome of the various measures.
+One third of EGF funding compensates national workers’ income support 
+schemes, with no EU added value
+77.	When used to co-finance services for redundant workers or allowances not 
+ordinarily existing under Member State unemployment benefit systems, the 
+EGF delivered EU added value. This refers in particular to active measures 
+aiming at the improvement of the beneficiaries’ prospect of finding gainful 
+employment or otherwise increasing their earnings’ capacity such as training, 
+aid for self-employment, coaching and outplacement, mobility allowances and 
+educational grants (paragraphs 47 to 49).
+78.	However, in all the audited cases the Court identified measures to provide 
+workers with income support, which would have been paid by the Member 
+States anyway. Consequently, the Court considers that only training and direct 
+active support measures for redundant workers have an EU added value other 
+than additional funding for the Member States. Sixteen of the 19 Member 
+States which benefited from the EGF included income support measures in 
+their packages. Income support measures represented 33 % of the costs 
+refunded for all EGF cases (paragraphs 50 to 56).
+79.	The Commission did not sufficiently monitor the weight of workers’ support 
+measures (paragraphs 45 to 46). In addition, different Member State decisions 
+may result in different EGF co-funding for similar  income support measures 
+(paragraphs 57 to 59).
+Recommendation 2
+The European Parliament, the Council and the Commission should consider limiting 
+EU funding to measures likely to provide EU added value, rather than funding already 
+existing national workers’ income support schemes.
+The EGF approval procedure is too long for an emergency fund
+80.	The EGF approval procedure is very long. This has a deterrent effect as 
+regards the use of the EGF and consequently hampers EU solidarity with the 
+redundant workers targeted. 
+81.	In addition, the need for a budgetary procedure  adds to the overall length of 
+approval (paragraphs 60 to 69).
+Recommendation 3
+The European Parliament, the Council and the Commission should consider, as an 
+alternative to the EGF scheme, the possibility of adapting the ESF framework in order 
+to support more rapidly workers affected by mass redundancies.
+
+This Report was adopted by Chamber II on 10 June 2013.
+	For the Court of Auditors
+
+	Vítor Manuel da SILVA CALDEIRA 
+	President
+ 	Regulation (EC) No 1927/2006 of the European Parliament and of the Council 
+of 20 December 2006 on establishing the European Globalisation Adjustment 
+Fund (OJ L 406, 30.12.2006, p. 1), as amended by Regulation (EC) 
+No 546/2009 of the European Parliament and of the Council of 18 June 2009 
+(OJ L 167, 29.6.2009, p. 26) - together the “EGF Regulation”. See Article 3 
+“Eligible actions”.
+ 	Until 30 May 2009, the threshold was 1 000 redundant workers.
+ 	Articles 1 and 2 of EGF Regulation. The crisis criterion effectively only applied, 
+under Regulation (EC) No 546/2009, from 18 June 2009 to 31 December 2011. 
+ 	Until 31 December 2012, Member States introduced 114 applications, out of 
+which ten were unsuccessful (one was rejected by the Commission and nine 
+withdrawn by the applicant Member State) and 15 were still under the EGF 
+approval procedure.
+ 	Under Articles 1 and 10 of the EGF Regulation, the EGF co-financing rate was 
+65 % for all applications submitted from 1 May 2009 to 31 December 2011. 
+Before and after that period, the co-financing rate was 50 %.
+ 	COM(2011) 608 final of 6 October 2011.
+ 	Mid-term evaluation of the European Globalisation Adjustment Fund: final report, 
+submitted by GHK to DG Employment, Social Affairs and Inclusion, 2011 
+(http://.ec.europa.eu/social).
+ 	BenQ (Germany), Nokia (Germany), Castilla y Leon and Aragon (Spain), 
+Catalonia (Spain), DELPHI (Spain), Perlos (Finland), PSA suppliers (France), 
+Lombardy (Italy), Piedmont (Italy), Sardinia (Italy), Tuscany (Italy), Alytaus tekstile 
+(Lithuania), Textiles (Malta), Lisbon-Alentejo (Portugal) and North-Centre 
+(Portugal).
+ 	Some difficulties in reaching redundant workers of affected suppliers had already 
+been identified by the mid-term evaluation. See mid-term evaluation, p. 100.
+ 	See Article 5 of the EGF Regulation on the coordination information required at 
+the application stage, and Article 6 on complementarity and coordination.
+ 		Articles 5(3) and 6(2) of Regulation (EC) No 1927/2006.
+ 		Answer given on 19 April 2010 by the Commissioner for Employment and 
+Social Affairs to parliamentary question E-1230/2010.
+ 	Bulgaria, Estonia, Cyprus, Latvia, Hungary and Slovakia. The higher national 
+contribution was seen as a clear impediment to applying for the EGF. Replies 
+to the ECA survey of Member States that have not used EGF funding, 
+October 2012. See also the Issues Paper concerning the permanent changes 
+made in 2009 to Regulation (EC) No 1927/2006, “Procedural changes”, 
+25-26 January 2011.
+ 		Answer given on 19 April 2010 by the Commissioner for Employment and 
+Social Affairs to parliamentary question E-230/2010.
+  		Bulgaria, Cyprus and Hungary.
+ 		Bulgaria, Estonia, Cyprus, Latvia, Hungary and Slovakia.
+ 		Mentioned by Estonia, Latvia and Hungary. See also the Issues Paper 
+concerning the permanent changes made in 2009 to Regulation (EC) 
+No 1927/2006, “Procedural changes”, 25-26 January 2011.
+ 	According to the Commission, the United Kingdom ESF has been redirected 
+towards providing training for redundant workers after mass redundancies.
+ 	EGF was applied for on 6 October 2011 and the final report would not be due 
+before 5 March 2014.
+ 	Odense Steel Shipyard (I) case: This observation was confirmed by the Court’s 
+audit of a sample of individual beneficiaries having benefitted from the EGF. 
+The objective was that 25 % of the participants should be in employment 
+six months after expiry of the EGF measures. That objective was almost met 
+11 months in advance.
+ 	This observation was confirmed by the audit’s analysis of a  sample of 
+individual beneficiaries having benefitted from EGF in Germany, as well as by 
+an evaluation of 16 September 2012 commissioned by the managing authority, 
+p. 4; Bundesministerium für Arbeit und Soziales, Der Europäische 
+Globalisierungsfonds in Deutschland: Eine Untersuchung und Bewertung 
+seiner Umsetzung und Potenziale, Oktober 2012, p. 2, 9, 10, 72, 88 
+(www.bmas.de).
+ 	See paragraph 51 of Special Report No 17/2009 concerning vocational training 
+actions for women co-financed by the European Social Fund; paragraphs 63 
+and 64 of Special Report No 25/2012 Are tools in place to monitor the 
+effectiveness of European Social Fund spending on older workers? 
+(http://eca.europa.eu).
+ 		Mid-term evaluation, p. 101 to 102.
+ 		ECA Opinion No 1/2010 Improving the financial management of the European 
+Union budget: Risks and challenges (http://eca.europa.eu).
+ 	Active labour market programmes - contains all social expenditure (other than 
+education) which is aimed at the improvement of the beneficiaries‘ prospect of 
+finding gainful employment or to otherwise increase their earnings capacity. 
+This category includes spending on public employment services and 
+administration, labour market training, special programmes for youth when in 
+transition from school to work, labour market programmes to provide or 
+promote employment for unemployed and other persons (excluding young and 
+disabled persons) and special programmes for the disabled (An Interpretative 
+Guide to the OECD Social Expenditure Database, OECD, 2007, p. 14).
+ 	It is meant here all cash expenditure compensating for unemployment. This 
+includes redundancy payments out of public resources as well as pensions to 
+beneficiaries before they reach the 'standard' pensionable age if these 
+payments are made because they are out of work or otherwise for reasons of 
+labour market policy (An Interpretative Guide to the OECD Social Expenditure 
+Database, OECD, 2007, p. 15).
+ 	See mid-term evaluation report, 8 December 2011, p. 42. Produced for the 
+Commission, the mid-term evaluation was based on a sample of 15 cases 
+approved before the 2009 amendment to the EGF Regulation came into force.
+ 	See also Table 4.
+  	Article 7(1) of COM(2011) 608 final.
+ 	Steiermark case.
+ 	This rate was a coefficient calculated on the basis of a telephone survey that 
+was conducted for the Nokia application. The coefficient was subsequently 
+applied to all other EGF cases in Germany.
+ 		Paragraph 28 of the Interinstitutional Agreement between the European 
+Parliament, the Council and the Commission on budgetary discipline and 
+sound financial management, 2006/C 139/01.
+ 		See Articles 13 to 15 of the Commission’s Rules of Procedure (C(2000) 3614 
+of 8 December 2000), as amended by Commission Decision 
+2010/138/Euratom of 24 February 2010 (OJ L 55, 5.3.2010, p. 60).

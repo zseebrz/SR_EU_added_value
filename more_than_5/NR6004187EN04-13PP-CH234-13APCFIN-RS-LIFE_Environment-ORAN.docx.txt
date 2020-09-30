@@ -1,0 +1,1013 @@
+Special Report No 15/2013
+(pursuant to Article 287(4), second subparagraph, TFEU)
+Has the Environment component of the LIFE Programme been effective?
+
+together with the Commission’s replies
+
+
+
+
+
+	TABLE OF CONTENTS
+	Paragraph
+Glossary and Abbreviations
+Executive Summary	I - V
+Introduction	1 - 6
+Funding the environment in the EU	1 - 2
+The LIFE Programme	3 - 6
+Audit Scope and Approach	7 - 12
+Observations	13 - 63
+Part I - Design	13 - 38
+The large number of objectives of the programme was  
+not consistent with the limited available budget	13 - 16
+The national allocations hampered competition among  
+project proposals	17 - 21
+The templates used to evaluate project proposals did  
+not require enough justification of the evaluation results,  
+which undermined transparency in the selection process	22 - 28
+The monitoring framework was not appropriate and this  
+hampered efficient programme management	29 - 38
+Part II - Implementation	39 - 63
+Key aspects of the projects were not always appropriately  
+assessed during project selection	41
+The Commission’s monitoring of project implementation  
+was insufficient in some respects	42 - 49
+Low dissemination, sustainability, and replication of  
+projects jeopardised the “catalytic” role expected from  
+the programme	50 - 63
+Conclusions and recommendations	64 - 72
+
+Annex I - The Selection Process
+Annex II - ECA assessment of the sample of projects visited
+
+Reply of the Commission
+
+
+
+GLOSSARY AND ABBREVIATIONS
+Catalyst: An agent that stimulates or precipitates a reaction, development or 
+change.
+Centralised Management by the European Commission:
+-	Direct: The budget implementation tasks are performed directly by 
+Commission departments.
+-	Indirect: The Commission entrusts tasks of public authority, and in 
+particular budget implementation, to agencies created by the Commission 
+(executive agencies), traditional agencies or joint undertakings, other bodies 
+such as the European Investment Bank or the European Investment Fund, 
+national public-sector bodies or bodies governed by private law with a public 
+service mission (so-called "national agencies").
+DG Environment: Directorate-General for the Environment of the European 
+Commission
+EC: European Council
+Effectiveness: Achieving the objectives set.
+Environment Action Programmes (EAPs): These are adopted by the 
+European Parliament and the Council and set out the EU’s key environmental 
+objectives and priorities. They are multi-annual and aim to identify the EU’s 
+major environmental challenges, to set objectives and to provide guidelines. 
+The EU’s first environment action programme dates back to 1973. The 6th EAP 
+expired in mid-2012. The European Commission has proposed a new 
+Environment Action Programme (the 7th) entitled “Living well, within the limits of 
+our planet”, which will be considered through the ordinary legislative procedure 
+by the European Parliament and the Council of the European Union.
+EU: European Union
+EU Interest: In the context of LIFE Environment projects, a synonym for 
+European Added Value. EU interest means contributing to the achievement of 
+the general objectives of EU environmental policy, by targeting a problem with 
+significant importance at European level or expecting to generate results that 
+would be widely applicable. 
+Impact: The positive and negative, primary and secondary long-term effect 
+produced by an intervention, directly or indirectly, intended or unintended.
+Impact assessment: The assessment of the economic, social and 
+environmental consequences of policy and legislative proposals. It is a tool to 
+ensure that Commission initiatives and EU legislation are prepared on the basis 
+of transparent, comprehensive and balanced evidence. 
+Indicator: Quantitative or qualitative factor or variable that provides simple and 
+reliable means to measure achievement, to reflect the changes connected to 
+an intervention or to help assess the performance. Indicators should be 
+relevant, accepted, credible, easy and robust (“RACER” criteria). 
+(a)	Input indicators: These measure the quantity, quality, and timeliness of 
+resources provided for an intervention.
+(b)	Output indicators: These measure deliverables created or provided by the 
+intervention. They provide information to assess the efficient use of inputs.
+(c)	Outcomes indicators: Result and Impact Indicators
+-	Result indicators: These measure the immediate or short-term results 
+of the implementation of the intervention. They provide key information 
+on the extent to which an intervention achieves its objectives. 
+-	Impact indicators: These measure positive and negative, primary and 
+secondary longer-term effects produced by an intervention, directly or 
+indirectly, intended or unintended. 
+Integrated Projects: projects implementing on a large territorial scale, in 
+particular on a regional, multi-regional or national scale; environmental or 
+climate strategies or action plans required by specific EU environmental or 
+climate legislation, pursuant to other EU acts or developed by Member States’ 
+authorities.
+Intervention: Any action or operation carried out by public authorities or other 
+organisations, regardless of its nature (policy, programme, measure or project).
+LIFE: L’Instrument Financier pour l’Environnement (The Financial Instrument 
+for the Environment).
+Monitoring: Regular examination of the resources, outputs and results of 
+interventions.
+Output: Something that is produced with the resources allocated to an 
+intervention.
+Project replication: The reproduction of the whole project or parts of it.
+Project results dissemination: The process of making the results and 
+deliverables of a project available to the stakeholders and to the wider 
+audience. 
+Project sustainability: The continued existence of the project.
+Results: The direct effects or changes that arise due to the intervention.
+Thematic strategies: The 6th EAP introduced the Thematic Strategies as an 
+instrument for its implementation and covered seven thematic areas: soil 
+protection; protection and conservation of the marine environment; sustainable 
+use of pesticides; air pollution; improving the quality of the urban environment; 
+the sustainable use and management of natural resources and waste 
+prevention and recycling.
+These strategies are based on a global approach, by theme, rather than on 
+certain pollutants or types of economic activity, as had been the case in the 
+past. They set long-term objectives and provide an opportunity to simplify and 
+clarify existing legislation.
+
+
+EXECUTIVE SUMMARY
+I. The EU’s environmental policy is integrated across the EU’s main policy 
+areas. The vast majority of EU funding for the environment is therefore 
+delivered as part of the EU’s main spending policies, such as the structural 
+funds and the common agricultural policy. LIFE (L’Instrument Financier pour 
+l’Environnement) is directly managed by the Commission. It is now in its fourth 
+programming period and the current LIFE programme has an average annual 
+budget of 239 million euro for financing projects – which represents less than 
+1,5 % of estimated overall environmental related expenditure by the EU. This is 
+a modest budget for an ambitious objective: to contribute to the development, 
+updating and implementation of EU environmental policy and legislation. 
+Almost 50 % of this budget, or 120 million euro, is devoted to the LIFE 
+Environment component.
+II. The Commission has proposed to increase the available budget for the LIFE 
+Environment component in the next programming period. The Court therefore 
+carried out an audit to assess the effectiveness of the LIFE Environment 
+component of the LIFE programme. This involved an examination of whether 
+the design and implementation of the LIFE Environment component contributed 
+to programme effectiveness.
+III. The Court found that overall, the LIFE Environment component was not 
+operating effectively because it was not sufficiently well designed and 
+implemented. The main design problems were:
+(a)	The lack of a mechanism to target scarce resources on pre-selected 
+objectives dissipated the impact of the invested funds. 
+(b)	The indicative national allocations hampered the selection of best projects 
+because projects were not only selected based on their merit but also on 
+their Member State of origin. 
+(c)	The quality of the project selection was adversely influenced by the 
+insufficient justification of evaluation results.
+(d)	The monitoring framework of the programme lacked appropriate common 
+output and result indicators. This prevented the Commission from getting a 
+comprehensive and updated overview of the performance of projects, and 
+therefore from estimating the operational effectiveness of the programme.  
+IV. The main implementation problems that hampered effectiveness were:
+(a)	Key aspects of LIFE projects, concerning their innovative and demonstrative 
+character, their sustainability prospects and EU interest, were not always 
+appropriately assessed during project selection.
+(b)	The monitoring  of the reasonableness of project costs, their sustainability 
+and replication was insufficient.
+(c)	The expected role of the component as a catalyst for environmental policy 
+was greatly reduced due to insufficiently effective dissemination and low 
+sustainability and replication of projects. 
+V. The Court recommends that the Commission implements the following 
+recommendations: 
+1.	In the establishment of the multi-annual work programmes foreseen 
+in the new LIFE programme, the legislative authorities should enable 
+the Commission and the Member States to restrict eligible 
+applications to limited strategic priorities, and to set clear, specific, 
+measurable and achievable objectives for projects to be funded. A 
+limited number of priorities fixed for a number of years would 
+streamline the selection process, concentrate the efforts on specific 
+issues and facilitate the evaluation of the programme impact.
+2.	The Commission’s proposal for the new LIFE programme ends the 
+national allocation for traditional projects but keeps a geographical 
+balance for Integrated projects. In its application, the Commission 
+should ensure that Integrated projects are selected based on their 
+merit, and that geographical balance should not breach the principle 
+of equal opportunities for applicants.
+3.	The Commission should improve the project selection evaluation 
+forms and require the evaluators to provide separate assessments 
+and scores for major project aspects (such as innovative or 
+demonstrative character of the proposal, the quality of the 
+dissemination actions planned, or the potential for the replication of 
+results), in order to improve the quality and transparency of the 
+selection process and to ensure that selected projects have the 
+potential to contribute most towards the achievement of the 
+programme objectives.
+4.	The Commission should improve its programme management tools 
+and consider introducing adequate common output and result 
+indicators as well as follow-up information at project level, in order to 
+facilitate an appropriate monitoring of the programme. To the extent 
+possible, such indicators should be relevant, accepted, credible, easy 
+and robust (“RACER” criteria).
+5.	The Commission should improve its assessment of the 
+reasonableness of claimed personnel costs, particularly for 
+comparable projects, by making better use of information collected 
+during the monitoring phase. This could then be better used to 
+facilitate the identification of excessive costs. 
+6.	The Commission should require the monitoring team to include in its 
+assessments a critical analysis of the dissemination, sustainability 
+and replication measures proposed by the beneficiary and of the 
+potential barriers that might hinder them, both in its evaluation 
+reports during the project implementation as well as in its ex-post 
+visit reports.
+7.	The Commission should consider how to better encourage the 
+dissemination and replication of project results by private 
+beneficiaries who wish to protect their commercial interests.
+8.	The Commission should consider how to require the beneficiaries to 
+electronically submit simple and updated information after the project 
+completion (i.e. whether the project remains operational, whether the 
+project is replicated, and if yes, how many times, ...). This would 
+enable the Commission to efficiently improve its ex-post information 
+on programme effectiveness.
+
+
+INTRODUCTION
+Funding the environment in the EU 
+1.	The environment is an increasingly important policy area for the European 
+Union. With the Treaty of Amsterdam (1999), the Union recognised that the 
+environment needed to be integrated, in terms of both definition and 
+implementation, into all its other policies (e.g. Transport, Enterprise, Research 
+and Enlargement). Due to the cross-cutting nature of environmental issues, the 
+main Community expenditure programmes (in particular the Structural Funds, 
+the Cohesion Fund and Agricultural expenditure, and other assistance 
+programmes implemented outside the EU) include aspects related to 
+environmental policy. 
+2.	Figure 1 shows the estimated environment related expenditure for the 
+period 2007 to 2013 by expenditure programme. The LIFE programme, with a 
+budget of 2,1 billion euro, represents less than 1,5 % of total environmental 
+related expenditure. 
+Figure 1 – Estimated environmental expenditure (billion euro), 2007-2013 
+ 
+Source: Combined Impact Assessment and Ex-Ante Evaluation of the Review of the 
+LIFE+ Regulation: Options Development. 
+
+The LIFE Programme
+3.	The current LIFE programme  covers the period from 2007 to 2013 and has 
+three components: 
+(a)	LIFE Nature and Biodiversity, which co-finances best practice or 
+demonstration projects that contribute to the implementation of the Birds 
+and Habitats Directives, the Natura 2000 network. In addition it co-finances 
+innovative or demonstration projects that contribute to the implementation 
+of the objectives of the Commission's Communication on “Halting the loss 
+of biodiversity by 2010 and beyond”. 
+(b)	LIFE Environmental Policy and Governance (hereafter LIFE Environment), 
+which co-finances innovative or demonstrative projects related to climate 
+change, water, air, soil, urban environment, noise, chemicals, environment 
+and health, natural resources and waste, forests and innovation.
+(c)	LIFE Information and Communication, which supports projects that 
+disseminate environmental information, such as information about climate 
+change or nature conservation, networking or best-practice platforms.
+4.	LIFE is directly managed by the Commission . Given that most of the EU 
+environmental expenditure is integrated into other expenditure programmes, 
+LIFE stands as the environmental backbone of the EU. Its overall objective is to 
+contribute to the development, updating and implementation of EU 
+environmental policy and legislation, including the integration of the 
+environment into other policies. It should therefore serve as a platform for 
+developing and exchanging best practices and for sharing knowledge, to 
+catalyse and accelerate change on environmental and climate issues. In 
+practice, LIFE supports the general (political) environmental priorities set by the 
+Council and the European Parliament in the Environment Action Programmes 
+(EAP). LIFE Environment projects cover a very wide range of sectors, including 
+climate change, chemicals, water and natural resources, as outlined in Box 1. 
+5.	The current LIFE Environment component has an average annual budget of 
+some 119,5 million euro. From 1996 until 2012 this component provided 
+1,3 billion euro to 1 730 projects (see Table 1). The LIFE Environment 
+component is presented in Figure 2. It shows the intervention logic underlying 
+the component and the interplay between its main elements: “policy setting and 
+evaluation”, “project implementation” and “results and impact”.
+6.	As a result of the relatively limited budget of the LIFE Environment 
+component, both compared with its extensive objectives and overall EU 
+environmental spending, its effectiveness is strongly determined by whether 
+funded projects serve as catalysts for environmental change. This means that 
+the successful completion of a project is not by itself enough to ensure the 
+overall effectiveness of the programme. Indeed, if the projects do not address 
+problems with significant importance at European level and their results are not 
+adequately monitored, disseminated, sustained and replicated, the overall 
+objective of contributing to environmental policy is unlikely to be achieved. 
+
+
+Figure 2 – The LIFE Environment Component
+ 
+
+
+AUDIT SCOPE AND APPROACH
+7.	The Court identified a number of risks to the effectiveness of the LIFE 
+Environment component of the programme in achieving its objectives. In 
+particular, the risks that the combination of a high number of priority actions 
+and the relatively low budget could lead to a lack of focus and inconclusive 
+results, the weaknesses in the project monitoring and evaluation systems for 
+drawing conclusions about the programme and the lack of a multiplier effect 
+due to the insufficient dissemination of project results. Given the Commission’s 
+intention to significantly increase the programme’s budget for the next 
+programming period 2014-2020, the Court decided to carry out an audit in 
+order to assess these risks in more detail. 
+8.	The objective of the audit was to answer the question “Does the LIFE 
+Environment component of the LIFE programme  operate effectively?”. This 
+was done by addressing the following audit sub-questions: 
+-	Was the LIFE Environment programme well designed in order to facilitate 
+effective results? In order to answer this question, the Court examined the 
+consistency of objectives with the available budget, how the budget was 
+allocated and the design of the project selection and monitoring processes.
+-	Was the LIFE Environment programme well implemented in order to obtain 
+effective results? In order to answer this question, the Court examined the 
+application of the selection criteria, and the monitoring, dissemination, 
+sustainability and replication of projects.  
+9.	The above questions consider the criteria necessary to achieve the catalytic 
+effect and thus the overall effectiveness of the Environment component of the 
+programme.
+10.	The audit focused on the projects funded between 2005 and 2010. The 
+Court visited the Commission’s relevant services and five Member States from 
+among the largest beneficiaries of LIFE (Germany, Spain, France, Italy and the 
+United Kingdom), representing 55 % of the LIFE budget and 15 % of its 
+projects. 
+11.	In total 25 projects were visited on-the-spot in the five Member States . 
+Relevant documents were examined to check the purpose, eligibility, existence, 
+sustainability and potential replication of the projects, and to verify whether best 
+practices and lessons learned were appropriately disseminated by the 
+Commission. In addition, relevant information related to project selection and 
+monitoring, as well as information on the project websites was analysed for a 
+sample of 70 projects.
+12.	Interviews were carried out with representatives of the Commission, the 
+evaluation team, the monitoring team  and representatives of the national or 
+regional authorities acting as national or regional contact points (NCP). 
+OBSERVATIONS
+Part I – Design 
+The large number of objectives of the programme was not consistent with 
+the limited available budget
+13.	In order to be effective, programmes should not only define clear and 
+specific objectives, but these should be realistic and consistent with the 
+allocated budget. More concretely, programmes should include a limited 
+number of defined specific priorities in order to target available resources on 
+attaining the objectives set. This is particularly important for LIFE, given its 
+expected catalytic role to promote developments in the EU environmental 
+policy and its relatively limited budget.
+14.	The LIFE Regulation set many eligible objectives for LIFE Environment 
+component projects (see Box 1). From 2008, the Commission narrowed down 
+these objectives in its annual call for proposals into “indicative priority areas”. 
+However, in practice this did not result in much greater targeting of specific 
+priorities because proposals outside these priorities are eligible for funding, as 
+long as they relate to any of the many objectives under the Regulation. 
+Therefore despite its modest budget, LIFE Environment funds projects across 
+twelve different policy areas and involving very different issues and interests. 
+Even if good projects are being financed, this inevitably translates into a lack of 
+critical mass of projects to promote meaningful developments in EU 
+environmental policy and prevents any real impact on policy areas.
+Box 1 – LIFE Environment: A small budget …
+The LIFE Environment component represents around 0,5 % of the estimated EU 
+environmental expenditure for the period 2007-2013. 
+But with many ambitious objectives (listed in Annex II of LIFE+ Regulation)
+(a) Climate change: to stabilise greenhouse gas concentration at a level that prevents 
+global warming above 2°C.
+(b) Water: to contribute to enhanced water quality by developing cost-effective 
+measures to achieve a good ecological status in view of developing the first river basin 
+management plan under Directive 2000/60/EC  by 2009.
+(c) Air: to achieve levels of air quality that do not give rise to significant negative 
+impacts on and risks to human health and the environment.
+(d) Soil: to protect and to ensure the sustainable use of soil by preserving soil 
+functions, preventing threats to soil, mitigating their effects and restoring degraded 
+soils.
+(e) Urban environment: to contribute to improving the environmental performance of 
+Europe’s urban areas.
+(f) Noise: to contribute to policy development and implementation on environmental 
+noise.
+(g) Chemicals: to improve the protection of the environment and health from risks 
+posed by chemicals by 2020 by implementing chemicals legislation.
+(h) Environment and health: to develop the information base for policy on the 
+environment and health (the Environment and Health Action Plan 2004-2010).
+(i) Natural resources and waste: (a) to develop and implement policies designed to 
+ensure sustainable management and use of natural resources and waste, and to 
+improve the environmental performance of products, sustainable production and 
+consumption patterns, waste prevention, recovery and recycling; (b) to contribute to 
+the effective implementation of the Thematic Strategy on the prevention and recycling 
+of waste.
+(j) Forests: to provide, especially through an EU coordination network, a concise and 
+comprehensive basis for policy relevant information on forests in relation to climate 
+change (impact on forest ecosystems, mitigation, substitution effects), biodiversity 
+(baseline information and protected forest areas), forest fires, forest conditions and the 
+protective functions of forests (water, soil and infrastructure) as well as contributing to 
+the protection of forests against fires.
+(k) Innovation: to contribute to developing and demonstrating innovative policy 
+approaches technologies, methods and instruments to assist in the implementation of 
+the Environmental Technologies Action Plan (ETAP).
+15.	Table 1 shows the amounts that LIFE Environment spent by priority area in 
+the years 1996 to 2012. Even within the priority areas, the projects cover a 
+wide range of sectors and the total amount involved represents around 0,5 % of 
+total EU environmental related expenditure (see paragraph 5).
+Table 1 – LIFE Environment (1996-2012): number of projects and amount 
+funded by priority area 
+ 
+Source: Mid-Term Evaluation of the Implementation of the LIFE+ Regulation. GHK 
+April 2010 and Commission services.
+16.	Consequently, the fact that the LIFE programme does not have a 
+mechanism to allocate its limited resources to the indicative favoured actions, 
+prevents the Commission from focusing project applications on a limited 
+number of specific priorities, which means that LIFE does not necessarily focus 
+on pre-selected policy areas but funds the policy areas of the selected projects. 
+In the Court’s view, this is not consistent with the catalytic role expected from 
+the programme.
+The national allocations hampered competition among project proposals
+17.	LIFE funds cover a wide range of areas in the whole territory of the EU. In 
+order to fund the best possible projects, applications should go through a 
+competitive selection process whereby the best projects are selected for 
+funding. 
+18.	Since 2007 the LIFE programme has been designed to provide a 
+proportionate distribution of projects among the Member States. Article 6(2) of 
+the LIFE+ Regulation establishes indicative national allocations , based on 
+population and on the percentage of the national territory designated as a 
+Natura 2000 area. 
+19.	The indicative national allocations intend to secure funding for smaller 
+Member States by “blocking” a part of the budget for them. But as highlighted in 
+the impact assessment supporting the Commission’s proposal for the new LIFE 
+Regulation, their allocations are by definition small and this reduces their 
+interest and commitment to the programme. As a result, the system did not 
+stimulate more applications from these Member States. 
+20.	Furthermore, the Court found that the national allocations distort the results 
+of the evaluation criteria used for the selection process and can result in 
+projects, depending on their Member State of origin, being selected with lower 
+evaluation scores than rejected projects from other Member States. For 
+example, in 2009 three projects from Italy, Poland and Finland, with a final 
+score of 55 points were refused for co-financing while one French project with 
+only 46 points and two British projects with 50 points were retained.
+21.	The system magnifies competition between projects in the same country, 
+rather than ensuring the best projects are selected at European level. The 
+European added value of the programme is therefore reduced.
+The templates used to evaluate project proposals did not require enough 
+justification of the evaluation results, which undermined transparency in 
+the selection process
+22.	The project selection process is a cornerstone for the quality of spending 
+programmes and a necessary condition for their effectiveness. This process 
+should ensure transparency and equal opportunities for all applicants, be based 
+on objective criteria and target projects that contribute most towards the 
+achievement of the programme objectives. A transparent and effective 
+selection process requires evaluation forms that reveal the score given to each 
+of the criteria and their justification.
+23.	LIFE projects are selected on the basis of a call for proposals launched 
+every year by the Commission. While the Commission receives assistance 
+from a consortium of external evaluators to evaluate project proposals, it 
+remains responsible for the selection process. 
+24.	The overall selection process of LIFE Environment proposals takes place in 
+four phases: Eligibility, Selection, Award and Revision. The process is outlined 
+in Annex I. For the two first phases of the evaluation process – eligibility and 
+selection – each proposal is examined by one evaluator. In the award phase, 
+the proposals have to be assessed independently by two expert evaluators. In 
+case of significant divergence, a third assessment of the proposal is required. 
+The final decision on the score to be given to each proposal is taken during a 
+meeting chaired by the Commission’s services and attended by the evaluators. 
+25.	The evaluators use standard templates, prepared by the Commission, to 
+appraise project proposals on the basis of pre-defined selection criteria. Each 
+of these criteria is further developed into a series of more specific aspects to be 
+considered . While for the award phase the templates require the evaluators to 
+score and give opinions in favour and against each major criterion, there is no 
+requirement to justify the assessment or to score the different aspects included 
+in each major criterion. 
+26.	The audit found that key aspects for the effectiveness of the programme, 
+such as the innovative or demonstrative character of the proposal, the quality of 
+the dissemination actions planned, or the potential for the replication of results 
+were not considered as standalone evaluation criteria, but as one among the 
+several aspects inside the evaluation criteria. In practice this meant that the 
+evaluators were not required to score and justify their assessment of these key 
+aspects of LIFE Environment projects. In the Court’s view, this represents a 
+weakness in the design of the project selection system .
+27.	In fact, the Court found that the aggregation of different key aspects under 
+the same evaluation criterion, without requiring the evaluator to give an 
+individual score led to situations where the scores given were not sufficiently 
+justified in the evaluation templates (see Box 2) or where important aspects 
+were not appropriately assessed (see Box 3 and paragraph 41)
+Box 2 – Evaluation score not sufficiently justified
+A German proposal received predominantly negative comments concerning the 
+evaluation criterion 1. Under this criterion the evaluators should assess the innovative 
+nature of the proposal, the significance of the expected environmental progress and its 
+technical feasibility.
+The evaluator noted in the evaluation form that the only innovative character resided in 
+the process not in the methods and concepts.
+The evaluator scored this criterion with 6 points out of a maximum of 10. In the Court’s 
+view, the negative narrative assessment provided in the evaluation form does not 
+justify this score. 
+
+28.	Furthermore, providing an overall score to an evaluation criterion without 
+scoring the underlying aspects prevents an objective and thorough re-
+performance of the evaluation work carried out. This undermines transparency 
+of the programme’s selection system. 
+The monitoring framework was not appropriate and this hampered 
+efficient programme management
+29.	Appropriate management of any kind of programme requires a regular 
+examination of inputs, outputs and results, in order to obtain up to date 
+information on whether the programme is progressing as intended, in other 
+words, a monitoring framework. Monitoring informs managers during 
+programme implementation about the achievement of operational objectives, 
+so that problems can be identified and corrected in a timely manner.  A sound 
+monitoring framework should contain, for example, a set of common input, 
+output and result indicators. These should allow data at project level to be 
+aggregated at programme level and to be compared against pre-defined 
+objectives and targets. 
+30.	Monitoring should not stop when projects are completed. In the LIFE 
+programme, ex-post monitoring would be useful to determine whether or not 
+the outputs and expected results continue to be generated, to check that there 
+are no sustainability-related problems, or the extent to which project results 
+have been transferred or replicated elsewhere.
+31.	The Commission monitors project implementation, assisted by a consortium 
+of experts acting as an external monitoring team. The team makes annual site 
+visits to inspect the project progress, either alone or with a desk officer from the 
+Commission. The monitoring team assesses the regular reports of project 
+implementation, which the beneficiary submits to the Commission.
+32.	During their project visits the monitoring team assesses the delivery of 
+outputs and the achievement of results as stated in the project proposals, and 
+assesses the technical and financial eligibility of the costs declared. At the end 
+of the project, the monitoring experts complete an overall evaluation of the 
+project’s results, including a final “score”. However, these monitoring 
+arrangements focused at project level are of little use to draw lessons on the 
+performance of the programme. This is because the programme’s performance 
+monitoring framework does not have adequate common output and result 
+indicators. In particular, the set of common output indicators introduced in 2007 
+is largely limited to communication and dissemination actions such as 
+workshops, seminars, conferences and publications. Furthermore, the 
+Commission has not defined any result indicator. Consequently, the current 
+framework does not allow the information from individual project results to be 
+aggregated in a meaningful way. This prevents the regular monitoring of the 
+programme’s effectiveness and the timely identification of problems affecting its 
+performance.
+33.	The overall objective of the programme is to contribute to the development, 
+updating and implementation of EU environmental policy and legislation. That 
+requires that successful projects are sustained, their results disseminated and 
+ultimately replicated. However, once the projects are closed, the Commission 
+considers that its available resources do not allow it to perform systematic ex-
+post visits to follow-up the “after-LIFE” evolution of the projects. 
+34.	Aware of these weaknesses, the Commission has, since 2009, included in 
+the contract between the European Commission and the monitoring team a 
+requirement for ten ex-post visits per year, to examine sustainability and other 
+issues . By December 2012, 30 LIFE Environment projects had been visited. 
+Although this represents an improvement, it represents only 5 % of closed 
+projects.
+35.	When evaluating the final project report, the monitoring team establishes a 
+set of long term monitoring indicators to be used during ex-post visits. 
+However, the audit has not found any evidence that these indicators are 
+assessed in subsequent ex-post visits. Moreover, the proposed long term 
+indicators are unique to each project, which would limit their usefulness, even if 
+a value would be available, at programme level. A further weakness in the 
+recently introduced ex-post checks is that, even if a project’s sustainability is 
+comprehensively analysed by the ex-post evaluations, the monitoring team is 
+not asked to analyse the project's replication, which is fundamental to achieving 
+the catalytic effect of the programme.
+36.	Furthermore, as is the case during the implementation of the projects,  
+neither the Commission nor the monitoring team have considered preparing a 
+list of common indicators to be used by the monitoring team during the ex-post 
+visits in order to follow-up the outcomes of the LIFE Environment projects. The 
+combination of the above weaknesses means that the Commission lacks 
+information on the number of successfully completed projects, the number of 
+projects that are still operational after a certain number of years, and the 
+number of projects that have been replicated. This prevents the opportunity to 
+benefit from lessons learned in the past and thereby improve selection and 
+monitoring procedures, avoid the repetition of errors and save resources.
+37.	Although the Commission organises periodic evaluations of the programme, 
+these cannot replace day to day monitoring of the programme. In fact, both 
+processes are complementary, since evaluations should use, among other 
+sources, the information produced for monitoring. 
+38.	Overall, the audit found that the lack of consolidated information and 
+appropriate indicators regarding the outputs and results of the LIFE 
+Environment projects prevents the ongoing assessment of the effectiveness of 
+the programme and hinders the timely identification of problems affecting 
+programme implementation, which in turns hinders learning lessons for the 
+future. 
+Part II – Implementation 
+39.	Taking into account the objectives of the LIFE Environment component (see 
+paragraph 4 and Box 1),  the eligibility criteria defined by the Regulation and 
+the Commission’s selection guidelines, the Court has considered that to act as 
+catalysts and contribute to an effective programme, LIFE Environment projects 
+should: 
+(a)	be Innovative or Demonstrative by focusing on innovative or demonstrative 
+solutions to environmental problems by developing or disseminating 
+innovative techniques or methods, best practice techniques, know-how, 
+etc.;
+(b)	be of EU interest and contribute to the achievement of the general 
+objectives of EU environmental policy by targeting a problem with 
+significant importance at European level or expecting to generate results 
+that would be widely applicable;
+(c)	have their results disseminated to ensure that innovative technologies and 
+procedures for protecting the environment are well known and widely 
+applied;
+(d)	be sustainable as the continued existence of the project is required for its 
+successful dissemination and replication;
+(e)	be replicated by other entities in order to generate a wider impact. 
+Replication may imply the propagation and multiplication of the outcomes 
+of the project and the generation of impacts beyond the individual project.
+40.	The audit analysed, therefore, how these criteria were met in the different 
+implementation phases of LIFE projects. 
+Key aspects of the projects were not always appropriately assessed 
+during project selection 
+41.	The Court reviewed the evaluation forms of the 25 projects visited and of 
+70 additional projects subject to a desk review. More concretely, the Court 
+reviewed whether the evaluation of project proposals appropriately covered 
+certain essential aspects for the effectiveness of the programme, such as the 
+project’s innovative or demonstrative character, potential for sustainability or 
+replication, and significance of the environmental problem addressed (see 
+paragraph 39). The audit revealed projects where the evaluation and key 
+criteria scores awarded were not sufficiently justified (see paragraph 27), but 
+which were nevertheless funded:
+(a)	The assessment of the innovative and demonstrative character of projects 
+was not sufficiently justified in 20 % of the projects that have been the 
+subject of a desk review and in 24 % of the projects visited on the spot.
+-	The Court’s visit to the 25 projects found cases (see example in Box 3) 
+where the level of innovation was either overrated or insufficiently 
+justified, for example, where the evaluators did not take into account the 
+existence of similar projects.    
+Box 3 – Selection procedure: example of weaknesses in the evaluation of 
+innovative and demonstrative character 
+In the evaluation of a UK project, the innovative character of the project was 
+considered as high even if under other criteria the evaluator stated that “the method is 
+not entirely innovative in the Community”. 
+When evaluating the demonstration character of the project, the evaluator questioned 
+the scale of the project, as being too large. The beneficiary’s reply was that the 
+technology proposed had already been tested on two smaller facilities of the company.
+The audit revealed that one of these two facilities was already operating at a 
+production scale, which questions the demonstrative character of the LIFE project.
+(b)	The assessment of project sustainability or replication prospects was not 
+sufficiently justified in 21 % of the projects that have been the subject of a 
+desk review and in 12 % of the projects visited on the spot. 
+-	The Court’s visit to the 25 projects found cases (see examples in Box 4) 
+where evaluators did not identify the potential economic, financial or 
+legal barriers that could prevent the project from being sustained or 
+replicated. Indeed, the audit found cases of projects that, while 
+achieving their objectives and expected results, could not be sustained 
+or replicated because of these barriers , which in the Court’s view, 
+could have been identified already during the selection process. Had 
+these barriers been identified by the evaluators, the Commission could 
+have decided not to fund the project. 
+Box 4 – Selection procedure: examples of weaknesses in the evaluation of 
+sustainability and replication of the project proposals
+Project Sustainability prospects
+In the evaluation of a Spanish proposal, the evaluators noted that there were no 
+commercial plans to maintain the project and therefore they could not assess whether 
+the project would be economically viable after completion and receipt of EU funding. 
+However, the evaluators did not request any modifications or additional information in 
+the revision of the project to ensure that the project offered the minimum guarantees of 
+sustainability beyond EU funding. The evaluation of sustainability was therefore 
+insufficient. 
+The auditors’ visit of the project confirmed that the project was not sustained after its 
+completion.
+Legal barrier to project replication 
+Another project in Spain, which has been completed in 2008, developed a technique 
+using ozone as an alternative environmentally-friendly cleaning agent in food-
+processing plants. The spreading of this technology would depend on a new European 
+legislation supporting this technology, which is still not in place. 
+Economic barriers to project replication
+A project in France reduced the environmental impact of glass production. However, 
+the long life-span of the glass furnaces (15-20 years) limits the possibility for 
+replication within the beneficiary’s group of companies. Replication outside the group 
+is not envisaged as the project represents an economic advantage for the group.
+
+(c)	The assessment of EU interest was insufficiently justified in 20 % of the 
+projects that have been the subject of a desk review and in 12 % of the 
+projects visited on the spot. 
+-	The Court’s visit to the 25 projects found cases (see example in Box 5) 
+where the EU interest was either not assessed, or the assessment was 
+not justified by the evaluator, for example, cases where there were 
+doubts that the project results could be applied outside the immediate 
+project scope. 
+Box 5 – Selection procedure: example of weaknesses in the evaluation of the EU 
+Interest of the project proposals
+A UK proposal aimed at maintaining urban environments in three sites. In two of these, 
+the proposal did not mention environmental issues. The main actions planned, and 
+finally carried out, where related to the social environment, or to nature protection 
+measures, rather than to address any environmental problem of significant importance 
+at EU level as required by the applicable regulation.
+Even if referring to one of the priorities defined in the LIFE Regulation, the proposal 
+focused on very local problems and was not of EU interest.
+The evaluation forms reviewed by the Court showed no evidence that this aspect had 
+been assessed by the evaluator. 
+The Commission’s monitoring of project implementation was insufficient 
+in some respects
+42.	The Court checked whether the monitoring work carried out was 
+comprehensive and that the reports produced by the monitoring teams for the 
+25 projects visited accurately reflected actual project implementation.  
+43.	The work of the monitoring team during project implementation is focused 
+on the delivery of the expected outputs and verifying that the claimed costs are 
+technically justified, provided for in the project’s budget, realistic and actually 
+incurred in the reporting period. The Court found that these checks are carried 
+out regularly. However, the audit found problems with monitoring the 
+reasonableness of costs and the sustainability and replication of projects.
+44.	While the eligibility of claimed costs is checked, there is not any 
+comparative analysis of the costs among similar projects, not even between 
+projects in the same sector and region. The absence of such comparisons may 
+lead to the acceptance of excessive costs, especially as the evaluators 
+responsible for assessing the project proposals and the beneficiaries’ final 
+reports are primarily technical, rather than financial experts. For example, the 
+audit found that the claimed hourly staff cost of project managers for the 
+23 closed projects visited varied between 10,56 euro and 164,39 euro.
+45.	The analysis of the final cost structure of the 23 completed projects that 
+were visited – shown in Figure 3 – indicate the importance of staff costs, which 
+in the Court’s sample represented between 18,5 % to 83,5 % of the total costs 
+of the project.
+Figure 3 – Cost structure of the 23 completed projects
+ 
+Source: European Court of Auditors.
+46.	While there may be good reasons justifying the wide variations found in the 
+hourly staff cost charged to LIFE projects, the Court nevertheless finds that 
+extreme range variations justify further analysis by the Commission.
+47.	The Court also found that the monitoring team does not pay sufficient 
+attention to the sustainability and replication prospects of projects (see 
+examples in Box 6). 
+Box 6 – Examples of weaknesses in monitoring  of sustainability and replication
+A project in Spain aimed at reducing groundwater contamination by reducing the use 
+of fertilisers and nitric acid in a horticultural sector. 
+The project received a good assessment from the monitoring team despite the fact 
+that the beneficiary recognised that limited environmental benefits were obtained, and 
+that further studies were needed to demonstrate environmental benefits. The 
+monitoring team also noted that such studies were necessary to assure the project’s 
+sustainability, although the beneficiary had not committed to undertake such studies. 
+Finally, the transferability was assessed as “high” by the monitoring team, although the 
+team concluded that “this sector was probably not ready to introduce technological 
+changes because it has low profits and no investment can be really done by the small 
+producers”. This issue was not addressed during the implementation of the project. 
+At the time of the Court’s visit only one of the six partners which participated in the 
+project continued using the new technology. There is no evidence that the project was 
+replicated.
+A project in Italy had an expected duration of 24 months. Five months before its end, 
+the beneficiary requested a substantial project modification as none of the 50 potential 
+users that were initially interested in product testing were still interested in the new 
+process. Despite the fact such testing was initially considered as fundamental, the 
+beneficiary requested the Commission’s permission to have the test performed by a 
+business partner.
+The Commission accepted the requested modification of the project. After its 
+completion, the project was not sustained nor replicated due to the lack of interest of 
+end users. Despite the evident risks that the lack of interest from end-users 
+represented for the sustainability of the project, the monitoring team never questioned 
+this issue and no corrective action was taken to address it.
+48.	Beneficiaries prepare implementation and final reports where they present 
+the project results and achievements. The monitoring teams assess these 
+reports. The audit found that the monitoring teams were not sufficiently critical 
+of the statements and arguments made in the beneficiaries’ implementation 
+and final reports (see Box 7). As a result, there is a risk that the achievements 
+of the projects, and thus of the programme are overestimated. 
+Box 7 – Insufficiently critical monitoring of beneficiaries’ reports
+A project in Italy aimed at the reduction of waste in the ceramics sector. The 
+monitoring team’s assessment of the beneficiary’s final report substantially reflects the 
+beneficiary’s own statements, and was not sufficiently critical of the project’s reported 
+sustainability. The project which was finished in September 2008 (the final payment 
+was done in August 2009), was not sustained at the time of the Court’s visit.
+A project in Germany aimed at developing cleaner city logistics. The monitoring team’s 
+evaluation of the project’s environmental benefits substantially reflects the 
+beneficiary’s own statements, without further assessment.    
+49.	In conclusion, the audit detected weaknesses in the assessments by the 
+monitoring teams in 18 out of 25 projects examined. In addition to the lack of a 
+sufficiently critical assessment of beneficiaries’ own assessments, the 
+weaknesses were evenly spread over the assessment of the projects’ 
+environmental objectives, sustainability, replication and dissemination. 
+Low dissemination, sustainability, and replication of projects jeopardised 
+the “catalytic” role expected from the programme
+50.	One of the LIFE programme’s key objectives is that it should act as a 
+catalyst for developing environmental policy and actions. A necessary condition 
+for this is that projects’ results are appropriately and widely disseminated, 
+sustained and replicated (see paragraph 39). 
+51.	The sample of projects audited point to problems with all of these elements 
+(see Annex II). Even when projects achieved positive environmental results, 
+the programme failed to effectively disseminate and replicate them effectively in 
+order to translate those small scale results into a more meaningful application 
+at EU level. This significantly limits the overall effectiveness of the programme.
+Dissemination of results 
+52.	As indicated in paragraph 39 and Figure 2, the dissemination of project 
+results is required if projects are to serve as catalysts for environmental action. 
+Effective dissemination encourages the replication and development of project 
+results. It should be well targeted, efficiently delivered, and monitored. The 
+responsibility for disseminating LIFE project results is shared between the 
+Commission and the beneficiaries. The audit found problems with both. 
+53.	The Commission publishes significant LIFE project information on its 
+website. This includes summaries of project themes and lessons learned, a 
+project database, a “LIFE by Theme” tool, and project summaries. Thematic 
+platform meetings are promoted by the Commission or by Member States or 
+individual beneficiaries, and closing conferences are organised by a significant 
+number of projects.
+54.	However, once projects are completed, no update is made by the 
+Commission to reflect either problems or successes concerning the results, 
+sustainability or replication of the projects. Moreover, the partially manual 
+treatment of the information, and the lack of Commission resources lead to 
+information gaps and errors. For example, 11 out of the 23 closed projects 
+visited were not included by the Commission in the “LIFE by Theme” tool. This 
+means that, despite extensive on line information, potential users do not have 
+access to complete and up to date project information.
+55.	The LIFE Common Provisions require the beneficiary, as part of the 
+communication actions, to create or use an existing website for the 
+dissemination of project activities, progress and results. For LIFE projects 
+approved before 2007 there was no mandatory period for keeping the site 
+operational. For sixteen  out of 22 of these closed projects that were visited by 
+the audit, the website was operational. For LIFE projects approved from 2007 
+the website has to be online within six months after the start of the project and 
+has to be regularly updated and maintained for at least five years after the end 
+of the project. The projects audited from this period complied with this 
+requirement. 
+56.	Although the Commission has made efforts to stimulate improvements in 
+project websites (such as posting examples of websites on the LIFE website 
+and providing recommendations on how to design LIFE project websites given 
+to the selected projects), the audit found weaknesses in the websites reviewed.
+57.	The audit analysed the content of 63 project websites  from the sample of 
+69  projects. This included 31 LIFE projects approved before 2007, and 
+32 LIFE projects approved thereafter. Of the 53 operational websites that were 
+operational at the time of the audit, 11 had very limited content. The main 
+weaknesses were very brief project descriptions, and lack of visual aids, 
+reports, and presentations. However there was an improvement in the quality of 
+the websites of projects approved after 2007.
+58.	In addition to passive communication using the internet or other forms of 
+publicity, dissemination activities should be tailored to the specific 
+circumstances of the project. The audit found cases where, despite projects 
+delivering their intended results, dissemination activities were ineffective and 
+failed to encourage project replication. Project websites were not updated, 
+dissemination was largely in the context of the beneficiaries’ commercial 
+advertising campaigns, or to direct business partners and activities planned as 
+part of agreed “after-LIFE” communication plans were not completed.  
+59.	For project beneficiaries which are private companies, dissemination 
+activities are generally organised in the context of the commercialisation of the 
+product. This was done to protect know-how as the project was often 
+considered as a strategic advantage for the beneficiary companies. However, 
+this limits the effectiveness of the dissemination pursued by the programme. 
+LIFE results would give the company a competitive advantage in the industry. 
+Therefore, it may not be in the interests of the company to transfer the 
+knowledge and replicate the project out of the group to which it belongs. This 
+significantly reduces the eventual environmental impact of the project. The 
+question arises as to whether the LIFE programme should fund such projects.
+60.	In conclusion, the Court found that the dissemination activities undertaken 
+did not sufficiently encourage the replication of project results. Even when 
+beneficiaries completed the dissemination activities required under the project 
+agreement, there was a lack of coordinated dissemination activities between 
+the Commission, beneficiaries, and competent national authorities to effectively 
+encourage replication of project results.
+61.	 Box 8 gives such an example of a successful project, whose potential for 
+significant environmental impact was not achieved due to ineffective 
+dissemination.  
+Box 8 – Catalytic impact for the ceramic sector not achieved
+The polishing of ceramic and related materials produces large quantities of waste. One 
+of the projects visited in Italy successfully implemented a process to reduce and 
+recycle this waste. 
+The project, finished in 2008, was still operational at the time of the audit visit in 2013. 
+Despite the success and sustainability of the project it has not been replicated. The 
+project’s website has not been updated since its completion but the company, 
+considering the project as a very positive marketing aspect, includes the LIFE logo in 
+all its promotional items.
+An important part of this production is concentrated in a limited number of European 
+regions, in particular the ceramic district of Sassuolo in Italy and the Valencia region in 
+Spain.
+Although the beneficiary completed the dissemination activities required under the 
+project agreement, there has not been a coordinated effort between the Commission, 
+the regional authorities and the business organisations to disseminate project results 
+and encourage the use of similar techniques elsewhere. The environmental impact is 
+therefore significantly reduced.
+Project sustainability and replication of results
+62.	As indicated in paragraph 39, the sustainability of LIFE Environment 
+projects is essential for the programme’s effectiveness, although to some 
+extent the innovative and demonstrative character required for LIFE projects 
+implies a risk of failure. The audit visited 23 completed projects, most of them 
+completed between 2007 and 2009. The audit found that ten out of these were 
+no longer operational at the time of the visit. For two projects, beneficiaries or 
+partners were conducting new developments. Examples of unsustainable 
+projects were given in Boxes 4 and 6, and an example of a sustainable project 
+was given in Box 8. 
+63.	The weaknesses in the dissemination of successful project results explain, 
+at least partially the low replication of projects. Only eight of the 23 completed 
+projects visited have been or are likely to be replicated, including three that are 
+no longer operational. For two projects out of the eight, replication is done 
+within the group of companies to which the beneficiary belongs, limiting the 
+replication and EU added value. This demonstrates the difference between 
+successful project completion, and programme effectiveness.
+CONCLUSIONS AND RECOMMENDATIONS
+64.	The LIFE Environment programme should serve as a catalyst for EU 
+environmental policy, essentially through the funding of innovative or 
+demonstrative projects with European added value and the subsequent 
+dissemination and replication of their results. The audit assessed the 
+effectiveness of this catalytic effect.
+65.	The Court concluded that the LIFE Environment component was not 
+operating effectively because it was not sufficiently well designed and 
+implemented. The audit identified design and implementation weaknesses, 
+which significantly reduced the programme’s fundamental catalytic role to boost 
+meaningful developments in EU environmental policy. Without this, the overall 
+effectiveness of the programme cannot be achieved. 
+66.	The lack of a mechanism to target scarce resources on pre-selected 
+objectives dissipated the impact of the invested funds (paragraphs 13 to 16).
+
+Recommendation 1
+In the establishment of the multi-annual work programmes foreseen in the new LIFE 
+programme, the legislative authorities should enable the Commission and the Member 
+States to restrict eligible applications to limited strategic priorities, and to set clear, 
+specific, measurable and achievable objectives for projects to be funded. 
+A limited number of priorities fixed for a number of years would streamline the 
+selection process, concentrate the efforts on specific issues and facilitate the 
+evaluation of the programme impact.
+67.	The indicative national allocations hampered the selection of best projects 
+because projects were not only selected based on their merit but also on their 
+Member State of origin (paragraphs 17 to 21).
+Recommendation 2 
+The Commission’s proposal for the new LIFE programme ends the national allocation 
+for traditional projects but keeps a geographical balance for Integrated projects. In its 
+application, the Commission should ensure that Integrated projects are selected based 
+on their merit, and that geographical balance should not breach the principle of equal 
+opportunities for applicants.
+68.	The quality of the project selection was adversely influenced by the 
+inappropriate justification of evaluation results (paragraphs 22 to 28).
+Recommendation 3
+The Commission should improve the project selection evaluation forms and require the 
+evaluators to provide separate assessments and scores for major project aspects 
+(such as innovative or demonstrative character of the proposal, the quality of the 
+dissemination actions planned, or the potential for the replication of results), in order to 
+improve the quality and transparency of the selection process and to ensure that 
+selected projects have the potential to contribute most towards the achievement of the 
+programme objectives.
+69.	The monitoring framework of the programme lacked appropriate common 
+output and result indicators. This prevented the Commission from getting a 
+comprehensive and updated overview of the performance of projects, and 
+therefore from getting information on the effectiveness of the programme 
+(paragraphs 29 to 38).
+Recommendation 4
+The Commission should improve its programme management tools and consider 
+introducing adequate common output and result indicators as well as follow-up 
+information at project level, in order to facilitate an appropriate monitoring of the 
+programme. To the extent possible, such indicators should be relevant, accepted, 
+credible, easy and robust (“RACER” criteria). 
+70.	Key aspects of the projects, concerning their innovative and demonstrative 
+character, their sustainability, and EU interest, were not appropriately assessed 
+during project selection (paragraph 41) (see Recommendation 3).
+71.	The monitoring of the reasonableness of project costs, their sustainability 
+and replication were insufficient (paragraphs 42 to 49).
+Recommendation 5
+The Commission should improve its assessment of the reasonableness of claimed 
+personnel costs, particularly for comparable projects, by making better use of 
+information collected during the monitoring phase. This could then be better used to 
+facilitate the identification of excessive costs. 
+72.	The Court found examples of ineffective dissemination, low sustainability 
+and replication of projects. The potential role of the Environment component as 
+a catalyst for environmental policy was therefore greatly reduced 
+(paragraphs 50 to 63).
+
+Recommendation 6
+The Commission should increase its focus on dissemination, sustainability and 
+replication of LIFE projects. In particular, the Commission should:   
+(a)	 Require the monitoring team to include in its assessments a critical analysis of the 
+dissemination, sustainability and replication measures proposed by the beneficiary and 
+of the potential barriers that might hinder them, both in its evaluation reports during the 
+project implementation as well as in its ex-post visit reports. 
+(b) Consider how to better encourage the dissemination and replication of project 
+results by private beneficiaries who wish to protect their commercial interests.
+(c) Consider how to require the beneficiaries to electronically submit simple and 
+updated information after the project completion (i.e. whether the project remains 
+operational, whether the project is replicated, and if yes, how many times, ...). This 
+would enable the Commission to efficiently improve its ex-post information on the 
+programme effectiveness.
+This Report was adopted by Chamber I, headed by Mr Jan KINŠT, Member of 
+the Court of Auditors, in Luxembourg at its meeting of 6 November 2013.
+							 For the Court of Auditors
+
+						   Vítor Manuel da SILVA CALDEIRA
+								President
+
+
+
+ANNEX I
+The Selection Process
+ 
+
+
+
+Annex II
+ECA assessment of the sample of projects visited
+ 
+ 	The so called “LIFE+” Programme is governed by Regulation (EC) No 614/2007 
+of the European Parliament and of the Council of 23 May 2007 concerning the 
+Financial Instrument for the Environment (LIFE+) (OJ L 149, 9.6.2007, p. 1). It is 
+the successor to the LIFE I (1992-1995), LIFE II (1996-1999) and LIFE III (2000-
+2006) programmes from previous periods. 
+	The Commission has prepared a proposal for the new LIFE programme (2014-
+2020) that is currently under negotiation in the European Parliament and the 
+Council of the EU. 
+ 	Management by the European Commission (Directorate-General for the 
+Environment) on a centralised basis.
+ 	The Nature and Biodiversity component was the subject of the Court’s Special 
+Report No 11/2009 The sustainability and the Commission’s management of the 
+LIFE-Nature projects.
+ 	Including 23 completed projects, in which 22 were selected in 2005 and 2006 and 
+only three in 2007. It should be noted that some rules, for example those 
+concerning dissemination of project results were made more stringent since 2007.
+ 	The Commission is assisted in the project selection procedure by external 
+evaluators and in project monitoring by an external monitoring team.
+  	Directive 2000/60/EC of the European Parliament and of the Council of 
+23 October 2000 establishing a framework for Community action in the field of 
+water policy (OJ L 327, 22.12.2000, p. 1).
+  	The national allocations “not used” are re-allocated and used to co-finance 
+projects submitted by other Member States.
+ 	Under the current programme the template for the award criterion for the 
+European added value of the proposals includes inter alia the assessment of 
+some aspects such as the innovative and demonstrative character of the project 
+and that of the proposed action for dissemination of the results.
+  	The ex-post evaluation of LIFE III (COWI 2009) and the Court’s Special Report 
+No 11/2009 have already identified the need for further clarification of the scoring 
+system.
+ 	Other projects are visited in the framework of the DG Environment annual audit 
+plan. The audit visits are conducted just after the final payment, as the sample is 
+drawn from projects for which the final payment was made the previous year, and 
+shortly after the project conclusion. They are focused on financial aspects of the 
+projects and are not considered to be a part of follow-up activities.
+ 	Typical barriers which were not sufficiently addressed by the monitoring team 
+include: absence of market opportunities for the project outputs; problems with 
+business continuity or access to financial resources of the beneficiary and 
+legislative barriers.
+ 	Only one of the six projects without operational websites was still functioning.
+ 	Five projects had been abandoned and no website existed. One project never 
+started.
+ 	The beneficiary of one project withdrew just after the selection. Another project 
+from the reserve list replaced it.

@@ -1,0 +1,406 @@
+Special Report No 22/2018
+(pursuant to Article 287(4), second subparagraph, TFEU)
+
+
+Mobility under Erasmus+: Millions of participants and multi-faceted European Added Value, however performance measurement needs to be further improved
+
+together with the reply of the Commission
+
+
+	CONTENTS
+Paragraph
+Abbreviations and acronyms
+Glossary
+Executive summary	I - VII
+Introduction	1 - 9
+Audit scope and approach	10 - 13
+Observations	14 - 126
+Erasmus+ mobility creates more forms of European Added Value than
+that required in the Regulation	14 - 51
+Erasmus+ Mobility provides the European Added Value as required
+by the Regulation	14 - 31
+Transnational character and systemic impact	15 - 18
+Complementarity and synergy with other programmes and policies	19 - 25
+Contribution to the effective use of EU transparency
+and recognition tools	26 - 31
+Erasmus+ provides European Added Value in additional ways	32 - 51
+The system of Charters	33 - 34
+Network of cooperation and harmonisation of university curricula	35 - 37
+A strategic approach to mobility	38 - 39
+EAV of mobility of teaching staff	40
+Multilingualism	41 - 43
+Cross-border and international mobility	44
+Erasmus+ as part of the EU’s neighbourhood and development policy	45 - 47
+Increased prominence and prestige of VET	48
+VET brings Erasmus+ closer to a greater variety of citizens	49
+Increase in sense of European identity	50 - 51
+The performance measurement of Erasmus+ Mobility has weaknesses
+in certain key areas	52 - 89
+The specified targets are being met, but some indicators are not fully aligned
+with the general and specific objectives set out in the Regulation	54 - 82
+Some of the indicators set out in the Regulation need to be improved
+to better serve the performance assessment framework	54 - 55
+It is not clear how the Mobility projects financed help meet
+the Europe 2020 headline education target	56 - 58
+As the mobility benchmark only contains partial results, it is not being
+properly measured	59 - 64
+The quantitative (general) indicators provide useful information,
+although some definitions need to be harmonised and refined	65 - 70
+Education and Training indicators are being met, but they do not address
+the extent to which the general and specific objectives of
+the Programme have been achieved	71 - 74
+The Dashboard provides real-time information about outputs
+and outcomes	75 - 76
+The sources used to measure performance in the mid-term evaluation
+are to a large extent surveys and participant feedback	77 - 79
+Post-mobility questionnaire for participants is subjective and complex	80 - 82
+Little continuity from year to year in the priorities in the Erasmus+
+Annual Work Programmes	83 - 86
+The allocation of funds is not based on performance	87 - 89
+Erasmus+ has introduced many innovations but some of them have not yet
+reached maturity	90 - 126
+Consolidation under Erasmus+ is a success	90
+The indirect management approach is positive	91
+Erasmus+ introduces many innovations towards administrative simplification, although application and reporting processes are still complex	92 - 97
+Lump sums, flat rates and unit costs are a good simplification, but
+the Commission should ensure that undesired effects are avoided	98 - 104
+The introduction of IT systems was problematic, but most issues have
+now been resolved	105 - 107
+The Online Linguistic Support is a useful tool. However, the non-online
+courses funded under the previous programme are considered essential	108 - 113
+The Student Loan Guarantee Facility has not met expectations	114 - 121
+Other features new to Erasmus+ need attention	122 - 126
+It is no longer possible for school students to participate in mobility
+under KA1	122
+Many VET institutions have difficulties in finding partners and often
+have to resort to intermediaries	123 - 125
+Flexibility for PhD students is needed	126
+Conclusions and recommendations	127 - 138
+Reply of the Commission
+Annex I -	Examples of mobility projects under Key Action 1 in different education sectors
+Annex II -	Examples of mobility in the VET institutions visited
+
+Abbreviations and Acronyms
+AWP	Annual Work Programme
+DCI	Development Cooperation Instrument
+DG EAC	The Directorate-General for Education, Youth, Sport and Culture at the European Commission is the executive branch of the European Union responsible for policy on education, culture, youth, languages and sport.
+EAV	European Added Value
+EIF	European Investment Fund
+ESF	European Social Fund
+HE	Higher Education
+KA	Key Action
+LA	Learning Agreement
+MTE	Mid-term evaluation
+NA	National Agency(ies)
+OLS	Online Linguistic Support
+SE	School Education
+VET	Vocational Education and Training
+
+Glossary
+Comenius: Previous mobility programme for schools.
+Dashboard: data warehouse in the Commission, collecting all the Erasmus+ information that is recorded by the National Agencies and the beneficiaries. The data is updated on a daily basis and provides real-time, qualitative and quantitative data relating to the implementation of the Programme.
+Erasmus: Previous mobility programme for Higher Education.
+Europe 2020 strategy: The European Union’s ten-year jobs and growth strategy, launched in 2010 to create the conditions for smart, sustainable and inclusive growth.
+Europass: Portfolio of five documents helping citizens to better communicate their skills and qualifications when applying for a job or to study in Europe. These documents are the Europass CV and the Language Passport and three documents that can be issued to citizens who achieve a mobility experience in another European country (Europass Mobility) or who complete a formal programme of vocational education or training (Certificate supplement) or of higher education (Diploma supplement).
+ET 2020: Education and Training 2020 is the EU-wide framework for cooperation in education and training adopted in the Council conclusions of 12 May 2009.
+Leonardo da Vinci: Previous mobility programme for Vocational Education and Training.
+Learning mobility: Moving physically to a country other than the country of residence, in order to undertake study, training or non-formal or informal learning; it may also take the form of traineeships, apprenticeships, youth exchanges, volunteering, teaching or participation in a professional development activity.
+Mobility Benchmark: the indicator pertaining to Erasmus+ which is one of the targets set under ET 2020.
+Programme countries and partner countries: Eligible countries are divided into two groups, Programme countries (EU Member States plus: the former Yugoslav Republic of Macedonia, Iceland, Lichtenstein, Norway and Turkey) and 145 partner countries distributed worldwide.
+Student Loan Guarantee Facility: An EU initiative managed and implemented by EIF on behalf of the European Commission launched in December 2014 in the context of Erasmus+ to provide partial guarantees to financial intermediaries in respect of loans granted to students undertaking a Master’s degree abroad.
+
+Executive summary
+About Erasmus+
+Erasmus+ (“the Programme”) is an EU programme supporting actions in the fields of education and training, youth and sport with a total budget of €16.45 billion for the period 2014-2020. Its aim is to provide learners and staff with the opportunity to gain skills and undergo personal, socio-educational and professional development through study, training, work experience or volunteering abroad. It also aims to improve quality and foster innovation, excellence and internationalisation in organisations working in these three fields.
+A higher level objective of Erasmus+ is to help European countries to modernise and improve their education and training systems, reinforcing their role as drivers for growth, employment, competitiveness, innovation and social cohesion.
+Erasmus+ covers Higher Education (HE), Vocational Education and Training (VET), School Education (SE), Adult Education, Youth and Sport. The activities and projects that can be funded under Erasmus+ are distributed between Key Actions (KA). The Programme is mostly (80 %) implemented under indirect management by National Agencies (NA).
+What we audited
+We assessed the performance and European Added Value (EAV) of the Programme, focusing on KA1, Learning Mobility of individuals (“Erasmus+ Mobility” or “Mobility”) as regards Education and Training, which represents more than half of the Programme’s budget allocation for the period 2014-2020. By January 2018 more than 2.3 million learners and practitioners had benefitted from such mobility.
+What we found
+Our overall conclusion is that Erasmus+ is a well-known, successful EU brand. The Programme generates many forms of EAV which go beyond the legal requirements. Erasmus+ plays a key role in building up learning mobility abroad and has a positive effect on participants’ attitudes towards the EU. Countries would not be able to achieve such effects acting alone.
+In particular, we found that:
+Erasmus+ Mobility provides EAV in many ways in addition to those required in the legal basis, such as a strategic approach to mobility, an increase in sense of European identity and multilingualism;
+most of the targets for the indicators set in the legal basis are being met. However, these indicators are not fully aligned with the general and specific objectives set out in the Regulation making performance measurement difficult. The qualitative indicators are largely based on perceptions of participants via interviews and surveys;
+Erasmus+ introduces many innovations towards administrative simplification for Mobility, although application and reporting processes are still complex;
+the innovative Student Loan Guarantee Facility has not produced the expected results leading to the Commission reallocating the relevant funds.
+What we recommend
+We recommend that the Commission should in particular:
+suggest additional EAV elements when designing and implementing the future Erasmus programme. All EAV elements should be prioritised at the project appraisal stage, monitored and reported on;
+further develop indicators that help to measure the extent to which the general and specific objectives of the Programme have been achieved, and prioritise performance in the allocation of funds;
+further simplify the scheme in order to reduce the administrative burden, make applications and reporting easier for beneficiaries and individual participants and maintain lump sums, flat rates and unit costs, but adjust the grant amounts when necessary. It should also improve IT tools and continue to computerise procedures;
+promote the introduction of school student mobility in KA1 and consider applying more flexibility for PhD students;
+assess the possibility of reintroducing the funding for traditional classroom language teaching; and
+propose appropriate changes to the Student Loan Guarantee Facility to include doctoral and undergraduate mobility.
+
+Introduction
+Erasmus+ supports actions in the fields of education and training, youth and sport, with a total budget of €16.45 billion for the period 2014-2020. It aims to provide learners and staff with the opportunity to gain skills and undergo personal, socio-educational and professional development through study, training, work experience or volunteering abroad. The Programme also aims to improve quality and foster innovation, excellence and internationalisation of organisations in these three fields. The objective of Erasmus+ is also to help European countries to modernise and improve their education and training systems, reinforcing their role as drivers for growth, employment, competitiveness, innovation and social cohesion.
+According to its establishing regulation (henceforth “the Regulation”) the Programme shall contribute inter alia to the achievement of the objectives of the Europe 2020 strategy, including the headline education target. It shall also contribute to the objectives of the strategic framework for European cooperation in education and training, including the corresponding benchmarks (“ET 2020”).
+Erasmus+ combines the programmes from the period 2007-2013 under one Programme. The activities and projects that it funds are distributed between Key Actions (KA), as shown in Figure 1.
+Figure 1 - Structure of the Erasmus+ Programme 2014-2020
+
+Source: ECA.
+The European Commission (Directorate-General for Education, Youth, Sport and Culture) is ultimately responsible for the implementation of Erasmus+. It manages the budget and sets priorities, targets and criteria. It guides and monitors the implementation, follow-up and evaluation of the Programme at European level. The European Commission also has responsibility for the supervision and coordination of the structures in charge of implementing the Programme at national level.
+The implementation of the Erasmus+ Programme is largely (80 %) based on indirect management (see Figure 2). The European Commission delegates implementation to National Agencies (NA) established in each Programme country. The NA are responsible for managing all stages of the project life-cycle. The NA are designated by national authority(ies), who also appoint an independent audit body in accordance with the Financial Regulation.
+Figure 2 - Erasmus+ management
+Source: ECA.
+The most significant part of the Programme in terms of the EU Budget is KA1. It is made up of mobility projects for learners and staff in higher education, vocational education and training and adult education as well as for staff in school education and for young people. In addition KA1 provides for Erasmus Mundus Joint Master’s degrees and Erasmus+ Master’s loans.
+Learning mobility provided under KA1 (moving physically to a country other than the country of residence, in order to undertake study, training or informal or non-formal learning, see Annex I for examples) is intended to improve the level of key competences and skills, with particular regard to their relevance for the labour market and their contribution to a cohesive society. Moreover, Mobility is an important means to promote the inclusion of people from disadvantaged backgrounds.
+Figure 3 shows the budget distribution between the different parts of the Programme.
+Figure 3 - Budget allocation 2014-2020
+
+Source: ECA.
+Countries participating in Erasmus+ are divided into two groups as shown in Figure 4:
+Programme countries: EU Member States plus the former Yugoslav Republic of Macedonia, Iceland, Liechtenstein, Norway and Turkey; and
+145 partner countries (neighbouring countries and the rest of the world).
+Figure 4 – Erasmus+ is a global programme
+
+Source: ECA.
+Audit scope and approach
+We assessed the performance and European Added Value (EAV) of the Erasmus+ Programme. We focused the audit on KA1 (Mobility) for Education and Training, which makes up more than half of the Programme’s budget allocation. Projects under KA2 and KA3 have an implementation period of several years and were mostly at the implementing and/or contracting stage in 2017.
+In particular, we examined whether:
+Erasmus+ Mobility provides the expected EAV;
+the results of Erasmus+ Mobility are appropriately measured; and
+innovations introduced under Erasmus+ Mobility have improved the Programme.
+We selected five Programme countries to visit: Estonia, Norway, Poland, Romania and Spain. Our criteria for the selection of the countries were: (i) the number of participants they receive and send; (ii) a country receiving and sending a relatively low number of participants; (iii) a geographical spread across EU Member States and (iv) one non-EU country.
+We obtained evidence from:
+interviews with Erasmus+ stakeholders, including:
+Commission and European Investment Fund (EIF) staff responsible for the management of Erasmus+;
+the National Agencies, national authorities, beneficiaries and participants from the five selected programme countries;
+a review of documentation and procedures relating to Erasmus+;
+an analysis of data, including the mid-term evaluation (MTE) of Erasmus+ 2014-2016. This was published on 31 January 2018, after the end of our audit period. We reviewed this key document and found that much of it corroborated our findings. We refer to the MTE and its findings where appropriate.
+Observations
+Erasmus+ mobility creates more forms of European Added Value than that required in the Regulation
+Erasmus+ Mobility provides the European Added Value as required by the Regulation
+The Programme shall only support actions and activities which present a potential EAV and in particular those which have: transnational character, particularly with regard to mobility and cooperation aimed at achieving a sustainable systemic impact; complementarity and synergy with other programmes and policies at national, Union and international level, and a contribution to the effective use of Union transparency and recognition tools.
+Transnational character and systemic impact
+The transnational character is by definition present. Study, training or work placements abroad are the sine qua non condition of the mobility actions in KA1: a mobility of individuals, either for study, placement, training course, job-shadowing or teaching. By January 2018 more than 2.3 million learners and practitioners had benefitted from Erasmus+ mobility under Education and Training and Youth. Figure 5 shows the number of participants who have undergone Erasmus+ mobility by country during the period 2014-2016.
+Figure 5 – Number of Erasmus+ mobilities by country during the period 2014-2016
+
+Source: ECA.
+Mobility by design is “aimed at” achieving a systemic impact on the education and training systems of the Programme and partner countries. At this stage, the institutions and schools we visited were not yet able to demonstrate a particular systemic effect of their projects either on their institutions or at national level.
+The Commission recognises that the systemic effect on education and training systems is “less visible” and that “the evidence of the exploitation of project results by policy makers and the effective engagement of the latter when they are not included in the project itself is not always clear” and “there is only anecdotal evidence that the programme is changing institutions’ approaches to pedagogy and their target groups”.
+Indeed, as stated in the legal basis, individual projects are not required to have a systemic impact. It is the cumulative result of those projects that should contribute to achieving systemic impact and thus such impact may only be visible at the end of the Programme. The Programme Guide states that “in the long run the combined effect of the several thousands of projects supported under this Key Action is expected to have an impact on the systems of education, training and youth in the participating countries, thus stimulating policy reforms”.
+Complementarity and synergy with other programmes and policies
+The complementarity and synergy with other programmes and policies are intended to be primarily ensured by the contribution of Erasmus+ to the objectives of the Europe 2020 strategy, including the headline education targets. It should also contribute to the objectives of the strategic framework for European cooperation in education and training (the mobility benchmarks in “ET 2020”).
+Whilst Erasmus+ does contribute to the mobility benchmarks, there is no apparent link between KA1 and the headline education target indicator set out in Annex I to the Regulation, as explained in paragraphs 57 and 58 below.
+The Commission has set out the link between Erasmus+ and Europe 2020 and ET 2020: “The programme is aimed at boosting skills, employability and the modernisation of education, training and youth systems and supports actions, cooperation projects and tools linked to policy priorities of ET 2020. By doing so, it also contributes to the implementation of the Europe 2020 strategy, in particular the country-specific recommendations in the field of education and training. Investment from Erasmus+ will benefit individuals, institutions and society as a whole, thus contributing to jobs, growth and competitiveness and enhancing prosperity and social inclusion”.
+In the programme countries we visited we found that the mobility measures do boost skills and employability, notably in the VET sector. At the Programme level, the Mid-term evaluation contains evidence that HE and VET students who have participated in mobility have better employment and salary prospects than their non-mobile equivalents, although much of this evidence so far relates to predecessor programmes.
+Feedback from participants reveals very high satisfaction with Erasmus+ mobility and its effect on their employability. For example, 93.8 % of respondents as at January 2018 declared that they had increased their key competences. 93 % of staff say they learnt new good practices, 75 % stating that they had returned with practical skills relevant for their current job. 79.1 % declared that they had increased their employability. Such feedback, whilst informative and encouraging, may be subjective (see paragraphs 80 to 82).
+The 2015 Erasmus+ Annual Report sets out the link between Erasmus+ and other EU policy developments, such as the European Fund for Strategic Investments (education and training to restore jobs and growth), and states that “throughout 2015 Erasmus+ implemented the existing EU policy agendas of promoting inclusive learning mobility and cooperation between the various stakeholders involved in the education, training and youth sectors”.
+Some Member States use other EU funds to finance mobility via the Erasmus+ mechanisms. For example, Poland tailored its European Social Fund (ESF) Operational Programme in 2016 to finance 2 500 School Education participants and 17 200 VET participants in Erasmus+. Disadvantaged students also receive additional funds from the ESF.
+Contribution to the effective use of EU transparency and recognition tools
+Transparency
+The Programme Guide states that “activities serving the dissemination and exploitation of results are a way to showcase the work that has been done as part of the Erasmus+ project. Sharing results, lessons learned and outcomes and findings beyond the participating organisations will enable a wider community to benefit from a work that has received EU funding”.
+Over 80 success stories have been highlighted in DG EAC's dissemination platforms for Erasmus+. 120 factsheets and 10 videos have been produced on the success stories selected in 2015 and 2016, giving further visibility to these projects. They have been promoted via social media, websites and DG EAC's newsletter, as well as during events. In 2017 the Commission started to publish a monthly Erasmus+ online newsletter, which features a number of success stories. Erasmus+ is the biggest DG-specific Facebook page in the Commission (with nearly 300 000 followers).
+A new platform (VALOR, or Project Results Dissemination Platform) was established for Erasmus+ to offer a comprehensive overview of projects funded under the Programme and to highlight good practice examples and success stories. The platform makes available products, deliverables and intellectual outputs which are the result of the projects funded. It gives open internet access to descriptions, results and contact information for all projects funded under the Erasmus+ programme, as well as some of the projects funded under its predecessor programmes.
+We found evidence that the five countries visited and the Commission are very active in disseminating the results of their projects. 
+Recognition
+Erasmus+ encourages the recognition of credits earned during mobility. Recognition of credits was not considered to be a problem by the beneficiaries and participants met during our audit. In 2016, a recognition rate of 100 % was reported for higher education (73 % in 2013) and 77 % for VET. The need to earn credits ensures that students have to be assiduous during their mobility.
+In the context of VET, the Europass system certifies the international element of the training and gives potential employers more assurance, thereby making the VET students more employable.
+Erasmus+ provides European Added Value in additional ways
+The EAV of Erasmus+ can be defined as the positive effect brought about by the Programme which would not have occurred without it. Based on this definition we identified additional ways in which Mobility provides EAV, going beyond the EAV sought in the Regulation.
+The system of Charters
+All participating Programme country HE institutions (both sending and receiving) must obtain the Erasmus Charter for Higher Education (ECHE). This Charter, developed under the previous Programme, is a guarantee of quality course provision across Europe. No single country would be capable of setting up such a system. We found cases where universities had applied for the Charter just to be able to have it as a mark of quality. The Erasmus+ programme has developed the recognition of credits earned on mobility. The Charter has greatly facilitated this.
+Erasmus+ is encouraging VET institutions to apply for the VET Charter. This recently-created Charter is similarly a guarantee of quality and boosts the reputation and attractiveness of a VET institution. We likewise found cases where VET institutions had applied for the VET charter just to be able to have it as a mark of quality.
+Figure 6 - The VET Charter in some of the countries visited
+
+Source: ECA.
+Network of cooperation and harmonisation of university curricula
+Mobility has helped foster cooperation between universities, creating international offices complemented by a system of standard documentation and tools to support student and staff mobility. Changes have been made in university curricula to facilitate student mobility, synchronising the semesters, study periods and the availability of courses across countries. This cooperation also facilitates the transfer of credits and mutual recognition of modules completed and diplomas gained whilst on mobility.
+In the HE and VET sectors, Learning Agreements (LA) are drawn up between learners and receiving institutions. These are a form of institutionalised guarantee that credits earned on mobility will be recognised. Signing a LA is a strong predictive indicator for later recognition of the mobility.
+In the projects we visited, mobility of HE and Schools staff and VET learners led to subsequent cooperation and exchanges outside Erasmus+.
+A strategic approach to mobility
+Under Erasmus+ it is HE institutions, VET institutions and schools that apply for Mobility projects to be approved, rather than students/individual teachers. This is a major change from previous programmes which in our view contributes to institutional development. Benefits accrue to the HE institutions who have to propose and implement an internationalisation strategy. VET providers and schools must draw up a European Development Plan, setting out how the proposed mobility project fits with the needs of the institution and its overall development.
+This strategic approach helps ensure management buy-in to the objectives of a project as well as longer term retention of links and know-how, creating more sustainable added value.
+EAV of mobility of teaching staff
+Teaching staff who have been on mobility should put into practice what they’ve learned upon their return. For example university staff in Estonia and VET staff in Poland stated that they put their mobility experience to use in their home institutions.
+Multilingualism
+One of the specific objectives of the Programme is to improve the teaching and learning of languages and to promote the EU's linguistic diversity. Language skills contribute to the mobility, employability and personal development of European citizens.
+One of the indicators set out in Annex I of the Regulation is the percentage of participants declaring that they have increased their language skills. The score for this indicator is over 96 % (but see also paragraph 81). Mobility abroad is instrumental in producing such a score.
+Lack of language skills can still hold back mobility students, notably outside the HE sector. Our interviews with participants showed that, particularly in the VET sector, lack of language skills can hold back participants and prevent the mobility placement leading directly to employment. The lack of language ability prevented Spanish VET students we met, for example, from obtaining jobs at the end of their mobility in Berlin. Linguistic barriers were cited by respondents to the Open Public Consultation supporting the mid-term evaluation as the most frequent barrier to the achievement of programme objectives.
+Cross-border and international mobility
+Mobility is an important part of education strategy in most countries. For example Norway has a target of 20 % of students to participate in cross-border mobility, Estonia has set up a portal -StudyinEstonia- to attract foreign students and Spain would like to co-operate more intensively with South America, by helping to set up international offices and capacity building. Erasmus+ is a very important means and model to achieve this (see Figure 5).
+Erasmus+ as part of the EU’s neighbourhood and development policy
+Funds are made available from the EU Budget, as provided for in various external instruments, under Erasmus+ in order to promote the international dimension of HE. This funding is allocated to actions in respect of learning mobility between Programme countries and partner countries. Student and staff mobility to or from partner countries funded through the allocation from the DCI must focus on areas that are relevant to the inclusive and sustainable development of developing countries.
+In this way Erasmus+ is a form of EU soft power and diplomacy, a political EAV. Development and neighbourhood policies are implemented through the Programme, notably HE mobility with partner countries (see Figure 5).
+Under the predecessor programme such projects were assessed at the EU level. Under Erasmus+ projects are assessed in each programme country. This may lead to a reduction in quality as a minimum number of projects are selected in each country.
+Increased prominence and prestige of VET
+17 % of the total Erasmus+ budget is dedicated to VET. This compensates for limited national funds available for exchanges of students, teachers and staff in VET. Moreover, VET student exchanges help to make the VET institutions and VET itself more attractive and prestigious. More and more students and staff are participating in VET mobility (see Figure 7).
+Figure 7 – Significant increase in VET mobility (students and staff)
+
+Source: European Commission.
+VET brings Erasmus+ closer to a greater variety of citizens
+The inclusion of VET in Erasmus+ brings the Programme closer to a greater variety of citizens, dealing with a wider range of less academic domains (e.g. catering or car-bodywork). Moreover, the inclusion of such disciplines under Erasmus+ provides opportunities for students from disadvantaged backgrounds to benefit from mobility. Many of the VET students we met had never left their country, or even their region, before going on their mobility. Annex II shows examples of the types of mobility in the VET sector in the schools/countries visited.
+Increase in sense of European identity
+The mobility participants we met stated that this participation has increased their sense of European identity. The mid-term evaluation also found that participating in Erasmus+ mobility fostered a sense of feeling European (19 % more than in non-participants). Moreover, the general public perceives the Programme, and Mobility in particular as it is the most visible part, as one of the pillars of European identity and as a concrete benefit that the EU provides to its citizens. Erasmus+ is one of the most recognisable brands of the EU. 
+Thus, Erasmus+ generates many forms of EAV which go beyond the legal requirements. Erasmus+ indeed plays a key role in building up learning mobility abroad and has a very positive effect on participants’ attitudes towards the EU. Countries would not be able to achieve such effects acting alone.
+The performance measurement of Erasmus+ Mobility has weaknesses in certain key areas
+Effective performance management, including evaluation and monitoring, requires the development of specific, measurable and realistic performance indicators which can be measured over time and which reflect the logic of the intervention. This intervention logic is shown in Figure 8.
+Figure 8 - Erasmus+ KA1 Mobility Intervention Logic Model
+
+Source: ECA.
+The general objectives of Erasmus+, as far as Education and Training is concerned, are to contribute to the achievement of: the objectives of the Europe 2020 Strategy, including the headline education target; the objectives of the strategic framework for European cooperation in education and training (ET 2020) as well as the corresponding benchmarks; the sustainable development of partner countries in the field of higher education; and the promotion of European values in accordance with article 2 of the Treaty on the European Union. Specific objectives for Education and Training relevant for KA1 mobility are set out in Article 5.
+The specified targets are being met, but some indicators are not fully aligned with the general and specific objectives set out in the Regulation
+Some of the indicators set out in the Regulation need to be improved to better serve the performance assessment framework
+The Programme has a set of indicators for its evaluation. These indicators are described as “measureable and relevant” and “intended to measure the extent to which the general and specific objectives of the Programme have been achieved”. Those indicators set for KA1 Mobility are shown in Figure 9.
+Figure 9 - Indicators for the evaluation of the Programme
+
+Source: Annex I of the Regulation.
+We examined whether these indicators are appropriate. The Commission claims that “the programme is on track to achieve or exceed the vast majority of the targets”.
+It is not clear how the Mobility projects financed help meet the Europe 2020 headline education target
+The Europe 2020 indicators were set by the Council. The Commission reported “The indicators linked to Europe 2020 education headline target, namely tertiary educational attainment and early school leaving showed continuous progress (…) In 2016, the early school leaving rate in the EU was 10.8 % that is 2 decimal points lower than in 2015 (...) At the same time, the EU average percentage of people aged 30-34 with a tertiary education degree rose by 3 decimal points to 39.0 % in 2016”.
+However, it is not clear how the projects financed under Mobility, help meet these headline education targets. Moreover, even if they did contribute, that contribution cannot be distinguished from that of other national and EU actions and separately measured.
+Thus, there is no apparent link between Mobility, or even Erasmus+ as a whole and the headline education target indicators. These Europe 2020 indicators are not aligned with the general and specific objectives set out in the Regulation as required by article 5(2).
+As the mobility benchmark only contains partial results, it is not being properly measured
+In 2011, Member States agreed on the EU benchmark for higher education mobility, whereby in 2020 at least 20 % of higher education graduates should have had a period of higher education-related study or training (including work placements) abroad.
+They also set a benchmark for learning mobility in VET: by 2020 at least 6 % of VET graduates should have had VET-related study or a training period abroad (including work placements).
+Higher education mobility in Erasmus+ is a key driver to meet the benchmark for mobility in that sector. The mobility benchmark is clearly linked to KA1. However, Erasmus+ is not the only programme contributing to mobility and thus the contribution from Erasmus+ cannot be fully identified.
+Moreover, the data underpinning this benchmark is only available on a very partial basis according to analysis undertaken by the Centre for Research on Lifelong Learning (CRELL), and it is not available on a comparable basis across Europe. Thus the results for this indicator are not accurate.
+A comprehensive assessment of the level of mobility in VET is not possible because of limited data availability. Eurostat undertook a pilot survey to assess VET learning mobility which it completed at the end of 2015. The results showed that in the 17 Programme countries participating in the survey, around 3.1 % of VET students had taken part in learning mobility.
+As this indicator only contains partial results, it is not being properly measured.
+The quantitative (general) indicators provide useful information, although some definitions need to be harmonised and refined
+These indicators relate specifically to Mobility and are reported and monitored by the Commission. Progress (as at the end of 2016) towards the targets for these indicators, which are set in the DG EAC Annual Work Programme, is summarised in Figure 10.
+Figure 10 - Quantitative (general) Indicators
+
+Source: Annual Activity Report, DG EAC, 2016.
+Erasmus+ Mobility promotes the inclusion of learners with fewer opportunities. It is not clear why the indicator in the legal basis groups such participants with those with special needs. Moreover, according to the 2016 Erasmus+ Annual Report “the Programme continues to fight barriers to mobility by becoming more inclusive for those from a disadvantaged background and those with special needs”. Thus, this terminology is not being used consistently.
+Nearly 205 000 participants from disadvantaged backgrounds and with fewer opportunities benefitted from Erasmus+ by taking part in transnational mobility activities over the period 2014-2017. Erasmus+ Mobility has offered new experiences abroad to many people who would otherwise have not been able to afford it.
+The definition of “disadvantaged/fewer opportunities” differs in each Programme country. For example in Spain, all beneficiaries receiving a government grant for studies are included in this category. Indeed, according to the Commission’s data, over 35 % of mobility participants from disadvantaged backgrounds are from Spain.
+Consequently, the results for this indicator do not provide an accurate comparison of such mobility across EU countries. The Commission recognises that one of the main issues that affected the analysis of participation patterns is “the absence of a harmonised definition, across sectors, of people with fewer opportunities and from disadvantaged backgrounds” and that “the quality of the data on participation of disadvantaged groups is unclear due to various definitions and practices”.
+These three indicators measure outputs of the Programme and help to demonstrate progress in implementation. Thus, they provide little information about the outcomes and impact of the Programme (see Figure 8).
+Education and Training indicators are being met, but they do not address the extent to which the general and specific objectives of the Programme have been achieved
+The Education and Training indicators in Annex I to the Regulation are specific to the Programme. Progress under these indicators for 2016 are shown in Figure 11 and Figure 12 below, which indicate that most targets are being met.
+Education and Training indicators (a) to (d) in Figure 11 are output indicators. Even though these quantitative indicators are useful they do not fully measure “the extent to which the general and specific objectives of the Programme have been achieved”, notably the specific objectives, as required in Annex I of the Regulation.
+Figure 11 - Output indicators
+
+Source: Annual Activity Report, DG EAC, 2016.
+Indicators (e) to (g) are outcome indicators that provide information about the benefits of participating in the Programme. Indicator (f) is a subjective measure, based on the perception of the individual, as reported at the end of the mobility.
+Figure 12 - Outcome indicators
+
+Source: Annual Activity Report, DG EAC, 2016.
+The Commission recognises the limitations of these indicators in that “they are mostly based on the self-perceived contribution of KA1 reported by beneficiaries”. It states that the National Reports, underlying the MTE, report improvements in the level of key competences and skills in learners, but it recognises that this is “mostly based on the self-reported perceptions of participants”.
+The Dashboard provides real-time information about outputs and outcomes
+In 2016 the Commission launched its Erasmus+ Dashboard, which is a single data warehouse collecting all the information that is recorded by the NA and the beneficiaries. The data is updated on a daily basis and provides real-time, qualitative and quantitative data relating to the implementation of the Programme in terms of projects, grants, participants and organisations involved in the Programme. It records the survey and post-mobility declarations of participants and beneficiaries.
+According to the Dashboard, participant satisfaction is high: 95.8 % were satisfied with their learning mobility experience (as at January 2018) and 80 % felt better prepared for finding a job. Indeed Erasmus+ is a success, based on the survey and post-mobility declarations.
+The sources used to measure performance in the mid-term evaluation are to a large extent surveys and participant feedback
+The MTE report on the Erasmus+ Programme was submitted on 31 January 2018. It builds on: National Reports of the Programme countries, an evaluation report by an external contractor, other reviewed studies, experience in managing the programme, and over a million responses from interested parties. In respect of Erasmus+ it covers the period 2014-2016.
+The sources for the MTE are to a large extent surveys and participant feedback: “The evaluation combined a number of techniques for data collection and analysis. Most results are reached by a mix of evidence... based on beneficiaries’ surveys, self-reported feedback of beneficiaries, as well as qualitative interviews and case studies”. In addition an Open Public Consultation gathered the opinions of the general public and interested groups.
+Our meetings with the compilers of the National Reports in the five countries visited indicated difficulties arising from the lack of robust data to help in assessing the impacts of the Programme.
+Post-mobility questionnaire for participants is subjective and complex
+After completion of the mobility, each participant has to fill in a questionnaire to evaluate overall satisfaction and specific aspects of participation in the Programme, such as home institution recognition of the mobility, increase in sense of European identity and improvement in language skills.
+This participant feedback is useful but, as it is subjective, should not be used as the main measure for assessing the quality and results of a mobility. It is all the more subjective as the final payment to the student is conditional on the questionnaire being completed, although such payment is not conditional on a positive self-assessment.
+The students we met said that the questionnaires were too complex (in particular for VET) and use too much EU jargon. Some students reported difficulties in filling in the questionnaires. For example the Norwegian NA stated that the questions are not appropriate for VET students.
+Little continuity from year to year in the priorities in the Erasmus+ Annual Work Programmes
+The Commission established policy priorities for Erasmus+ in 2014. Some of these have been maintained in subsequent AWP, while others have been discontinued and new policy priorities introduced.
+The priority “Systemic changes of education and training systems with a view to increasing their labour market relevance, through enhanced work-based learning opportunities”, introduced in 2014, is not included in subsequent AWP.
+None of the 2014 priorities for VET remain in the 2017 AWP. However, each subsequent year saw additional priorities. In HE, the priority “to increase attainment levels” was withdrawn from the 2017 AWP and new priorities were introduced.
+These priorities are relevant, however no quantitative targets or indicators have been set. It is not clear to what extent the objectives of these priorities have been met, nor why many were discontinued. There has been little continuity from year to year in the priorities established by DG EAC in the Erasmus+ AWP.
+The allocation of funds is not based on performance
+The allocation of funds should be based on performance to promote an efficient and effective use of resources. The Regulation requires that the criteria used to measure performance focus on “the level of annual realised outputs and the level of annual payments realised”.
+We do not consider these criteria sufficient to measure the performance of the Programme. They merely measure how much can be spent (inputs and outputs). Performance also covers outcomes and impact as recognised in the Regulation.
+To conclude, the performance measurement of Erasmus+ Mobility needs to be further improved in certain key areas. Targets are being met but the indicators are not fully aligned with the general and specific objectives set out in the Regulation, making performance measurement difficult.
+Erasmus+ has introduced many innovations but some of them have not yet reached maturity
+Consolidation under Erasmus+ is a success
+Erasmus+ combines the programmes from the period 2007-2013 under one Programme (see Figure 1). In respect of mobility, it includes the former Erasmus (HE), Leonardo (VET) and Comenius (SE) Programmes. The NA we met -and in a paper by all NA Directors- consider this to be positive. Having a single brand name brings better visibility at the political level and for the public and contributes to increasing the sense of European identity (see paragraph 50).
+The indirect management approach is positive
+The indirect management approach increases the effectiveness of projects. Being close to the beneficiaries, NA can better contribute to improving the quality of project proposals and their implementation, adapting them to the diversity of national education and training systems. The beneficiaries we interviewed confirmed that the NA provide good assistance and feedback during the application and implementation phases and organised events and training courses to facilitate access to the Programme.
+Erasmus+ introduces many innovations towards administrative simplification, although application and reporting processes are still complex
+The implementation of the Programme should be simplified by reducing formal and bureaucratic requirements for beneficiaries and Member States. Streamlining and simplifying the organisation and management, and a sustained focus on reducing administrative expenditure, are vital to the success of the Programme.
+Only a minority of NA (36 %) find Erasmus+ to be a lesser burden than predecessor programmes. Beneficiaries and participants still find the programme complex (applications, implementation, reporting). Participants interviewed found project application and reporting for VET to be repetitive, with the same information to be provided in several instances. Smaller organisations considered the need to describe the “European impact” of their individual mobility projects to be excessive.
+Participants in nearly every country complained about complex administrative procedures related to applications and reporting. We found that some students consider the LA to be complicated to fill in and students can find that the content of a course has been changed upon their arrival. Course catalogues are sometimes not updated. This can cause disappointment on arrival as some students find that their intended course no longer exists.
+Some of the participants we met found application forms to be too complex for schools. One particular difficulty is in setting out how the projects will meet the objectives in the European Development Plan. Application forms have been simplified for the 2018 call.
+The Commission has produced a comprehensive Programme Guide intended to help the beneficiary organisations and individual participants. It is updated every year. However, it is difficult to identify the changes made from year to year in the Programme Guides, as these are not indicated. The NA we visited stated that they would appreciate an online handbook (currently in pdf format) with all the source documents -and marked updates- in one single document. The 2017 Programme Guide has since been made available online.
+Some of the institutions we met felt the rules for HE mobility with partner countries to be too complex. The implementation of such mobility was very difficult during the first year, with 10 amendments to the financial agreement between the university and the NA. In this area simplification has not yet been achieved.
+Lump sums, flat rates and unit costs are a good simplification, but the Commission should ensure that undesired effects are avoided
+The implementation of Erasmus+ was simplified by the use of lump sum, flat rate and unit cost funding. The mid-term review on simplification of grants found that the use of such funding has led to many financial and non-financial benefits in the implementation of the Programme. It simplified budget planning, reporting to the NA and accounting. Moreover, the review found that, because of the reduced administrative burden, programme beneficiaries are able to focus on project content during the planning stage and on achievement of their project’s aims during the implementation stage.
+We found that stakeholders appreciate the introduction of lump sums, flat rates and unit costs which have brought about simplification in the financial management of the programme.
+However, in order to enhance access to Erasmus+, the grants to support the mobility of individuals should be adjusted to the living and subsistence costs of the host country.
+The lump sums, flat rates and unit costs are set out in the Programme Guide and are divided into three groups: countries with similar, higher and lower living costs. Some students and institutions we met reported that Erasmus+ grants are insufficient to cover costs and that additional funding is needed from a student’s own savings or parental support. This can discourage disadvantaged students from taking part.
+We found that no adjustments to grant amounts are made to reflect the real costs for participants in the case where the receiving country provides specific subsidies, e.g. a student’s rent is often paid by the State in France, which means that such participants are in an advantageous situation.
+Unit costs based on distance bands do not take into account the existence or frequency of connections or differences in prices between tourist destinations and geographically remote places. Using the distance calculator benefits those located in major cities with airports.
+Following comments from NA the Commission has made adjustments to certain elements for the 2017 call, for example top-ups for expensive domestic travel costs. Moreover, based on evidence provided by the mid-term review on the simplification of grants, adjusted funding rules will apply as of 2018.
+The introduction of IT systems was problematic, but most issues have now been resolved
+The introduction of a large number of IT tools at the beginning of the Programme caused confusion for NA and applicants. The IT tools provided by the Commission were initially of variable quality and were introduced late. The Mobility Tool was considered unreliable and not user-friendly and many issues were only gradually taken into account (e.g. eForms, EPlusLink and OEET). All of the countries we visited reported problems in integrating the new tools, which had not been piloted before their introduction.
+The Commission resolved most of the problems with the introduction of its 2016 IT Action Plan. The improvements were confirmed by the NA during our visits.
+We found that NA, beneficiaries and participants would welcome more electronic documentation, leading to a paperless Erasmus+. Many Erasmus+ documents were still in paper format.
+The Online Linguistic Support is a useful tool. However, the non-online courses funded under the previous programme are considered essential
+One of the specific objectives of Erasmus+ is to improve the teaching and learning of languages.
+The Commission has created the Online Linguistic Support (OLS), giving learners the opportunity to assess their skills in the foreign language they will use to study or work in the host country, as well as to follow an online language course to improve their level.
+All mobility participants have to complete an online linguistic assessment to evaluate their language skills before and after the completion of their mobility. Such results would provide quantifiable data on improvement in such skills. The OLS test is compulsory in order to obtain the final grant payment.
+We found that in a number of instances the scores achieved in the questionnaire upon completion indicate that the language skills have remained the same or even decreased. The Commission believes that apparent decreases in language levels between the first and final assessment reflect a lack of motivation on part of the participants due to the lack of incentives at this stage of their mobility. Thus these final tests, although essential, should be treated with care when measuring improvements in linguistic ability.
+According to some HE institutions the OLS tests do not generate language competence certificates which meet the recognition criteria imposed by many European universities. Indeed the Coimbra group of universities believes that there is an over-emphasis on online language tests and weak support for effective on-site language courses.
+Some VET participants also regret the absence of non-online language courses under Erasmus+, for which funding was available under the previous programme. In Estonia for example the absence of language courses in an auditorium is regretted as these were better at encouraging learners.
+Figure 13 - Examples of comments on the OLS by VET institutions visited
+
+Source: ECA.
+The Student Loan Guarantee Facility has not met expectations
+The Student Loan Guarantee Facility provides partial guarantees to financial intermediaries in respect of loans granted “on the most favourable terms possible” to students undertaking a second-cycle degree, such as a Master’s degree, in another Programme country.
+The Facility is managed and implemented by the European Investment Fund (EIF) on behalf of the Commission. Up to 3.5 % of the total Erasmus+ budget was originally assigned to this Facility.
+The objective was to provide €3 billion of loans to 200 000 Master students by 2020, thereby boosting student mobility in Europe in line with the EU's 20 % Mobility benchmark target.
+The EIF’s Delegation Agreement with the Commission provides targeted incentives for it to select a financial intermediary from each Programme country, in order to ensure that students from all such countries have access to the Facility. Despite EIF conducting a market survey which revealed significant interest from such intermediaries, and the EIF actively promoting the Facility to over 120 financial institutions, the subsequent calls for expression of interest did not attract many of them. At the end of 2017 the scheme was only operating via one such intermediary in each of France and Turkey (outgoing students only), and Spain (outgoing and incoming students).
+By then only 358 Master students had received such a loan. Although feedback from participating students was positive, 77 % confirming that they would not have been able to study for their Master’s degree abroad without the loan guaranteed through the scheme, the target of up to 200 000 students is unlikely to be met. At the end of 2017 the Commission reallocated the relevant funds.
+One of the reasons for the lack of interest from financial intermediaries may be that the Regulation makes the protection for borrowers too inflexible, not taking sufficient account of standard market practices. This protection is specifically set out in paragraph 2 of Annex II of the Regulation.
+Moreover, the Facility covers a narrow target population (Master students), excluding sizeable segments of students, which further reduced the interest of financial intermediaries.
+In 2017 EIF concluded agreements with the Universities of Luxembourg and Cyprus, whereby the latter will allow incoming Master students to defer payment of their tuition and accommodation costs for two years, covered by guarantees agreed under the Facility. This innovative approach is positive, as universities are increasingly playing a role in financing higher education.
+Other features new to Erasmus+ need attention
+It is no longer possible for school students to participate in mobility under KA1
+Participation in mobility under KA1 is no longer possible for school students. National Agencies and schools in the countries visited regretted the absence of such mobility. Moreover, it is anomalous that students of the same age can participate in VET mobility, but not as school students under KA1.
+Many VET institutions have difficulties in finding partners and often have to resort to intermediaries
+The VET institutions we visited reported difficulties in finding partners for high quality mobility. Examples of such difficulties are in Figure 14. Some resort to using intermediaries, which can be expensive and reduce the funding available for mobility. The VET institutions visited would appreciate more support from the Commission and NA in finding partners.
+Moreover, whereas Leonardo covered expenses such as preparatory visits for teachers to inspect new host partners, this is no longer the case under Erasmus+. VET institutions expressed the wish for more support to enable the administrative staff and teachers to accompany students at the beginning and end of mobility, as well as preparatory visits. Accompanying visits are very important as the students are often teenagers and for many it is their first time abroad.
+The Commission has recently created an online map of VET Charter holders where colleges can seek partnerships with colleges abroad which are deemed to be reliable.
+Figure 14 - Difficulties in finding partners - Comments from the VET institutions visited
+
+Source: ECA.
+Flexibility for PhD students is needed
+Under previous schemes it was possible to organise short, intensive programmes that were highly appreciated especially by PhD students. Currently the minimum period allowed is three months. The Higher Education institutions we visited argued that such students need more flexibility and that a period of one month better reflects their availability.
+Conclusions and Recommendations
+We found that Erasmus+ is a well-known, successful EU brand. The Programme generates many forms of EAV, many of which go beyond the legal requirements. Targets are being met but the performance assessment framework of Erasmus+ Mobility needs to be further improved in certain key areas so as to measure the extent to which general and specific objectives are being met. Innovative features and simplification measures have been introduced, but some stakeholders still find key aspects cumbersome.
+The Erasmus+ Mobility actions satisfy the EAV criteria set out in the legal basis (see paragraphs 14 to 31). We have identified additional ways in which these actions generate EAV (see paragraphs 32 to 51).
+Although most targets specified for the programme are being met, we found that the indicators are not fully aligned with the general and specific objectives set out in the Regulation, making performance measurement difficult. Therefore, the performance assessment framework of Erasmus+ Mobility needs to be further improved in certain key areas (see paragraphs 52 to 88). The systemic impact of Mobility has not yet been demonstrated (see paragraphs 16 to 18).
+Most indicators are quantitative and output-based. The qualitative ones are largely based on perceptions of stakeholders and participants via interviews and surveys. Participant feedback is useful but, as it can be subjective, should not be used as the main measure to assess the quality and results of the mobility actions (see paragraphs 54 to 82).
+The performance criteria for the allocation of funds set by the Regulation are merely measures of inputs and outputs, and not outcomes and impacts. In our view performance has to be assessed in terms of progress towards achieving objectives in order to comply with the Regulation. Moreover, there is little continuity of policy priorities for Erasmus+ from year to year (see paragraphs 83 to 88).
+Erasmus+ introduced many positive innovations, notably to simplify and reduce the administrative burden for participants, beneficiary institutions and NA. However, improvements are still needed to make participation less burdensome and more attractive for beneficiaries, notably in the application and reporting processes. Only a minority of NA (36 %) find Erasmus+ to involve a lesser burden than predecessor programmes (see paragraphs 90 to 97).
+Lump sums, flat rates and unit costs are a good simplification, but the Commission should ensure that unwarranted effects are avoided (see paragraphs 98 to 104).
+The introduction of IT systems was very problematic at first, but most issues had been resolved by 2017. Nevertheless the MTE found that “procedures and IT management tools should be made easier to use to reduce the administrative burden on implementing bodies and beneficiaries”. E-applications need to be encouraged (see paragraphs 105 to 107).
+The Online Linguistic Support is a useful complementary tool for self-learning and testing the language level. However, it could in future be supplemented by non-online courses funded under the previous programme (see paragraphs 108 to 113).
+In respect of the Student Loan Guarantee Facility, the participation of financial intermediaries is limited, and the intended impact is not being achieved. The EIF has sought innovative and flexible solutions. Expanding the potential loan portfolio to other cycles in the successor programme might increase the attractiveness of the scheme for financial intermediaries (see paragraphs 114 to 121).
+Recommendation 5
+The Commission should:
+propose appropriate regulatory and legislative changes to widen the Student Loan Guarantee Facility to include doctoral and undergraduate mobility;
+take appropriate action to encourage Programme countries to ensure that their National Promotional Institutions participate in the existing Facility.
+Target implementation date: (a) first semester 2021, (b) 2018.
+We found significant demand for the reintroduction of school student mobility in Erasmus+ Key Action 1 (see paragraph 122).
+The minimum mobility period of three months for PhD students is not always appropriate. Such students need more flexibility (see paragraph 126).
+
+This Report was adopted by Chamber IV, headed by Mr Neven MATES, Member of the Court of Auditors, in Luxembourg at its meeting of 3 July 2018.
+	For the Court of Auditors
+
+	Klaus-Heiner LEHNE
+	President
+
+ANNEX I
+Examples of mobility projects under Key Action 1 in different education sectors
+Higher Education
+University project, Luxembourg - Between 1.7.14 and 31.10.15)
+The project of the University of Luxembourg enabled 469 student mobilities (three months) and 20 staff mobilities (6 to 12 days).
+Budget: €792 400
+Vocational Education and Training
+Lycée technique pour Professions de Santé, Luxembourg - Between 1.10.14 and 30.9.15
+This vocational school in the area of health launched a learning mobility project with the objective of increasing the quality of professional training by
+confronting the learners with a different professional and socio-cultural context
+developing the learners’ capacity of reflection and openness towards different methods of work
+increasing the learners’ language skills in German and French, especially the use of correct professional and medical terms
+Budget: €96 950
+School Education
+Vrije Basisschool Roezemoes, Belgium - Between 1.9.14 and 31.8.15
+This school sent four teachers abroad (eight days) for training purposes.
+Budget: €6 580
+Adult Education
+Bergen Public Library – Norway - 2015
+The project was an exchange with Malmo Rosengarden library on education initiatives for migrants.
+Budget: €8 840
+
+ANNEX II
+Examples of mobility in the VET institutions visited
+Source: ECA.

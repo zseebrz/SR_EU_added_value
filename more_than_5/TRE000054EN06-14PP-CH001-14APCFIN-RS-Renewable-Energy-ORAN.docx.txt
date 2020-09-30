@@ -1,0 +1,1977 @@
+Special Report No 6/2014
+(pursuant to Article 287(4), second subparagraph, TFEU)
+
+Cohesion policy funds support to renewable energy generation - 
+has it achieved good results?
+ 
+together with the Commission replies
+
+
+
+	CONTENTS
+	
+	Paragraph
+Glossary and abbreviations
+Executive summary	I-VIII
+Introduction	1-11
+Renewable energy	1-3
+EU Policy Objectives – the 2020 renewable energy target	4-6
+Barriers to renewable energy	7
+Financial Support for renewable energy by the Cohesion policy	8
+Shared management	9-11
+Audit scope and approach	12-13
+Observations	14-47
+Audited projects delivering outputs as planned …	14-16
+The overall picture is one of well-planned projects 
+delivering according to plan	14-16
+… but encountering some difficulties in implementation	17-21
+There is scope for further improvement at all project  
+stages - from procurement through operations to monitoring  
+and evaluation	17-21
+… and results not properly measured or projects not   
+attaining their energy generation targets in the majority of cases	22-25
+RES data collection and reporting can be improved	22-23
+Project results not always achieved	24-25
+The principle of cost-effectiveness is not fully considered in  
+planning the RES projects	26-31
+Cost-effectiveness - an important objective in EU spending	26-27
+There is scope for an emphasis on cost-effectiveness at an  
+early stage	28-31
+… and there is also scope for more cost-effective 
+RES generation projects	32-40
+Cohesion policy funds having limited EU added value - the  
+RES projects did not make their full contribution to the EU’s energy 
+objectives	41-47
+Conclusions and recommendations	48-54
+
+
+Annex I - Overview of Member States’ progress towards the 2020 RES target
+Annex II - Cohesion policy (ERDF and CF 2007-2013) funds allocation to RES 
+and selected projects 2007-2012
+Annex III - List of audited RES generation projects
+Annex IV - Summary evaluation of RES project results
+Replies of the Commission
+
+
+
+GLOSSARY AND ABBREVIATIONS
+CF: Cohesion Fund
+Concept of cost-effectiveness: It concerns the ability or potential of an 
+audited entity, activity, programme or operation to achieve certain outcomes at 
+a reasonable cost. Cost-effectiveness analyses are studies of the relationship 
+between project cost and outcomes, expressed as cost per unit of outcome 
+achieved . The concept is also emphasised in the EU’s financial rules (see 
+paragraph 6). 
+CO2: Carbone dioxide
+Deadweight: Deadweight occurs where funding is provided to support a 
+beneficiary who would have made the same choice in the absence of aid. In 
+such cases, the outcome cannot be attributed to the policy, and the aid paid to 
+the beneficiary has had no direct impact. 
+EIA: Environmental Impact Assessment
+ERDF: European Regional Development Fund
+EU added value: On a general level, EU added value is the value resulting 
+from an EU intervention which is additional to the value that would have been 
+otherwise created by Member State action alone.
+Feed-in tariff (FIT):  A policy mechanism designed to accelerate investment in 
+renewable energy technologies by offering long-term contracts to renewable 
+energy producers, typically based on the cost of generation of each technology. 
+MS: Member State
+PV: Photovoltaic
+RES: Renewable energy sources - energy from renewable non-fossil sources, 
+namely wind, solar, aerothermal, geothermal, hydrothermal and ocean energy, 
+hydropower, biomass, landfill gas, sewage treatment plant gas and biogases:
+*	Geothermal energy means energy stored in the form of heat beneath the 
+surface of solid earth.
+*	Biomass means the biodegradable fraction of products, waste and 
+residues from biological origin from agriculture (including vegetal and 
+animal substances), forestry and related industries including fisheries and 
+aquaculture, as well as the biodegradable fraction of industrial and 
+municipal waste.
+*	Solar energy means radiant light and heat from the sun harnessed using a 
+range of technologies such as solar heating, solar photovoltaic  and solar 
+thermal electricity.
+*	Wind power means the conversion of wind energy into a useful form of 
+energy, such as using wind turbines to make electrical power.
+*	Hydro energy is the conversion of kinetic energy derived from the falling 
+and running water into electrical energy.
+RES Directive: Directive 2009/28/EC of 23 April 2009 on the promotion of 
+energy from renewable sources and amending and subsequently repealing 
+Directives 2001/77/EC and 2003/30/EC.
+RES 2020 targets: Directive 2009/28/EC on renewable energy, to be  
+implemented by Member States by December 2010, set mandatory national 
+targets for all Member States so that by 2020 the EU will achieve a share of 
+20 % of energy from renewable sources in general and of 10 % in the transport 
+sector particularly. 
+
+Measurement of energy units:
+-	GW, MW, KW – Giga/Mega/Kilo watt
+-	GWh, KWh, MWh – Giga/Mega/Kilo watt hour
+-	kWp - kilowatts-peak – nominal power of the PV module
+
+
+EXECUTIVE SUMMARY
+I.	This audit sought to answer the question of whether good results had been 
+achieved by the two most important funding sources among EU spending 
+programmes for promoting renewable energy - the European Regional 
+Development Fund and the Cohesion Fund (Cohesion policy funds).
+II.	Approximately 4,7 billion euro was allocated for renewable energy in the 
+2007 - 2013 programming period. The Court examined whether funds in that 
+period had been allocated to well prioritised, cost-effective and mature 
+renewable energy generation projects with rational objectives and to what 
+extent these funds had achieved good results in contributing to the EU 2020 
+target for energy from renewable sources (RES).
+III.	The Court found that the 24 audited  RES generation projects delivered 
+outputs as planned. Most of the audited RES projects were sufficiently mature 
+and ready for implementation when selected. There were no major cost 
+overruns or time delays in the projects and the RES generation capacities were 
+installed as planned and operational. No major risks to their technical 
+sustainability were apparent.
+IV.	In one third of the audited projects the energy production targets had been 
+achieved (or almost achieved) and properly measured.  The Court found that 
+the overall value for money of Cohesion policy funds support to RES 
+generation projects has been limited in helping achieve the EU RES 2020 
+target, because:
+*	cost-effectiveness has not been the guiding principle in planning and 
+implementing the RES generation projects, and
+*	cohesion policy funds had a limited EU added value.
+V.	In more detail, the Court found potential for improvements in the Member 
+States covered by the audit: some procurement processes did not ensure full 
+transparency, fairness and efficiency in contractors’ selection; preparation was 
+insufficient for effective monitoring and evaluation; programmes did not explain 
+how the EU funds could contribute cost-effectively to reaching the RES 
+objectives; cost-effectiveness of measures in different RES sectors was not 
+always considered when the budgets were earmarked; and the programmes 
+failed to establish performance indicators for monitoring and evaluation.
+VI.	The Court concludes that improvements are needed if funding under these 
+programmes is to make the maximum possible contribution to achieving the 
+RES 2020 targets.
+VII.	Cohesion policy spending, in general, brings benefits to the broader 
+economy, and although the direct measurement of economic growth or job 
+creation - the overarching aims of Cohesion policy - was outside the scope of 
+this audit, the Court’s observations and recommendations are also made in the 
+context of these policy aims.
+VIII.	In view of a likely enhanced use of EU funds for promoting RES in the 
+2014 – 2020 programming period, the Court makes the following 
+recommendations:
+Recommendation 1
+The Commission, through guidance setting for programme and project 
+preparation and selection as well as through conditions for making funding 
+available for RES generation investments, should:
+*	ensure that future Cohesion policy co-funded RES programmes are guided 
+by the principle of cost-effectiveness, including the avoidance of 
+deadweight. Programmes must be based on proper needs assessment, 
+prioritisation of the most cost-effective technologies (while not discriminating 
+between RES sectors) and optimal contribution to the EU RES 2020 target. 
+Adequate RES generation objectives in relation to the budget as well as 
+project selection criteria with a focus on the cost-effectiveness of the energy 
+generation results (avoiding over-compensation of projects) need to be set; 
+*	promote the establishment by the Member States of a stable and 
+predictable regulatory framework for RES in general, along with smoother 
+procedures for the integration of electricity from RES into the grid networks.
+Recommendation 2
+The Member States should establish and apply, based on Commission 
+guidance, minimum cost-effectiveness criteria which are adapted to the 
+projects’ circumstances. They should also enhance the added value of 
+Cohesion policy funds by improving RES project implementation as well as 
+monitoring and evaluation and by building a stock of measured data about 
+energy generation costs in all relevant RES sectors.
+
+
+INTRODUCTION
+Renewable energy
+1.	Energy from renewable sources (RES) is important for improving the 
+security of energy supply in the EU and for reducing the EU’s dependence on 
+conventional (fossil) fuels and imported energy, and for reducing greenhouse 
+gas emissions. Electricity and heat can be generated from a range of 
+resources, from the sun (concentrated solar power or photovoltaic power), wind 
+(onshore or offshore), water (large, small or micro hydro), earth (geothermal for 
+electricity or heat) and biomass (solid, liquid, landfill gas and biodegradable 
+fraction of industrial and municipal waste, and liquid biofuels).
+2.	RES also have an important role to play in reducing carbon dioxide (CO2) 
+emissions and enhancing environmental sustainability. Moreover, the 
+development of RES technologies has a potential to boost Europe’s economy, 
+industrial competitiveness and employment. RES are expected to be 
+economically competitive with conventional energy sources in the medium to 
+long term .
+3.	The development of renewable energy is laid out in the Article 194(1) of the 
+Treaty on the Functioning of the European Union in the context of the 
+establishment and functioning of the internal market and the need to preserve 
+and improve the environment.
+EU Policy Objectives – the 2020 renewable energy target
+4.	Already in 1997, the EU had declared a 12 % RES target by 2010. The 
+Council of the European Union (the Council) set a binding EU target of 20 % in 
+RES in gross final energy consumption by 2020, based on the Commission’s 
+Renewable Energy Roadmap which lays down a pathway for mainstreaming 
+RES into EU energy policies and markets (see Annex I concerning the national 
+2020 RES targets)  . The Renewable Energy Directive adopted in 2009 
+constitutes  a legally binding framework for the promotion of RES until 2020 :
+*	Apart from setting the overall 20 % binding target for the EU and binding 
+national targets of between 10 and 49 % by 2020 it improves the 
+framework for promoting RES electricity (e.g. by introducing requirements 
+for the Member States concerning access to the electricity grid and 
+simplification of administrative procedures).
+*	It required the Member States to develop national action plans that 
+establish roadmaps for the development of RES and created cooperation 
+mechanisms between the Member States to help achieve the RES target 
+cost-effectively. 
+5.	The Member States are required to ensure that their share of RES equals or 
+exceeds indicative trajectories to reach the RES 2020 target. They must report 
+every two years to the Commission on implementation of the Directive and 
+progress towards their individual targets. RES measures are to be introduced in 
+a cost-effective way . The Commission must produce, by 31 December 2014, a 
+progress report on the implementation of the RES Directive . 
+6.	In addition, the EU’s financial rules stipulate that the cost-effectiveness 
+principle must be an important determinant of public spending decisions . 
+Moreover, the European Parliament noted the need to identify the most cost-
+effective RES and cost-optimal policies for realising the potential of RES . 
+According to the Commission’s latest progress report  the EU’s RES 2020 
+target will likely be exceeded as a whole, whereas not all Member States were 
+on track in 2012 to reach their binding national targets, see Annex I. Following 
+its Green Paper in 2013, the Commission laid out initial considerations for the 
+Union’s climate and energy policy for the period from 2020 to 2030, proposing 
+a binding EU target of 27 % for RES .
+Barriers to renewable energy
+7.	Apart from exogenous factors (such as evolution of energy prices or access 
+to loans) multiple sector-specific obstacles hamper investments in RES 
+throughout the Union and have not yet been eliminated by the Member States 
+and the Commission :
+*	Institutional and legal barriers, e.g. the priority given at EU level to energy 
+issues is not always reflected at local, regional and national level whereby 
+a lack of clear implementation strategies and flexibility in the relevant 
+administrations or the national legal regimes as well as unclear legislative 
+and contractual frameworks standing in the way of promoting RES; 
+complex authorisation and permitting procedures for planning, building and 
+operating RES installations together with environmental requirements 
+discouraging project promoters to come up with feasible project proposals 
+(lack of an effective administrative system)
+*	Difficulties in integrating RES electricity in the transmission or distribution 
+grids (technical problems, insufficient infrastructure, discriminatory 
+practices preventing grid access, distribution of costs among the grid 
+operators, government and project promoters and a lack of measuring of 
+energy generation)
+*	Non-stable or non-predictable promotion and incentive regimes and a lack 
+of information for suppliers, customers and installers hampering the use of 
+cost-effective technologies.
+Financial Support for renewable energy by the Cohesion policy
+8.	Cohesion policy instruments - the European Regional Development Fund 
+(ERDF) and the Cohesion Fund (CF) - are the most important funding source 
+among the EU spending programmes  for promoting renewable energy. While 
+during the 2000-2006 programming period only 600 million euro had supported 
+projects in this sector, approximately 4,7 billion euro was allocated to 
+renewable energy in the 2007-2013 programming period, reflecting a much 
+higher importance to this policy area (see Annex II for the breakdown by 
+Member States). In the 2014-2020 programming period, Cohesion Policy 
+support to the shift towards a low-carbon economy will further increase and 
+may reach at least 27 billion euro from the ERDF . Further support can also be 
+provided through the Cohesion Fund.
+Box 1 – Cohesion policy spending for RES - key facts
+270,8 billion euro - total ERDF / CF allocations for 2007–2013
+0,6 billion euro - total ERDF / CF allocations to RES for 2000–2006
+4,7 billion euro - total ERDF / CF allocations to RES for  2007–2013
+at least 27 billion euro - estimated minimum ERDF allocations to supporting the shift 
+towards a low-carbon economy, including RES, for 2014–2020. Further allocations 
+could also be made from the Cohesion Fund (footnote 14)
+
+Shared management
+9.	In the framework of Cohesion policy the Member States draft the individual 
+operational programmes, set up and operate their management and control 
+systems and issue annual implementation reports to the Commission. 
+Moreover, as part of the day-to-day management, national or regional bodies 
+select the projects and are responsible for their implementation and evaluation. 
+10.	Managing authorities, intermediate bodies and certifying authorities are in 
+charge of managing the implementation of the operational programmes . 
+Project funding is subject to rules and conditions laid down partly at EU  and 
+partly at Member State level (project selection; project cost, benefit and 
+earnings assessments; and also economic, social and environmental impact 
+assessments are responsibilities of the Member States’ authorities).
+11.	The Commission issues guidelines for drawing up operational programmes, 
+approves the operational programmes and supervises the setting up and the 
+operation of systems in the Member States. In particular, it monitors the 
+implementation of the operational programmes essentially through the 
+implementation reports received and through participation in monitoring 
+committees. In addition to annual implementation reports, the Commission may 
+request specific programme information and ‘project selection’ data from the 
+managing authorities.
+AUDIT SCOPE AND APPROACH
+12.	The audit sought to answer the question whether the ERDF and CF projects 
+investing in renewable energy generation had achieved good results. In this 
+regard, multiple audit criteria were developed (see Annex IV) which were 
+based on different sources and studies, including such by the Commission’s 
+services. The Court examined whether the audited projects were implemented 
+and delivered outputs as planned and whether they attained their energy 
+generation targets. The audit analysed in particular whether the funds in the 
+operational programmes in the 2007-2013 programming period had been 
+allocated to well prioritised, cost-effective and mature renewable energy 
+generation projects with rational objectives and the extent of the projects’ 
+contribution in achieving the 2020 RES target. 
+13.	The audit results were derived from an examination of 24 completed 
+renewable energy generation projects from nine Operational Programmes 
+financed through the ERDF or the CF in Austria, Finland, Malta, Poland and the 
+United Kingdom . The projects were in the biomass, photovoltaic (PV), solar 
+thermal and wind energy sectors . Annex III presents a list of the audited RES 
+projects.
+OBSERVATIONS
+Audited projects delivering outputs as planned …
+The overall picture is one of well-planned projects delivering according to 
+plan
+14.	The audited RES projects were sufficiently mature and ready for 
+implementation when selected. In spite of relatively long preparatory phases in 
+some of the biomass and wind energy projects critical permits, licences and 
+technical plans had usually been obtained prior to project approval. Where 
+applicable, it was also ensured that the installations were connected to the 
+transmission or distribution networks or that contracts were concluded with a 
+sufficient number of consumers .
+15.	There have been no significant cost overruns or time delays in the projects. 
+Overall, the audited RES projects were implemented within the planned time 
+schedules or with only relatively small time slippages (implementation was 
+delayed by more than 6 months only in two projects of which one was due to 
+repair downtime of a small combined heat and power plant). No significant cost 
+overruns occurred during implementation. Box 2 shows examples of audited 
+RES projects.
+ 
+Picture 1 - Interior view of the biomass power plant in Bruck an der Mur, Austria 
+(project installed and operational as planned)
+Source: European Court of Auditors.
+16.	With the exception of one biomass facility , the RES generation capacities 
+were installed and operational as planned. No major risks to their technical 
+sustainability were apparent. Few deviations from initial planning and approved 
+project proposals were found. The projects’ installed energy generation 
+capacities were generally in line with the co-financing decisions. The facilities 
+have been in operation without major technical or other problems since their 
+commissioning. Only a few generation units from the audited projects were not 
+in operation mode. Operators had in place sufficient expertise and resources to 
+ensure a smooth running and regular maintenance of their installations. 
+
+ 
+Picture 2 - Wood chips in a storage hopper in the biomass power plant in Bruck an der 
+Mur, Austria
+Source: European Court of Auditors.
+Box 2 – Examples of audited RES projects co-financed by the cohesion policy 
+funds – outputs
+For more details concerning project outputs see Annex III.
+Biomass
+Three audited biomass heating plants (capacity from 3 MW to 8 MW) with district 
+heating network lines (of 0,6 to 11 km) were constructed in Austria. The plants 
+supplied heat and hot water for a total 266 consumers (private individuals or industrial 
+companies).
+Three audited projects in Finland related to the construction of new biomass-pellet or 
+wood chips boilers (capacity from 0,8 MW to 2,5 MW). They replaced old fossil fuel 
+(heavy oil) boilers. Two of these projects included also construction of the required 
+district heating network (0,6 and 3 km).
+Wind power
+Five wind farms with power capacities ranging from 3,2 to 38 MW were constructed in 
+Poland. The facilities include all necessary infrastructures (high/medium voltage 
+substations, connections to electricity grid and service roads).
+Solar power (PV and solar collectors)
+Two projects installed PV electricity systems with associated hardware and monitoring 
+systems on public buildings in Malta. One project was complemented by a small wind 
+turbine.
+Five similar projects in Poland installed individual sets of flat plate solar collectors for 
+households and public buildings in five municipalities to supply residents with hot 
+water. In total, over 3 000 public and private beneficiaries installed solar collectors. 
+One project included street lighting and PV.
+
+… but encountering some difficulties in implementation
+There is scope for further improvement at all project stages - from 
+procurement through operations to monitoring and evaluation
+17.	Difficulties with RES electricity integration into the grid have hampered 
+exploitation of RES. Throughout the EU the development of the grid has been 
+identified as one of the key barriers to the large-scale integration of RES 
+electricity into the transmission and distribution grids . Accordingly, the Union 
+and its Member States need to invest in both national networks and cross-
+border links as part of building the internal energy market. The owners of the 
+projects audited emphasised that spare capacity in the grids was insufficient , 
+the grids have to be expanded and modernised and greater transparency about 
+the distribution of costs among the grid operators, government and project 
+promoters could improve system-wide efficiency. While only few of the audited 
+projects encountered grid connection problems, the deployment of RES 
+generation is, nonetheless, not accompanied by improved grids in the Member 
+States. Technical and cost issues were frequently cited by national authorities 
+and RES operators as impediments to an effective RES integration to the grids. 
+Box 3 illustrates problems in connection with RES electricity in the grids.
+ 
+Picture 3 - Windfarm in Golice, Poland
+Source: European Court of Auditors.
+
+Box 3 - Access to the grid of RES electricity in Poland, integration of electricity 
+from photovoltaic  into the grid in Malta
+The poor state and lack of spare capacity of the transmission and distribution grids 
+have been key barriers to the further integration of electricity from PV and wind energy 
+in Poland. Apart from the need for expansion and modernisation of grid infrastructure, 
+complications with obtaining the necessary permits for grid connection (legal and 
+technical problems as well as grid connection fees) hampered RES development . In 
+the audited wind energy projects, the lead times to construction of the facilities, 
+including for the required grid connection permits, have been 4 to 5 years.
+Clear guidelines about planning permission and permits, where required, were 
+available concerning solar and PV installations in Malta. However, in 2010 and 2011 
+when multiple EU co-funded projects were commissioned these frequently 
+encountered difficulties with feeding-in of their generated electricity - usually the 
+electricity in excess of producers’ own consumption. Since meters had not been 
+installed by the grid operator the producers were not compensated for their electricity 
+by the feed-in tariff for periods of up to 4 months.
+18.	The Commission in its analysis of Member States’ 2011 renewable energy 
+progress reports indicated that progress removing the administrative barriers 
+was still slow, with complex and discouraging authorisation and permitting 
+procedures . There is potential for improvements in the Member States where 
+the audit took place. The audit found, for example, that Malta had embarked on 
+RES development only during the 2007-2013 period whereby a market for RES 
+has not yet developed to maturity. An effective administrative system has not 
+developed in full yet. Moreover, in Poland and in the United Kingdom national 
+or regional harmonised approaches to coordinate the work of the authorities 
+were partially lacking. Notably measuring and reporting of projects’ energy 
+results were poor and hence data was not used for comparing projects and 
+different RES sectors as a useful information in designing future measures.
+19.	However, a good practice example was found in Austria. A quality 
+management tool for biomass heating plants assured proper monitoring 
+arrangements in this Member State (‘QM Heizwerke’, see Box 4).
+Box 4 - Project monitoring in Austria
+All biomass district heating plants larger than 400 kW and/or feeding a heating network 
+larger than 1 km are obliged to carry out an accompanying quality management. 
+Coordination of the funding process and the management of the necessary planning 
+and operating data is facilitated through a database which provides a standard 
+platform for project beneficiaries, as well as technical and economic data for quality 
+managers and an IT platform for monitoring and optimisation of the operations. 
+Introduced in 2006, ‘QM Heizwerke’ contains data from over 100 biomass plants.
+Web link: www.qm-heizwerke.at
+
+ 
+Picture 4 - Auditors visiting biomass power plant in Weissenbach an der Triesting, 
+Austria
+Source: European Court of Auditors.
+20.	The procurement processes did not ensure full transparency, fairness or 
+efficiency in contractors’ selection:
+-	The tenders had to be cancelled in two audited PV projects in Malta 
+because all bids had been technically or administratively non-compliant. 
+This was due to either unnecessarily high technical requirements or overly 
+complex procedures and requirements. In both cases some delay occurred 
+and competition among bidders was hampered.
+-	In two projects in Poland, the wind turbine models were specified 
+unnecessarily in construction plans or construction permits. This prevented 
+tender specifications which could ensure competitive procurement and best 
+price/quality ratios. In another project, likewise, a specific solar collector 
+type had been pre-determined. In each of those tenders only one bid of 
+those submitted met the technical specifications.
+-	Implementing bodies and project beneficiaries lacked sufficient expertise 
+on RES technologies, their markets and procurement frameworks. Multiple 
+RES equipment and installation works have been of a similar, sometimes 
+identical, nature and small in size, especially the operations under grant 
+schemes. Therefore, conditions were there for a coordinated procurement 
+managed by a specialised unit of experts at national/regional level to obtain 
+better price/quality ratios, economies of scale and also shorter 
+procurement periods. Examples are roof top water heating systems, PV 
+panels and small biomass in Malta and Poland. There were temporary 
+suspensions of projects in Malta, partly, as a result of non-efficient 
+organisation of procurement.  
+ 
+Picture 5 - Biomass power plant in Flachau, Austria
+Source: European Court of Auditors.
+21.	The preparation of the RES projects has been insufficient for effective 
+monitoring and evaluation. The objectives and performance indicators set in all 
+operational programmes audited were imprecise and not based on reliable 
+baseline data. Thus, the projects in the same or different RES sectors could not 
+be compared; nor could the contribution of the EU funds to the EU and national 
+RES targets be verified by the competent authorities (see also paragraph 30). 
+… and results not properly measured or projects not attaining their 
+energy generation targets in the majority of cases
+RES data collection and reporting can be improved 
+22.	No accurate, validated data about actual RES project results is available in 
+the Member States. The RES sector was characterised by enormous volatility 
+in terms of the costs of the technologies (most technologies saw massive price 
+reductions) and increasing energy prices. It is important to analyse up-to-date 
+information about RES technology costs in order to establish which 
+technologies render the most favourable yields in the specific local 
+circumstances and the appropriate levels of support. 
+23.	However, while data is available about the projects’ installed generation 
+capacities, no or non-reliable data was available on the actual generated 
+energy in 11 out of 24 audited projects. Actual measurement and reporting not 
+having been conditions for public co-financing, project final reports provided 
+only estimated, non-measured results - usually based on technical parameters 
+of the RES technologies as supplied by the manufacturers and the specific 
+local situations. Multiple RES producers did not measure their energy yields. 
+Thus, in 11 of 24 audited projects (five in Poland - solar projects in the Lublin 
+region, four in Malta and two in the United Kingdom) the energy results were 
+not based on measured / validated data but on assumed values taken from 
+literature or professional estimates made by engineers.
+Project results not always achieved
+24.	Of 13 out of the 24 audited projects, in which energy generation results 
+were actually measured, the targets were attained in only 5 projects, and 
+almost attained in 3 further projects. The remaining projects did not reach or 
+only partly reached their production targets. While in several cases this was 
+due to insufficiently precise forecasts some projects had also encountered 
+technical problems in their initial stages. Table 1 compares the RES projects’ 
+planned with actual energy generation.
+Table 1 - Comparison of average planned and actual energy generation in 
+audited RES projects with measured energy generation results,  
+2009-2012, in %
+  
+Source: Court’s own calculations based on ‘QM Heizwerke’ database (Austria), information about average 
+investment costs of similar projects (Finland and Poland); project financing agreements, information about 
+project results calculated by beneficiaries.
+25.	In summary, the evaluation of the 24 audited projects’ cost-effectiveness, 
+implementation and achievement of objectives has resulted in a mixed bag of 
+good, satisfactory and poor projects, as is laid out in Annex IV. Box 5 indicates 
+reasons for weak performance in some RES projects.
+Box 5 – Reasons for weak project performance
+In Austria, actual energy generation was in line with or above forecasts in those project 
+stages which were directly supported by ERDF funds. However, in two projects which 
+were later extended by additional heat capacity and networks serving additional 
+customers the planned targets were not achieved. The main causes were 
+overestimated heat demand or non-consumption of heat, temporarily, by major 
+customers.
+The reasons for a lower than anticipated performance in the Polish wind energy 
+projects were too optimistic wind forecasts and technical problems during the first year 
+of operation.
+In the United Kingdom, moreover, although final data was not available and the 
+audited grant schemes were not completed at the time of the audit, the results of sub-
+projects revealed nonetheless that some of them did not attain their planned energy 
+generation targets - mainly due to high water contents in the biomass materials or 
+lower energy demand than estimated. 
+The principle of cost effectiveness is not fully considered in planning the 
+RES projects
+Cost-effectiveness - an important objective in EU spending
+26.	Cost-effectiveness concerns the ability or potential of an audited entity, 
+activity, programme or operation to achieve certain outcomes at a reasonable 
+cost. Cost-effectiveness analyses are studies of the relationship between 
+project cost and outcomes, expressed as cost per unit of outcome achieved . 
+27.	Optimal (or cost-effective) RES energy generation is important for economic 
+performance. Cohesion policy funds constitute a significant part of support for 
+RES activities and could be an important driver of both RES policy as well as 
+regional economic development. 
+  
+Picture 6 - Windmill (outside and interior views of a wind turbine in Poland)
+Source: European Court of Auditors.
+There is scope for an emphasis on cost-effectiveness at an early stage 
+28.	In connection with the preparation of the operational programmes, the 
+national authorities did not conduct proper needs assessments to identify which 
+technologies could contribute to attaining the RES targets in the most cost-
+effective way and how they could be complemented by other financial 
+instruments or national support schemes. As a result, the operational 
+programmes did not contain explanations how the EU funds could contribute 
+cost-effectively to attaining the RES objectives. 
+29.	Moreover, the Commission and the national authorities did not plan the 
+Cohesion policy (or national) funds’ contributions in attaining the RES targets. 
+From the audited operational programmes, those in Austria and in Finland did 
+not lay out the planned and actual RES energy generated from the ERDF and 
+CF supported measures. The installed capacity from RES in the five audited 
+countries to meet the RES target in 2020 is 95 304 MW (see Table 2). The 
+implementation reports submitted by the managing authorities to the 
+Commission reveal that, by 2012, 4 464 MW or 4,7 % of the required capacity 
+as per the 2020 target (or 8,1 % in relation to the 2013 trajectory target in the 
+audited Member States) was contributed through the Cohesion policy projects 
+in these countries. The Cohesion policy funds’ use for RES has been variable 
+among the Member States. As can also be seen from Table 2, for multiple 
+Member States no adequate data is available for comparing the achievement of 
+the Cohesion policy projects in relation to the RES targets. This lack of data 
+inhibits establishing baseline economic and energy data in different RES 
+sectors and for different RES technologies.
+Table 2 - 2007-2013 Cohesion policy funds for RES and their impact on 
+achievement of RES 2020 targets in the Member States
+
+OP
+ERDF and CF 
+funds 
+allocated to  
+RES (EUR)1
+Additional RES capacity 
+as a result of ERDF and 
+CF investments 
+(MW)
+Required additional RES 
+capacity to meet the RES 
+2020 target
+(MW)
+ERDF/CF contribution of total 
+RES capacity to meet the 
+RES 2020 target (in %)
+
+
+Planned
+Reported
+(end 2012)
+by 2013
+by 2020
+
+ (1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7=3:6)
+Austria
+25 037 408
+105
+99
+11 301
+13 179
+0,79
+Belgium
+11 851 495
+No data available
+3 062
+8 255
+Data not reported to the 
+Commission
+
+Bulgaria
+16 710 959
+No data available
+4 232
+5 189
+
+Cyprus
+9 520 000
+No data available
+190
+584
+
+Czech 
+Republic
+397 759 730
+131
+12
+No data available
+
+Germany
+252 995 745
+29
+118
+71 621
+110 934
+0,03
+Denmark
+
+No data available
+6 017
+6 754
+Data not reported to the 
+Commission
+
+Estonia
+
+0
+6
+No data available
+
+Spain
+160 152 052
+No data available
+49 722
+69 844
+
+Finland
+20 682 247
+No data available
+24 690
+33 420
+Data not reported to the 
+Commission
+France
+363 591 135
+1 161 307
+1 833 445
+39 628
+62 167
+Data not confirmed
+Greece
+283 795 789
+156
+106
+6 872
+13 271
+1,18
+Hungary
+349 310 777
+0
+0
+1 109
+1 537
+Data not reported to the 
+Commission
+Ireland
+
+No data available
+3 496
+8 339
+
+Italy
+775 717 953
+5 215
+2 893
+32 524
+43 823
+11,9
+Lithuania
+58 485 290
+0
+173
+1 289
+1 635
+Data not reported to the 
+Commission
+Luxembourg
+1 767 056
+5 000
+11 000
+179
+347
+Data not confirmed
+Latvia
+67 180 000
+77
+21
+1 661
+2 168
+3,55
+Malta
+78 200 000
+No data available
+36
+160
+Data not reported to the 
+Commission
+Netherlands
+19 182 600
+No data available
+6 086
+14 994
+Data not reported to the 
+Commission
+Poland
+825 761 396
+972
+246
+4 444
+10 335
+9,4
+Portugal
+59 857 312
+0
+0
+12 699
+19 200
+Data not reported to the 
+Commission
+Romania
+331 542 611
+200
+275
+9 635
+12 589
+1,58
+Sweden
+52 342 949
+0
+271
+21 744
+23 786
+Data not reported to the 
+Commission
+Slovenia
+54 186 553
+355
+120
+1 258
+1 693
+21
+Slovakia
+90 252 216
+98
+72
+2 144
+2 746
+3,57
+United 
+Kingdom
+159 590 365
+12 000
+4 120
+14 660
+38 210
+31,4
+Croatia
+
+No data available
+
+
+Data not reported to the 
+Commission
+Audited MS
+1 109 271 416
+13 077
+4 464
+55 131
+95 304
+13,72
+In total
+4 665 401 221
+1 185 643
+1 852 975
+318 998
+505 159
+Data not confirmed
+
+1 Allocations/output (EUR/MW) among Member States is not comparable due to different 
+nature of investments (energy generation, RES promotion, networks, pilot projects, etc.).
+Source: National renewable energy action plans (2010), Implementation reports of the 
+operational programmes for 2012.
+30.	The cost-effectiveness of measures in different RES sectors was not 
+examined and did not determine the budgets earmarked to RES under the 
+audited operational programmes while proper needs assessment and mid-term 
+evaluations were lacking:
+-	When operational programmes were designed in 2007 there had been a 
+lack of detailed situation analysis (including needs assessment in different 
+RES sectors in the regions); in particular, the costs per unit of energy 
+capacity installed or the costs of energy generation per unit had not been 
+estimated by national authorities thus neglecting the cost-benefit / cost-
+effectiveness of the measures planned to be financed through public 
+means;
+-	Also, the operational programmes did not take advantage of the results of 
+or lessons learnt from previous RES programmes financed by national or 
+EU resources;
+-	No adequate justification for allocating public funds to RES generation 
+interventions was provided. Fund allocations were, in general, based on 
+rough estimation of the regional potential and fund absorption capacities 
+rather than systematic analysis of the regional situation and comparison 
+between potential alternatives in terms of types of RES or RES 
+technologies;
+-	Although the authorities in Finland and in the United Kingdom inserted 
+some adaptations in their programmes along the way without formal 
+assessments, in general however no mid-term evaluations or similar 
+assessments of the 2007-2013 measures were conducted which could 
+have helped redirect the RES programmes.
+31.	Furthermore, the operational programmes failed to establish performance 
+indicators for proper monitoring and evaluation of cost-effectiveness of RES 
+measures which could also have facilitated assessing the contribution of the 
+EU funds to the committed RES targets (Table 2). While the operational 
+programmes in Austria, Poland and Malta had indicators referring to additional 
+RES capacity, the set of result indicators in Finland did not include indicators 
+for creation of generation capacity, produced energy or reduction/avoidance of 
+CO2 emissions, and in the United Kingdom a result indicator in respect of RES 
+capacity creation was also lacking. This means that, in these cases, the 
+managing authorities and the Commission were not in a position to conduct 
+adequate monitoring and ex-post evaluation of the Cohesion policy funds’ 
+investments in RES .
+ 
+Picture 7 - Transformer station in a wind park in Golice, Poland
+Source: European Court of Auditors.
+
+… and there is also scope for more cost-effective RES generation 
+projects
+32.	Removing inefficiencies in the planning and implementation of RES projects 
+will make a direct contribution to achieving the 2020 EU and national RES 
+targets. But it can also benefit the energy consumers and boost the broader 
+economy as well. 
+33.	The results of the EU-supported projects varied in terms of their cost-
+effectiveness. The investment costs of RES technologies range widely and are 
+site specific. There is no single most cost-effective RES generation technology 
+in the EU. Therefore the audit compared only costs within a particular RES 
+sector in the same Member State. Four audited projects were significantly more 
+expensive than similar projects in the same Member State (biomass and PV 
+projects, see Table 3). The calculated average costs for installed capacity 
+varied from 0,16 million EUR/MW to 1,8 million EUR/ MW in the audited 
+projects. As calculated by the national authorities in one of the Member States 
+where the audit took place, the payback periods varied from 2 to 537 years in 
+the audited projects. Capital-intensive investments with payback periods of 
+more than 100 years will not achieve an economically reasonable break-even 
+point. This indicates that public support was not always allocated to the most 
+cost-effective projects. 
+
+Table 3 - Cost-effectiveness of the audited RES projects
+  
+Source: Court’s own calculations based on project documentation, analyses by the managing 
+authorities1.
+1 Note to FI projects: Average machinery and equipment investment costs of the audited 
+projects. Project 5 includes piping costs on the site, Project 6 auxiliary boiler only. Data not 
+available for projects MT 23 and 24 (PV), PL 16 to 20 (solar energy) as well as UK 9 and 10 
+(biomass).
+34.	Rational energy objectives were only partly set for the RES projects. The 
+projects were in line with national strategic RES objectives. Fuel supply 
+concepts existed where necessary (biomass projects in Austria, Finland and in 
+the United Kingdom). Some projects were preceded by limited studies showing 
+their economic viability and profitability but no analyses were made concerning 
+the best and most cost-effective RES types and best technological solutions. 
+Evaluations of previous similar interventions were not referred and thus no 
+‘lessons learnt’ were used in preparing the audited RES projects.
+35.	Only about half of the audited projects (13 of 24) had data through which 
+the achievement of the indicators in terms of actually achieved energy 
+generation could be verified (Table 1 and Annex III), see also paragraph 24. 
+Furthermore, frequently baseline data about the costs of energy production, the 
+quantities of conventional fuels used by consumers was not available before 
+objective-setting and designing the projects (e.g. operational programme of the 
+Lublin region in Poland). Consequently, in such cases, it is not possible to 
+assess whether the funded projects actually generated the expected economic 
+or financial results (e.g. for calculating payback periods).
+36.	The selection procedures did not guarantee cost-effective projects. In 
+general, the project selection criteria, approved by the monitoring committees 
+established for each operational programme, were not enabling the 
+implementing authorities to identify the most cost-effective RES projects. The 
+creation of energy capacity, actual energy generation and the relevant 
+necessary investments were in many cases not weighted as selection or award 
+criteria. In a few cases, no specific selection criteria in relation to RES 
+generation had been developed but instead selection criteria universally 
+applicable to multiple sectors covered by the operational programme were 
+used . 
+37.	There has been insufficient competition among project applications in some 
+cases. Where the projects were identified through calls for proposals maximum 
+cost-effectiveness of applications (payback period, investment to energy 
+generation ratio) was not considered. Whereas usually project applications had 
+to fulfil minimum criteria, the processes could not prevent subsidising relatively 
+low quality projects in terms of their energy generation results. A determined 
+minimum investment size risked that applications for smaller projects - possibly 
+having better economic parameters - were discarded.
+38.	On the other hand, Austria, the United Kingdom and to some extent Finland 
+had technical and economic criteria in the financing rules geared towards 
+preventing wasteful biomass projects to be selected. There was therefore less 
+risk of selecting non-effective applications. Also, project profitability was taken 
+into account whereby more profitable projects received less subsidies (Box 6). 
+Such adaptation of the level of project co-financing was not ensured by the 
+competent authorities in the other Member States where the audit took place. 
+Box 6 – Project selection – cases in Austria, Finland and the United Kingdom
+In Austria,  when applying for co-funding certain technical and economic criteria have 
+to be met (heat density per running meter of the district heating pipe, district heating 
+and boiler’s efficiency). As a result, there is much less risk that non-effective projects 
+are supported.
+In Finland, the eligibility criteria and possibility to have consultation with energy 
+consultant/advisor intend to eliminate non-commercially viable projects: the project 
+applicants were required to provide information about the payback-period of the 
+applied project, which should not be less than 3 years (commercially profitable) nor 
+longer than 12 years (uneconomic), without the public aid.
+In the United Kingdom, the proposed project costs were compared with target costs 
+based on past similar biomass projects.
+39.	The EU co-financing rates varied between 2 % and 85 % in the operational 
+programmes, without this being justified in the relevant documents. The co-
+financing principle holds that part of the investment costs of a project is borne 
+by the final recipient of a public grant whereby the revenue or profitability in the 
+project are to be taken into account. The purpose of the grant should, 
+furthermore, be to support an action which could not otherwise take off due to a 
+financing gap or a lack of an economic incentive. There is an opportunity cost; 
+high co-financing rates reduced the size or number of other RES projects which 
+could have been supported through public funds. No links were made between 
+rate of support and profitability or need for incentivising investors to carry out 
+RES generation projects. Non-justified very high co-financing rates (public 
+financial support to an amount higher than necessary for a project to be 
+economically or financially viable) increased the risk of deadweight - i.e. 
+replacing private funds, but also national funds - and reduced the number of 
+supported RES generation projects. Box 7 illustrates cases of high co-
+financing.
+Box 7 – High public co-financing – cases in Poland and Malta
+In Poland, the schemes for small PV and solar were allocated 85 % from EU funds, 
+whereby individual project owners (households) could receive up to 100 % subsidy. 
+Most large wind farms received maximum public support – either close to 70 % of total 
+eligible investment costs or 10 million euro (4 of the 5 audited projects). While the 
+maximum co-financing rates were applied in most cases they were, however, not 
+modulated or justified based on cost-effectiveness considerations in any programming 
+document. Four of five wind power project beneficiaries recognised that they could 
+have implemented the projects without or with reduced grants and intended to use the 
+EU grants for early repayment of loans.
+Malta devoted a large part of available EU funding for supporting RES installations of 
+public institutions thereby not sufficiently leveraging private funding sources. As a rule, 
+the EU financed as much as 85 % of investment costs in those projects. Two large 
+grant schemes, furthermore, for private households and enterprises financed RES 
+installations by 50 % or 60 % respectively.
+40.	Profitability calculations were not made for different RES sectors or 
+technologies. When planning the programmes the co-financing rates did not 
+distinguish between the RES sectors, size and types of investments, other 
+promotion / support regimes in the Member States (feed-in tariffs, premiums), 
+likely profitability of the investments and the type of RES technologies used.
+
+ 
+Picture 8 - Solar collectors mounted on the roof of a family house in Poland
+Source: European Court of Auditors.
+
+Cohesion policy funds having limited EU added value - the RES projects 
+did not make their full contribution to the EU’s energy objectives 
+41.	In only a few cases was  significant EU added value demonstrated. In those 
+projects the ERDF / CF co-financing facilitated the cap-funding, the co-
+financing has been a welcome additional source of investment and thus 
+contributed to the implementation of the projects. For the (larger) wind farms it 
+was also regarded as a quality stamp for third-party financing institutions. It is 
+clear that in countries with low RES penetration, which had few RES 
+programmes and less administrative experience in this sector, the EU funds 
+have had more value added in that they have helped to develop additional 
+economic development, increase the quality of the relevant projects and also, 
+to some extent, through acting as a catalyst and for leveraging other funds. 
+Moreover, there has been an ‘operational value added’ to some extent as the 
+EU projects imposed certain obligations on the implementing bodies through 
+which some learning effects were assured for the organisations involved. 
+Those effects were emphasised notably by organisations in Malta, Poland and 
+the United Kingdom.
+42.	The Court also found that the RES allocations within the operational 
+programmes in Austria and Finland were prone to a risk of replacing national 
+funds. Indeed, in both these countries the ERDF merely complemented existing 
+national / regional funding mechanisms and in Austria the EU support was 
+virtually integrated, without changing anything else, into an existing subsidy 
+scheme for biomass plants. Austria and Finland have a long-lasting tradition of 
+RES (especially in the hydro energy and biomass areas) and it is difficult to 
+assess whether the EU funds contributed to additional value added, particularly 
+in regard to innovation. 
+43.	In 2012, the Commission stressed that Member States and regions need to 
+ensure that funding for RES complements private investment, leveraging it, and 
+not crowding it out . The Court found that some RES projects could have been 
+implemented without public support. It was evident that multiple project 
+applicants could have set up the RES installations without or with smaller public 
+grants thus freeing up money for additional RES measures. However, the grant 
+decisions were nonetheless important in view of bankable project financing: 
+-	The Austrian projects in question were all endorsed after completion of the 
+construction works signalling that the subsidy was not a condition for 
+investment. 
+-	Four of the five audited projects in Finland could have been realised 
+without subsidies (only one project would not have been implemented 
+without support by public funds).  
+-	Several wind energy project owners said they would have carried out their 
+projects without public subsidies as the economic incentive through the 
+wind yields and the ‘green certificates’ had been sufficient. Indeed, multiple 
+existing similar wind farms had been constructed without being subsidised. 
+44.	The RES investments had only a limited effect on building managerial 
+capacities. One of the intended effects of EU added value is improved 
+administrative or managerial capacities in the Member States. Albeit various 
+stakeholders in Malta, Poland and the United Kingdom claimed there had been 
+invaluable learning effects from the EU projects, in general no far-reaching 
+contributions to improving project planning, implementation and operation could 
+be demonstrated. The RES grant schemes and individual projects were 
+generally managed with a focus on regularity issues without addressing value 
+for money requirements. In Austria and Finland, the EU co-financing was 
+merely made part of the national support mechanisms without particular 
+innovation aspects (see as well paragraph 42). The experience gained during 
+the implementation of the projects was not disseminated in these two Member 
+States or neighbouring regions.
+45.	The RES projects were often operating in fragile regulatory environments. 
+Although the EU funds devoted to RES generation were indeed not aimed at 
+reforming regulatory frameworks, they could nevertheless have triggered 
+improvements to those. The RES legal frameworks in many Member States 
+have suffered multiple revisions, including retroactive changes in the subsidy 
+and promotion regimes. Permitting procedures are often complex and 
+discouraging or not applied consistently and, together with market uncertainty 
+and volatility in energy prices, jeopardise investor confidence in the sector.
+46.	There has been variable but overall low use of Cohesion funds for RES in 
+the Member States. Although the EU funds allocated to RES increased from 
+0,6 in the 2000-2006 programming period to 4,7 billion euro in the 2007-13 
+programming period, this represents only 1,7 % of total ERDF and CF 
+spending. In relation to the enormous investment needs in the sector for 
+reaching the EU 2020 RES target the allocation of EU funds by the national 
+and regional authorities was low . The Member States allocated between 0 % 
+(the lowest value) and 10,7 % (the highest value) of total ERDF and CF funds. 
+Even the 10 % allocated by Malta for RES is not significant to reaching its 
+national RES target of 10 % by 2020 when considering that the country had 
+practically no RES in 2007 and attained less than 2 % of RES in final energy 
+consumption by 2012 (see Annex I). Of the Member States covered by the 
+audit, Malta had failed to reach the first mid-term objective and Austria, Finland 
+and Poland had not transposed the RES Directive in national legislation by the 
+end of October 2013 (the deadline was 5 December 2010). 
+47.	The uptake of the funds allocated to RES has been slow. By the end of 
+2012 , the absorption of the available ERDF and CF funds for RES for 2007-
+2013 (only 58 %) has been much lower than the average for the total ERDF 
+and CF funds (88 %) and also lower than for energy efficiency measures 
+(84 %). Although the market failures and barriers are of different nature in this 
+sector the EU co-financed projects in almost all Member States have been 
+managed by the same managing authorities, see Table 4. Relatively high 
+complexity of the RES projects and a lack of administrative capacity to manage 
+investment measures in this sector, clearly, had an impact on the lower ERDF 
+and CF disbursement rates. Thus, overall, the Cohesion funds were of a 
+modest significance for achieving the EU RES target.
+Table 4 - Absorption of Cohesion policy funds for RES projects in the 
+audited Member States (‘selected projects’ as at end of 2012)
+EU Member State
+Total Cohesion Policy 
+funds selected 
+projects (%)
+Cohesion Policy 
+funds selected 
+Energy Efficiency 
+projects (%)
+Cohesion Policy funds 
+selected RES projects 
+(%)
+Austria
+75,6
+287,3
+50,6
+Finland
+90,8
+34,5
+30,6
+Malta
+88,1
+37,9
+43,3
+Poland
+85,4
+112,2
+57,8
+United Kingdom
+84,7
+73,6
+49,9
+Average all Member 
+States
+87,7
+84,5
+58,0
+       Source: DG Regional Policy database SFC 2007.
+CONCLUSIONS AND RECOMMENDATIONS
+48.	Overall, the Court concludes that value for money of Cohesion policy funds 
+support to RES generation projects has been limited in helping achieve the EU 
+RES 2020 target. 
+49.	The audited projects delivered outputs as planned: Most of the audited RES 
+projects were sufficiently mature and ready for implementation when selected, 
+there have been no major cost overruns and time delays in the projects and the 
+RES generation capacities, generally, were installed as planned (paragraphs 
+14 to 16). 
+50.	However, the Court found also that there were weaknesses in 
+implementation: In particular concerning performance indicators, measuring 
+and reporting of project results as well as procurement procedures and 
+outcomes. In general, difficulties of integrating RES electricity into the grids 
+have been identified as a major impediment to the development of RES in the 
+EU (paragraphs 17 to 21).
+51.	Moreover, the energy generation targets were not achieved or the results 
+not properly measured in around two thirds of the audited RES projects. In 
+most of these cases, insufficient or non-measured data about actual generated 
+energy was available. The non-achievement of planned results was mostly due 
+to imprecise forecasts or technical problems. Overall, the project outcomes 
+have been mixed (paragraphs 22 to 25). 
+52.	Furthermore, cost-effectiveness has not been the guiding principle in 
+planning the projects. The underlying operational programmes were designed 
+without prioritisation of the RES sectors and without assessments of the funds’ 
+contributions to the RES objectives. Fund allocations were, in general, based 
+on rough estimation of the regional potential and fund absorption capacities 
+rather than systematic analysis of the regional situation and comparison 
+between potential alternatives in terms of types of RES or RES technologies. 
+The cost-effectiveness of the measures was neglected when they were 
+allocated the budgets. Rational energy objectives and performance indicators 
+for energy generation had not been set well in all projects. The selection criteria 
+and procedures were frequently not conducive to selecting the most cost-
+effective RES projects. Project results were mixed in regard of cost-
+effectiveness whereby in some Member States the high co-financing rates were 
+not justified in the documents in relation to the projects’ profitability (paragraphs 
+26 to 40).
+53.	The audit also found that the Cohesion policy funds for RES had a limited 
+EU added value. There has been a risk of public funding replacement in those 
+Member States which simply used the EU funds to complement their national 
+grants for RES as well as a risk of deadweight. While the EU co-financing had 
+some ‘operational value added’ the investment projects have not, however, 
+helped build up managerial capacities in a significant way. Overall the use of 
+ERDF and CF for RES has been modest in relation to the need for increased 
+efforts to reach the EU objectives (paragraphs 41 to 47).
+54.	The Court emphasises the need for improvements if Cohesion policy 
+funding is to make the maximum possible contribution to achieving the energy 
+targets . Furthermore, Cohesion policy spending, in general, brings benefits to 
+the broader economy, including economic growth and job creation which are 
+overarching aims of Cohesion policy. In view of a likely enhanced use of EU 
+funds for promoting RES in the 2014–2020 programming period, the Court 
+makes the following recommendations:
+
+Recommendation 1
+The Commission, through guidance setting for programme and project 
+preparation and selection as well as through conditions for making funding 
+available for RES generation investments, should:
+*	ensure that future Cohesion policy co-funded RES programmes are guided 
+by the principle of cost-effectiveness, including EU funding support to cost-
+effective programmes that would not otherwise take place, so as to avoid 
+deadweight. Programmes must be based on proper needs assessment, 
+prioritisation of the most cost-effective technologies (while not 
+discriminating between RES sectors) and optimal contribution to the EU 
+2020 target. Adequate RES generation objectives in relation to the budget 
+as well as projects selection criteria with a focus on the cost-effectiveness 
+of the energy generation results (avoiding over-compensation of projects) 
+need to be set;
+*	promote the establishment by the Member States of a stable and 
+predictable regulatory framework for RES in general, along with smoother 
+procedures for the integration of electricity from RES into the grid networks.
+
+Recommendation 2
+The Member States should establish and apply, based on Commission 
+guidance, minimum cost-effectiveness criteria which are adapted to the 
+projects’ circumstances. They should also enhance the added value of 
+Cohesion policy funds by improving RES project implementation as well as 
+monitoring and evaluation and by building a stock of measured data about 
+energy generation costs in all relevant RES sectors.
+
+This Report was adopted by Chamber II, headed by Mr Henri GRETHEN, 
+Member of the Court of Auditors, in Luxembourg at its meeting of 9 April 2014.
+
+		For the Court of Auditors
+
+		Vítor Manuel da SILVA CALDEIRA 
+				President
+
+
+
+
+
+Annex I
+Overview of Member States’ progress towards the 2020 RES target
+
+Member State
+2010 
+RES
+share1 
+1st interim 
+target 2
+2012
+ RES 
+share3
+2020
+RES target4
+Belgium
+5,0%
+4,4%
+6,8%
+13%
+Bulgaria
+14,4%
+10,7%
+16,3%
+16%
+Czech Republic
+9,3%
+7,5%
+11,2%
+13%
+Denmark
+22,6%
+19,6%
+26,0%
+30%
+Germany
+10,7%
+8,2%
+12,4%
+18%
+Estonia
+24,7%
+19,4%
+25,2%
+25%
+Ireland
+5,6%
+5,7%
+7,2%
+16%
+Greece
+9,7%
+9,1%
+15,1%
+18%
+Spain
+13,8%
+10,9%
+14,3%
+20%
+France
+12,7%
+12,8%
+13,4%
+23%
+Italy
+10,6%
+7,6%
+13,5%
+17%
+Cyprus
+6,0%
+4,9%
+6,8%
+13%
+Latvia
+32,5%
+34,0%
+35,8%
+40%
+Lithuania
+19,8%
+16,6%
+21,7%
+23%
+Luxembourg
+2,9%
+2,9%
+3,1%
+11%
+Hungary
+8,6%
+6,0%
+9,6%
+13%
+Malta
+0,4%
+2,0%
+1,4%
+10%
+Netherlands
+3,7%
+4,7%
+4,5%
+14%
+Austria
+30,8%
+25,4%
+32,1%
+34%
+Poland
+9,3%
+8,8%
+11,0%
+15%
+Portugal
+24,2%
+22,6%
+24,6%
+31%
+Romania
+23,2%
+19,0%
+22,9%
+24%
+Slovenia
+19,2%
+17,8%
+20,2%
+25%
+Slovakia
+9,0%
+8,2%
+10,4%
+14%
+Finland
+32,4%
+30,4%
+34,3%
+38%
+Sweden
+47,2%
+41,6%
+51,0%
+49%
+United Kingdom
+3,3%
+4,0%
+4,2%
+15%
+EU
+12,5%
+10,7%
+14,1%
+20%
+
+Footnotes:
+Achievement of 2020 RES target according to information provided by the Commission: 
+1 Source: EUROSTAT, 10 March 2014. Actual share of energy from renewable sources (in % of 
+gross final energy consumption) in 2012 (which also provides data for 2010). 
+2 Source: Renewable energy progress report (Report from the Commission to the European 
+Parliament, the Council, the European Economic and Social Committee and the Committee of 
+the Regions, (COM(2013) 175 final, 27.3.2013. First interim target, calculated as the average of 
+2011/2012 shares.
+3 Source: see footnote 1 above.
+4 Source: Directive 2009/28/EC.
+
+
+
+Annex II
+Cohesion policy (ERDF and CF 2007-2013) funds allocation to RES and 
+selected projects 2007-2012
+ 
+1 Rate of selection above 100 % means funds were reallocated from other priorities or measures within 
+the same or from another Operational Programme. 
+Source: DG Regional Policy database SFC2007, 2012 Annual Implementation Reports for selected 
+projects.
+
+
+Annex III
+List of audited RES generation projects
+Project 
+No
+Member 
+State
+Operational 
+programme
+Intervention
+Implementation 
+mode
+Project 
+budget
+(million 
+euro)
+Of which co-financing
+Additional RES 
+capacity installed 
+(planned/actual) 
+MW or kWp/a
+Investments in 
+audited 
+projects
+(million 
+EUR/MW or 
+EUR/kWp/a)
+Average energy 
+generated 
+(planned/
+actual)
+MWh/a
+
+
+
+
+
+
+National
+(million euro)
+ERDF / CF 
+(million euro)
+
+
+
+Project 
+1
+AT
+Lower Austria
+Construction of biomass plant in 
+Weissenbach an der Tristing
+Stand-alone 
+project
+0,745
+0,117
+0,117
+3 / 3 MW
+0,517
+2 440/2 319 
+MWh/a
+Project 
+2
+
+Styria
+Construction of biomass plant  
+and a district heating network in 
+Bruck an der Mur
+Stand-alone 
+project
+5,658
+0,871
+0,882
+8 / 8 MW
+0,488
+18 659 / 12 263 
+MWh/a
+Project 
+3
+
+Salzburg
+Construction of biomass plant  
+and a district heating network in 
+Flachau
+Stand-alone 
+project
+5,667
+0,886
+0,885
+6 / 4 MW
+1,027
+24 009 / 23 026 
+MWh/a
+Project 
+4
+FI
+Länsi-Suomen
+Construction of biomass-pellet 
+boiler replacing three fossil fuel 
+boilers and main pipeline in 
+Lievestuore  
+Stand-alone 
+project
+0,405
+0,017
+0,011
+1 / 1 MW
+0,252
+4 136 / 5 215 
+MWh/a
+Project 
+5
+
+Länsi-Suomen
+Construction of biomass-wood 
+chip boiler replacing fossil fuel 
+boiler and modification of 
+existing district heatingnetwork 
+in Kyyjärvi industrial site 
+Stand-alone 
+project
+0,711
+0,085
+0,056
+1 / 1 MW
+0,415
+2 500 / 2 394 
+MWh/a
+Project 
+6
+
+Länsi-Suomen
+Construction of a new biomass-
+pellet boiler replacing fossil fuel 
+boiler at Tikkakoski site 
+Stand-alone 
+project
+0,388
+0,022
+0,009
+2,5 / 2,5 MW
+0,127
+4 000 / 7 500 
+MWh/a
+Project 
+7
+
+Länsi-Suomen
+Construction of a new biomass-
+pellet boiler replacing fossil fuel 
+boiler and necessary district 
+heating network in a converted 
+storage facility in Kiukainen. 
+Stand-alone 
+project
+0,324
+0,029
+0,02
+1 / 1 MW
+0,270
+2 800 / 4 000 
+MWh/a
+Project 
+8
+
+Länsi-Suomen
+Construction of a new biomass-
+pellet boiler replacing fossil fuel 
+boiler in Eura 
+Stand-alone 
+project
+0,447
+0,054
+0,036
+0,8 / 0,8 MW
+0,3
+1 140 / 1 500 
+MWh/a
+Project 
+9
+UK
+East Wales 
+(Competitiven
+ess) 
+Wood Energy Business Scheme 
+2 (80085)
+Grant scheme
+0,2
+0
+0,07
+6 MW /Not 
+provided
+NA
+2 700 MWh / Not 
+yet available
+Project 
+10
+
+West Wales 
+and the
+Valleys 
+(Convergence
+)
+Wood Energy Business Scheme 
+2 (80028)
+Financing 
+scheme
+1,2
+0
+0,49
+2,6 MW / Not 
+provided
+NA
+5300 MWh/ Not 
+yet available
+Project 
+11
+PL
+Infrastructure 
+and 
+Environment
+Construction of wind farm East 
+Margonin district II
+Stand-alone 
+project
+29,209
+11,81
+5,906
+20 / 20 MW
+1,460
+46 735 / 47 288 
+MWh/a
+Project 
+12
+
+Infrastructure 
+and 
+Environment
+Construction of three wind 
+turbines in Stypolow, Kozuchow 
+municipality
+Stand-alone 
+project
+7,584
+1,85
+4,315
+4,5 / 4,5 MW
+1,685
+14 153 / 10 074 
+MWh/a
+Project
+13
+
+Infrastructure 
+and 
+Environment
+Construction of wind farm 
+Jarogniew-Mo³towo
+Stand-alone 
+project
+30,179
+15,35
+10,0
+20 / 20 MW
+1,562
+59 211 / 47 825 
+MWh/a
+Project 
+14
+
+Infrastructure 
+and 
+Environment
+Construction of wind farm in 
+Golice area
+Stand-alone 
+project
+55,75
+35,41
+10,0
+38 / 38 MW
+1,467
+80 332 / 57 393 
+MWh/a
+Project 
+15
+
+Infrastructure 
+and 
+Environment
+Construction of four wind power 
+stations in the Pluznica 
+Commune
+Stand-alone 
+project
+5,914
+1,51
+3,365
+3,2 / 3,2 MW
+1,848
+8 286 / 7 381 
+MWh/a
+Project 
+16
+
+Lubelskie
+Installation of solar collectors on 
+public and residential buildings 
+in K³oczew Commune
+Stand-alone 
+project
+1,659
+0,24
+1,41
+2,82 / 2,82 MW
+0,528
+1 502  MWh/a / 
+Not provided
+Project 
+17
+
+Lubelskie
+Installation of solar collectors on 
+public and residential buildings 
+in Kraœnik Commune 
+Stand-alone 
+project
+1,096
+0,14
+0,931
+1,55 / 1,55 MW
+0,588
+972 MWh/a / Not 
+provided
+Project 
+18
+
+Lubelskie
+Installation of solar collectors on 
+public and residential buildings 
+in Potok Górny Commune 
+Stand-alone 
+project
+1,866
+0,27
+1,53
+3,46 / 3,61 MW
+0,415
+1 974 MWh/a / 
+Not provided
+Project 
+19
+
+Lubelskie
+Installation of solar collectors on 
+public and residential buildings 
+in Ruda-Huta Commune
+Stand-alone 
+project
+1,188
+0,17
+1,010
+1,89 / 1,89 MW
+0,519
+990 MWh/a / Not 
+provided
+Project 
+20
+
+Lubelskie
+Installation of solar collectors, 
+PV and street lighting in Goraj 
+and Turobin Communes
+Stand-alone 
+project
+1,371
+0,2
+1,165
+0,12 / 0,12 MW
+NA
+Not defined / Not 
+provided
+Project 
+21
+MT
+Investing in 
+Competitivene
+ss for a Better 
+Quality of Life
+Installation of Renewable 
+Energy Sources at Malta 
+College of Arts, Science and 
+Technology
+Stand-alone 
+project
+0,464
+0,07
+0,395
+134/134 KW p/a
+3 464
+235 / 213 
+MWh/a1
+Project 
+22
+
+Investing in 
+Competitivene
+ss for a Better 
+Quality of Life
+Energy-Smart Authority 
+(Housing Authority)
+Stand-alone 
+project
+0,041
+0,006
+0,035
+3,48/3,51 KW p/a
+3 949
+5,23 / 5,28 
+MWh/a1
+Project 
+23
+
+Investing in 
+Competitivene
+ss for a Better 
+Quality of Life
+Promotion of RES in the 
+Domestic Sector
+Grant scheme
+16,932
+2,76
+14,392
+9 216 KW p/a
+NA
+9 015 / 13 824 
+MWh/a1
+Project 
+24
+
+Investing in 
+Competitivene
+ss for a Better 
+Quality of Life
+ERDF Energy Grant Scheme for 
+Enterprises
+Grant scheme
+18,404
+2,76
+15,643
+6 023 KW p/a
+NA
+5 000 MWh/a / 
+Not provided
+1 Note: Actual results are not based on measured data.
+
+
+Annex IV
+Summary evaluation of RES project results
+N.B. For reasons of comparability, in this annex some projects are divided in sub-projects so that the total is 27.
+ 
+  
+
+
+
+ 
+ 
+ 
+ 
+
+ 	ISSAI 3000: Standards and guidelines for performance auditing based on 
+INTOSAI's Auditing Standards and practical experience.
+ 	The audit results were derived from an examination of 24 completed renewable 
+energy generation projects from nine Operational Programmes financed through 
+the ERDF or the CF in Malta, Austria, Poland, Finland and the United Kingdom. 
+The projects were in the biomass, photovoltaic, solar thermal and wind energy 
+sectors.
+ 	COM(2010) 639 final of 10 November 2010 ‘Energy 2020: A strategy for 
+competitive, sustainable and secure energy’.
+ 	COM(2006) 848 final of 10 January 2007 ‘Renewable Energy Roadmap - 
+Renewable energies in the 21st century: building a more sustainable future’. 
+ 	Directive 2009/28/EC of the European Parliament and of the Council of 23 April 
+2009 on the promotion of the use of energy from renewable sources and 
+amending and subsequently repealing Directives 2001/77/EC and 2003/30/EC 
+(‘RES Directive’) (OJ L 140, 5.6.2009, p. 16).
+ 	Preamble (9) and (41) to the RES Directive.
+ 	Article 23(8)(c) of the RES Directive.
+ 	Article 18(1)(h) of Commission Delegated Regulation (EU) No 1268/2012 of 29 
+October 2012 on the rules of application of Regulation (EU, Euratom) 
+No 966/2012 of the European Parliament and the Council on the financial rules 
+applicable to the general budget of the Union (OJ L 362, 31.12.2012, p. 1).
+ 	European Parliament Resolution of 21 May 2013: Current challenges and 
+opportunities for renewable energy in the European internal energy market 
+(2012/2259(INI)).
+ 	COM(2013) 175 final of 27 March 2013 ‘Renewable energy progress report’.
+ 	COM(2013) 169 final of 27 March 2013 ‘Green Paper ‘A 2030 framework for 
+climate and energy policies’. COM(2014) 15 final of 22 January 2014 'A policy 
+framework for climate and energy in the period from 2020 to 2030'.
+ 	See, for instance, COM(2012) 271 final of 6 June 2012 ‘Renewable Energy: a 
+major player in the European energy market’, and its 2010 and 2012 biannual 
+progress reports, COM(2011) 31 final of 31 January 2011 and COM(2013) 175 
+final of 27 March 2013. See also reports by European RES industry associations 
+(European Renewable Energy Council (EREC) and its member organisations), 
+particularly ‘Analysis of deviation and barriers, 2013 report’, by EREC, 
+www.keepontrack.eu/publications.
+ 	Other EU programmes promoting RES in the 2007-2013 programming period 
+were: European Energy Programme for Recovery, Intelligent Energy Europe 
+Programme and Framework Programme for Research.
+ 	Regions will have to invest a minimum share of ERDF resources (20 % for more 
+developed regions, 15 % for transition regions and 12 % for less developed 
+regions) in supporting the shift towards a low-carbon economy in all sectors, 
+including investments in renewable energy (Article 4(1) of Regulation (EU) 
+No 1301/2013 of the European Parliament and of the Council of 17 December 
+2013 on the European Regional Development Fund and on specific provisions 
+concerning the Investment for growth and jobs goal and repealing Regulation 
+(EC) No 1080/2006 (OJ L 347, 20.12.2013, p. 289)).
+ 	A summary of the rules for the application of the European Regional Development 
+Fund, the European Social Fund and the Cohesion Fund 2007-2013, including on 
+management and control systems, is available on: 
+http://europa.eu/legislation_summaries/regional_policy/management/g24241_en.
+htm
+ 	Council Regulation (EC) No 1083/2006 of 11 July 2006 laying down general 
+provisions on the European Regional Development Fund, the European Social 
+Fund and the Cohesion Fund and repealing Regulation (EC) No 1260/1999 (OJ L 
+210, 31.7.2006, p. 25).
+ 	Based on the allocation of funds to RES in the operational programmes the 
+following were selected: 
+OP I - Investing in Competitiveness for a Better Quality of Life - 
+2007MT161PO001 
+OP Niederösterreich 2007-2013: Ziel Regionale Wettbewerbsfähigkeit & 
+Beschäftigung / EFRE - 2007AT162PO001 
+OP Salzburg 2007-2013: Ziel Regionale Wettbewerbsfähigkeit & Beschäftigung / 
+EFRE - 2007AT162PO006  
+OP Steiermark 2007-2013: Ziel Regionale Wettbewerbsfähigkeit & Beschäftigung 
+/ EFRE - 2007AT162PO007 
+OP Program Operacyjny Infrastruktura i Œrodowisko - 2007PL161PO002  
+OP Regionalny Program Operacyjny Województwa Lubelskiego - 
+2007PL161PO007 
+OP Alueellinen Kilpailukyky-ja työllisyystavoite; Länsi-Suomen EAKR-
+Toimenpideohjelma 2007-2013 - CCI2007FI162PO003 
+OP West Wales and the Valleys ERDF Convergence programme - 
+2007UK161PO002 
+OP East Wales ERDF Regional competitiveness and Employment programme - 
+2007UK162PO012 
+
+ 	Of the 24 audited projects, 9 were for electricity production from full-scale or 
+micro-wind turbines or photovoltaic panels, 15 projects related to heat generation 
+from biomass or hot water production from solar collectors. The size of the 
+projects varied from household-scale single solar panel projects to a wind farm 
+with 16 turbines.
+ 	For instance, the approval of the audited biomass projects in Austria was 
+conditional on a sufficient number of consumers of the produced heat energy.
+ 	One biomass power plant in Austria deviated from original plan in that it utilised 
+EU funds for heat network extension instead of installing a second boiler as per 
+original plan. This deviation was in anticipation of an extension of heating capacity 
+to serve additional heat consumers and is therefore not a shortcoming from a 
+sound financial management point of view.
+ 	COM(2013) 175 final.
+ 	See also Directive 2005/89/EC of the European Parliament and of the Council of 
+18 January 2006 concerning measures to safeguard security of electricity supply 
+and infrastructure investment (OJ L 33, 4.2.2006, p. 22). Article 3(2)(f) stipulates 
+that Member States in implementing measures aimed at safeguarding security of 
+electricity supply shall take account of the need to ensure sufficient transmission 
+and generation reserve capacity for stable operation.
+ 	Integration of electricity from renewables to the electricity grid and to the electricity 
+market – RES-Integration. National report: Poland. Eclareon, Oeko-Institut e.V., 
+20.12.2011.
+ 	SWD(2013) 102 final of 27 March 2013 ‘Renewable energy progress report’.
+ 	ISSAI 3000: Standards and guidelines for performance auditing based on 
+INTOSAI's Auditing Standards and practical experience.
+ 	The annual implementation reports by Finland and the United Kingdom did not 
+provide explanations about actual results and their measurement and no 
+assessment of the barriers, the potential and the needs in the different RES 
+sectors in the regions covered by the audited OPs had been conducted.
+ 	For instance: 
+?	the selection of RES projects under the operational programme ‘Infrastructure and 
+Environment’ in Poland was based on the same criteria applied in different sectors, 
+i.e. for non-comparable types of RES projects;
+?	in Finland, the project applications were not prioritised and only estimated payback 
+periods were used as cost-effectiveness and eligibility criteria; 
+?	in Malta, the selection criteria applied to multiple sectors covered by the 
+operational programme but not specifically to the RES sector. Though one criterion 
+provided scores in relation to the projects’ ‘contribution towards indicators beyond 
+minimum required’, the selection criteria did not include any cost-effectiveness or 
+cost-benefit criteria for RES generation;
+?	in Austria, a maximum cost-effectiveness of applications (payback period, 
+investment to energy generation ratio) was not considered in the audited 
+operational programmes.
+ 	COM(2012) 663 final of 15 November 2012 ‘Making the internal energy market 
+work’.
+ 	SEC(2011) 131 final of 31 January 2011. 
+ 	The amounts allocated by the managing authorities to selected projects. The last 
+available data is from the end of 2012.
+ 	Within this policy area, the Court published a report on the energy efficiency 
+measures co-financed by the ERDF and the CF (Special Report No 21/2012 
+‘Cost-effectiveness of Cohesion Policy Investments in Energy Efficiency’ 
+(https://eca.europa.eu)). The audit analysed the cost-effectiveness of cohesion 
+policy investments in energy efficiency, with a specific focus on the Commission’s 
+management role in relation to its approval of operational programmes and the 
+monitoring of programme execution in the regions.
